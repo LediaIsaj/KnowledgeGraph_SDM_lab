@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#"
+     xml:base="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles">
+        <rdfs:comment>TBOX definition</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#affiliated -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#affiliated">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Company"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#University"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#cites -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#cites">
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#contains -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#contains">
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#keyword"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#correspondingAuthor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#correspondingAuthor">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#write"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Author"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#description -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#description">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#review"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Author"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#linked -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#linked">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#workshop"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#AcademicConference"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_conference -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_conference">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_proceeding"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#AcademicConference"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_journal -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_journal">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#AcademicJournal"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_proceeding -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_proceeding">
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_workshop -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_workshop">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#published_in_proceeding"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#workshop"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#related_to -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#related_to">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#keyword"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#topic"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#review -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#review">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Reviewer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <owl:propertyDisjointWith rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#write"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#suggestedDecision -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#suggestedDecision">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#review"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Author"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#write -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#write">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Author"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#edition -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#edition">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#nonPositiveInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#key -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#key">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#keyword -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#keyword">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#keyword"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#name">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#series -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#series">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#AcademicJournal"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#title -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#title">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#topic -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#topic">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#topic"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#volume -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#volume">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#AcademicJournal"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#year -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#year">
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#foaf:familyName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#foaf:familyName">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/givenName -->
+
+    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/givenName">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Author -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Author">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Demo_Paper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Demo_Paper">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Full_Paper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Full_Paper">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Reviewer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Reviewer">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Author"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Short_Paper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Short_Paper">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Survey_Paper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#Survey_Paper">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Article"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#keyword -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#keyword"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#topic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#topic"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#workshop -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#workshop">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#AcademicConference -->
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#AcademicConference">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#AcademicJournal -->
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#AcademicJournal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ledia/ontologies/2020/3/research_articles#proceeding"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Article -->
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#Article"/>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Company -->
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#Company">
+        <owl:disjointWith rdf:resource="http://www.w3.org/2002/07/owl#University"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#University -->
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#University"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Person -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
