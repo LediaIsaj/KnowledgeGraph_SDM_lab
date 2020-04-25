@@ -1,0 +1,201 @@
+id;AffiliationType;Name
+1;Company;ICBC
+2;Company;JPMorgan Chase
+3;Company;China Construction Bank
+4;Company;Agricultural Bank of China
+5;Company;Bank of America
+6;Company;Apple
+7;Company;Ping An Insurance Group
+8;Company;Bank of China
+9;Company;Royal Dutch Shell
+10;Company;Wells Fargo
+11;Company;ExxonMobil
+12;Company;AT&T
+13;Company;Samsung Electronics
+14;Company;Citigroup
+15;Company;Toyota Motor
+16;Company;Microsoft
+17;Company;Alphabet
+18;Company;Volkswagen Group
+19;Company;Chevron
+20;Company;Verizon Communications
+21;Company;HSBC Holdings
+22;Company;PetroChina
+23;Company;Allianz
+24;Company;BP
+25;Company;Total
+26;Company;Berkshire Hathaway
+27;Company;China Mobile
+28;Company;Amazon
+29;Company;Walmart
+30;Company;Santander
+31;Company;China Merchants Bank
+32;Company;UnitedHealth Group
+33;Company;Comcast
+34;Company;BNP Paribas
+35;Company;Sinopec
+36;Company;Softbank
+37;Company;Daimler
+38;Company;Johnson & Johnson
+39;Company;Bank of Communications
+40;Company;Gazprom
+41;Company;RBC
+42;Company;Nestlé
+43;Company;Mitsubishi UFJ Financial
+44;Company;Intel
+45;Company;Goldman Sachs Group
+46;Company;TD Bank Group
+47;Company;Sberbank
+48;Company;Morgan Stanley
+49;Company;Boeing
+50;Company;Petrobras
+51;Company;Nippon Telegraph & Tel
+52;Company;Rosneft
+53;Company;Procter & Gamble
+54;Company;Pfizer
+55;Company;Industrial Bank
+56;Company;General Motors
+57;Company;BMW Group
+58;Company;Itaú Unibanco Holding
+59;Company;Alibaba
+60;Company;IBM
+61;Company;Novartis
+62;Company;Postal Savings Bank Of China (PSBC)
+63;Company;Facebook
+64;Company;Siemens
+65;Company;Shanghai Pudong Development
+66;Company;Japan Post Holdings
+67;Company;Sumitomo Mitsui Financial
+68;Company;Banco Bradesco
+69;Company;Anheuser-Busch InBev
+70;Company;Walt Disney
+71;Company;Reliance Industries
+72;Company;CITIC
+73;Company;Sony
+74;Company;Cisco Systems
+75;Company;Tencent Holdings
+76;Company;Honda Motor
+77;Company;Enel
+78;Company;United Technologies
+79;Company;Commonwealth Bank
+80;Company;China State Construction Engineering
+81;Company;DowDuPont
+82;Company;Equinor
+83;Company;American Express
+84;Company;MetLife
+85;Company;AXA Group
+86;Company;PepsiCo
+87;Company;Bank of Nova Scotia
+88;Company;Roche Holding
+89;Company;ING Group
+90;Company;Lloyds Banking Group
+91;Company;Eni
+92;Company;Oracle
+93;Company;China Citic Bank
+94;Company;China Evergrande Group
+95;Company;UBS
+96;Company;AIRBUS
+97;Company;LukOil
+98;Company;Prudential Financial
+99;Company;BASF
+100;Company;SAIC Motor
+101;University;Massachusetts Institute of Technology
+102;University;Harvard University
+103;University;Stanford University
+104;University;University of California Berkeley
+105;University;Purdue University
+106;University;Cornell University
+107;University;University of Washington
+108;University;Columbia University in the City of New York
+109;University;University of Michigan
+110;University;Penn State University
+111;University;University of Minnesota
+112;University;University of Wisconsin-Madison
+113;University;University of California Los Angeles
+114;University;New York University
+115;University;University of Pennsylvania
+116;University;University of Toronto
+117;University;Yale University
+118;University;The University of Texas at Austin
+119;University;University of Oxford
+120;University;Princeton University
+121;University;Carnegie Mellon University
+122;University;University of Southern California
+123;University;The University of British Columbia
+124;University;University of California Irvine
+125;University;University of Colorado Boulder
+126;University;University of Illinois at Urbana-Champaign
+127;University;University of Cambridge
+128;University;Arizona State University
+129;University;University of Chicago
+130;University;Johns Hopkins University
+131;University;University of California San Diego
+132;University;Michigan State University
+133;University;The University of Arizona
+134;University;University of Florida
+135;University;Rutgers The State University of New Jersey
+136;University;Northwestern University
+137;University;Shanghai Jiao Tong University
+138;University;Texas A&M University
+139;University;Duke University
+140;University;Fudan University
+141;University;Boston University
+142;University;University of California Davis
+143;University;The University of Utah
+144;University;University of North Carolina at Chapel Hill
+145;University;University of Maryland
+146;University;The University of Edinburgh
+147;University;Universidad Nacional Autónoma de México
+148;University;The Ohio State University
+149;University;University of Waterloo
+150;University;Universidade de São Paulo
+151;University;McGill University
+152;University;North Carolina State University
+153;University;Georgia Institute of Technology
+154;University;University of Virginia
+155;University;Guangxi University
+156;University;Eidgenössische Technische Hochschule Zürich
+157;University;University College London
+158;University;University of Pittsburgh
+159;University;King Saud University
+160;University;Simon Fraser University
+161;University;Washington University in St. Louis
+162;University;Virginia Polytechnic Institute and State University
+163;University;Florida State University
+164;University;Indiana University Bloomington
+165;University;Iowa State University of Science and Technology
+166;University;University of California Santa Barbara
+167;University;University of Massachusetts Amherst
+168;University;The University of New South Wales
+169;University;National University of Singapore
+170;University;Oregon State University
+171;University;University of Alberta
+172;University;University of Houston
+173;University;George Mason University
+174;University;Tsinghua University
+175;University;Georgetown University
+176;University;Colorado State University
+177;University;California Institute of Technology
+178;University;Brigham Young University
+179;University;Georgia State University
+180;University;University of Nebraska-Lincoln
+181;University;University of South Florida
+182;University;Brown University
+183;University;University of Georgia
+184;University;The University of Sydney
+185;University;Tufts University
+186;University;University of Tehran
+187;University;University of Iowa
+188;University;University of Delaware
+189;University;The University of Melbourne
+190;University;University of Oregon
+191;University;George Washington University
+192;University;The University of Tokyo
+193;University;The University of Manchester
+194;University;Universitat de Barcelona
+195;University;Peking University
+196;University;Dartmouth College
+197;University;Washington State University
+198;University;University of Rochester
+199;University;University of Notre Dame
+200;University;University of Calgary

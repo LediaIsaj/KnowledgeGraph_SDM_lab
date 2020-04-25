@@ -1,0 +1,51 @@
+id;name
+0;data management
+1;indexing
+2;data modeling
+3;big data
+4;data processing
+5;data storage
+6;data querying
+7;bioinformatics
+8;biotech
+9;nature biotechnology
+10;genetic engineering
+11;genetic modification
+12;natural language processing
+13;computer vision
+14;supervised learning
+15;unsupervised learning
+16;reinforcement learning
+17;neural network
+18;cloud technology
+19;visualization
+20;network
+21;adaptive and personalized interfaces
+22;cloud computing
+23;graphical user interface
+24;information visualization
+25;interaction design
+26;antivirus
+27;security
+28;cybersecurity
+29;malware
+30;ciphertext
+31;cryptographic key
+32;hash
+33;salting
+34;end-to-end encryption
+35;quantum-information-theory
+36;quantum physics
+37;quantum computing
+38;quantum algorithm
+39;sequential search
+40;binary search
+41;jump search
+42;divide and conquer
+43;3D modeling
+44;animation
+45;computational geometry
+46;computational modeling
+47;SaaS
+48;PaaS
+49;IaaS

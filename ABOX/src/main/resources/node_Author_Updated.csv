@@ -1,0 +1,5001 @@
+id;author;aff_id
+7213703;Carmen Heine;118
+7213704;Gerd Hoff;49
+7213705;Margo I. Seltzer;41
+7213706;Steffen Rothkugel;126
+7213707;Ann L. Chervenak;42
+7213708;Michael Schiwietz;125
+7213709;Baltasar Beferull-Lozano;123
+7213710;Michael H. Böhlen;187
+7213711;Stuart M. Charters;67
+7213712;Brian Wyvill;22
+7213713;Saeed Parsa;127
+7213714;Anson Hong Tak Tse;55
+7213715;Eng Soon Ang;164
+7213716;Qingde Li;156
+7213717;Christopher Mark Brown;182
+7213718;Ricky Jay Vinter;197
+7213719;Dong Walter Xie;77
+7213720;Jian Ren 0004;155
+7213721;Simon Langley;111
+7213722;Moira C. Norrie;59
+7213723;Kim Chwee Ng;65
+7213724;M. F. Richardson;188
+7213725;Xinsheng Zhang;44
+7213726;J. M. Officer;71
+7213727;Cheuk Yin Yau;72
+7213728;Paul E. Dunne;129
+7213729;Neil Madden;97
+7213730;Shanu Sushmita;48
+7213731;Timothy James Proctor;70
+7213732;Alex Karel Obruca;166
+7213733;Pui Shan Chan;140
+7213734;S. C. Lynch;1
+7213735;Rodrigo Agerri;32
+7213736;John Oluwagbemiga Oyekan;153
+7213737;Anthony Joseph Beaumont;195
+7213738;Abraheem Alsaeed;7
+7213739;Zhuopeng Zhang;58
+7213740;Andrew Phillips;181
+7213741;Nardine Zoulfikar Osman;158
+7213742;Amer Abdaladeem Dheedan;65
+7213743;Hui Guan;45
+7213744;A. D. Clark;82
+7213745;Karin Veronica Sundstedt;23
+7213746;João Rafael Landeiro de Sousa Gonçalves;67
+7213747;Wolfgang Schmidle;147
+7213748;Mohammed Salifu;195
+7213749;Katherine Dempsey;173
+7213750;Vyacheslav Chesnokov;4
+7213751;Alex Blewitt;194
+7213752;Abdalah Al-Shawi;1
+7213753;Andrew Jones 0004;9
+7213754;A. J. Tollyfield;38
+7213755;George Xirogiannis;183
+7213756;María Auxiliadora Franco Gaviria;45
+7213757;Adnan Albazi;42
+7213758;Xiaodong Liu;73
+7213759;Martin Friedrich Berger;18
+7213760;Chris Ryder;7
+7213761;Jamie Paul Twycross;17
+7213762;Liam Boodhoo;196
+7213763;Resheed Almotaeryi;194
+7213764;Ashley T. Howes;181
+7213765;Adriana Teresa Olmos Antillon;127
+7213766;Andrea J. Corbett;144
+7213767;Mohammed J. Alhaddad;38
+7213768;Florence Agboma;190
+7213769;Phebe Vayanos;119
+7213770;Jay Bradley;135
+7213771;Javad Esmaeili;139
+7213772;Ponpisut Worrajiran;133
+7213773;Tarek A. El-Mihoub;60
+7213774;Gregory F. Coppola;170
+7213775;Sara Diamond;76
+7213776;Andrew J. C. Spray;159
+7213777;Sebastian Stein 0003;16
+7213778;Chanwit Kaewkasi;175
+7213779;Jens Wissmann;17
+7213780;Stylianos Papaharalabos;35
+7213781;Panus Nattharith;192
+7213782;Thu Trang Doan;34
+7213783;Simon Peter Doolin;188
+7213784;Nishanthan Kamaleson;26
+7213785;Aikaterini Antonopoulou;153
+7213786;Yohko Aoki;165
+7213787;Radmila Juric;56
+7213788;Glenn G. Campbell;34
+7213789;Zhiheng Huang;41
+7213790;Alex Hughes;4
+7213791;Graham R. S. Ritchie;45
+7213792;Marc-Olivier M. P. Baradez;13
+7213793;J. Crespo-Sandoval;189
+7213794;Khaled Alekeish;103
+7213795;Matthew Shardlow;182
+7213796;Veit U. B. Schenk;6
+7213797;Phillip Taylor;101
+7213798;Razvan-Ioan Dinita;156
+7213799;Kemal Hajdarevic;121
+7213800;Jiacheng Tan;82
+7213801;Armando Aguilar-Soto;146
+7213802;Arasanathan Anjulan;114
+7213803;Andrew P. Bass;73
+7213804;Wenqian Cheng;24
+7213805;David G. Reed;184
+7213806;Graham R. Markall;136
+7213807;K. Y. How;98
+7213808;Zixiang Ma;24
+7213809;Lucas Dixon;167
+7213810;Calum A. M. Grant;61
+7213811;Chao-Yang Yang;30
+7213812;Simon Pears;88
+7213813;Jorge Farres-Casals;38
+7213814;Jonathan James Trevor;170
+7213815;Omer Farooq Rana;22
+7213816;Fadi Louis Nammour;41
+7213817;Amir Aryanpour;112
+7213818;Abdullah Fayez H. Algarni;123
+7213819;Yuming Shen;53
+7213820;D. L. Clutterbuck;87
+7213821;Martin David Cripps;160
+7213822;Andrew Camilleri;13
+7213823;Johanna Geiß;56
+7213824;Joseph Maguire;60
+7213825;Edoardo Pignotti;124
+7213826;Tomas Pfister;143
+7213827;Botond Istvan Virginas;157
+7213828;Miguel Leitão Bignolas Mira da Silva;117
+7213829;Aliyu Ahamd Usman;153
+7213830;Kacper P. Chwialkowski;102
+7213831;Daryl Weir;49
+7213832;Ratvinder Singh Grewal;130
+7213833;Michael W. Spratling;113
+7213834;Pan Su;105
+7213835;David Cutting;152
+7213836;Stuart Goose;192
+7213837;Carlo Harvey;93
+7213838;Robin Henry Message;152
+7213839;Stephen J. H. Workman;79
+7213840;Timothy Daniel Moreton;164
+7213841;Petar Goulev;112
+7213842;Roderick Kay;27
+7213843;Peter A. Jarvis;48
+7213844;Marwan Mohammed Mahmoud Radwan;23
+7213845;Marcin Wójcik;109
+7213846;Fiona M. Rivera;8
+7213847;Michel Ludwig;154
+7213848;Juan L. Reutter;17
+7213849;Yousef H. Daabaj;190
+7213850;Peter Coetzee;49
+7213851;Henry D. Knowles;26
+7213852;Kenneth George Pierce;20
+7213853;Hyosun Kwon;134
+7213854;Afam Nnanna Ituma;4
+7213855;Hee Young Lee;103
+7213856;Ying Zou 0003;126
+7213857;Miren Begoña Albizuri-Romero;99
+7213858;Nadia Fathe Hmad;194
+7213859;Andrew John Charles Blyth;155
+7213860;David Andre De Waal;89
+7213861;Jingjing Deng;115
+7213862;Lee John Finniear;92
+7213863;Long Tran-Thanh;40
+7213864;Stephan Herhut;45
+7213865;Saturnino Luz;149
+7213866;R. J. Baker;7
+7213867;Daniel Gábana Arellano;19
+7213868;Waqar Asif;128
+7213869;Dominic Buchstaller;169
+7213870;H. K. F. Yeung;47
+7213871;M. S. Thar;117
+7213872;J. D. M. McKeever;190
+7213873;Su Yang;192
+7213874;R. A. Proctor;4
+7213875;Rehman Mohamed;1
+7213876;Philip T. Elliott;180
+7213877;Eric Kord Henderson;62
+7213878;Alex Frazer;159
+7213879;Nicole van Deursen Hazelhoff Roelfze;74
+7213880;Nadish de Silva;123
+7213881;Augoustinos Tsiros;48
+7213882;Ralf Dieter Reutemann;107
+7213883;Rafee Ebrahim;147
+7213884;Patrick Brady;75
+7213885;Sethuraman Muthuraman;106
+7213886;Goran Abdulrahman Mohammed;114
+7213887;Thomas Gorry;32
+7213888;Chunlin Song;56
+7213889;Kristopher West;3
+7213890;Boladale M. Isawhe;45
+7213891;Mehdi Goli;110
+7213892;Louis Anegekuh;77
+7213893;Richard David Jacques;127
+7213894;A. R. Farmer;22
+7213895;Peter Clark;68
+7213896;J. A. Kyffin;133
+7213897;Roopa Rangaswami;159
+7213898;R. W. Thearle;108
+7213899;Walid J. Arif;116
+7213900;Richard John Haynes;190
+7213901;Fernando Rivera-Illingworth;110
+7213902;Wadhah Amer Hatem;190
+7213903;Nicolas Manfred Otto Heess;152
+7213904;Shakil Ahmed;173
+7213905;Nur Haryani Zakaria;38
+7213906;Neil Loughran;136
+7213907;Alex L. Wood;9
+7213908;Abdulmajeed Alsufyani;19
+7213909;David Croft 0002;61
+7213910;Athanasios Papaioannou;115
+7213911;Anja Schanzenberger;89
+7213912;Duangtida Athakravi;180
+7213913;Cheng Feng 0004;65
+7213914;Maryam Hajiesmaeili;193
+7213915;Massimo Felici;59
+7213916;Lisa Kirke;34
+7213917;Michael Gellman;161
+7213918;Hafiz Mahfooz Ul Haque;155
+7213919;Baoyu Wang;68
+7213920;Alan Burton;13
+7213921;L. R. Talamas;185
+7213922;David Maley;48
+7213923;Claire Hardaker;101
+7213924;Charalambos Tsatsaris;186
+7213925;Yong-Fei Han;51
+7213926;Johan Kildal;66
+7213927;Tanya Lambert;115
+7213928;Henning Grashoff;85
+7213929;Adam Nellis;46
+7213930;Otlhapile Dinakenyane;53
+7213931;Jianjia Wang;192
+7213932;Liam McNamara;184
+7213933;Giles Mayley;188
+7213934;Christopher Bailey 0001;43
+7213935;Goodhead Tomvie Abraham;112
+7213936;Andrew Justin Morris;8
+7213937;S. Stevens;114
+7213938;Jayachandra Chilukamari;175
+7213939;Nigel Corbin;89
+7213940;Michael Luke Tunmer;91
+7213941;Daniel Reid;198
+7213942;Stephen Peter Allen;57
+7213943;David Wakeling;30
+7213944;Healfdene Goguen;13
+7213945;Adnan Mujahid Khan;113
+7213946;Steven J. T. Marsh;197
+7213947;Jacques Chueke;123
+7213948;Jung-Hua Liu;47
+7213949;Vladan Rankov;18
+7213950;Xuan Huang 0003;75
+7213951;Yongxing Wang;9
+7213952;I. M. Breffit;170
+7213953;Christopher Duncan Green;128
+7213954;Son Tran;166
+7213955;Thalaya Alfawzan;97
+7213956;Fábio Ferrentini Sampaio;131
+7213957;Jie Xiong 0001;97
+7213958;Saad Aldosary;121
+7213959;Mark Debbage;35
+7213960;Turki Mohammed K. Alghamdi;110
+7213961;Lin Li 0026;197
+7213962;Hatm Alkadeki;59
+7213963;Yahan Hua;12
+7213964;Daphne Economou;140
+7213965;Eyal Haik;189
+7213966;Tereska Karran;116
+7213967;Claire May White;162
+7213968;Elizabeth L. Burd;16
+7213969;Hany A. Abdelghaffar Ismail;71
+7213970;Liam S. Docherty;16
+7213971;A. A. Salih 0001;158
+7213972;M. M. Chaudhery;25
+7213973;Andrew Charles Coombes;176
+7213974;Kamran Taj Pathan;76
+7213975;Michael Stuart Alexander Robb;175
+7213976;Heather Jane Turpin;136
+7213977;Paula Cristina Martins da Silva Rocha;173
+7213978;Su-Shin Ang;144
+7213979;Paul Wonnacott;6
+7213980;Abdulrahman Almuhareb;129
+7213981;Robert G. Maunder;57
+7213982;Peter Phillips;91
+7213983;Xinli Du;118
+7213984;Jiang Lu;166
+7213985;Aparajithan Sivanathan;65
+7213986;Susan Craw;111
+7213987;Glenn D. Carver;71
+7213988;Andrew D. Steele;54
+7213989;Beibei Zhan;81
+7213990;Jiangning Gao;181
+7213991;Qiang Liu 0011;68
+7213992;David Robert Moore;88
+7213993;Andreas Theissler;64
+7213994;Wafa El-Tarhouni;49
+7213995;Jon-Paul Griffiths;5
+7213996;Anthony Keenan;97
+7213997;E. L. Moore;90
+7213998;Daniele Filaretti;199
+7213999;Florian Rathgeber;21
+7214000;Mathias Fritzsche;82
+7214001;Fuad M. Alkoot;170
+7214002;Mark Jonathan Roberts;142
+7214003;Mandeep Singh Gill;125
+7214004;Chris Durbin 0001;25
+7214005;Shane Mansfield;16
+7214006;David R. Evans 0001;88
+7214007;Patrick Valente;38
+7214008;Ekhorutomwen Asemota;145
+7214009;Ian Martin Kennedy;113
+7214010;Kevin I. Smith;31
+7214011;Junyi Qui;72
+7214012;Mmaki Jantjies;15
+7214013;P. L. Kilpatrick;74
+7214014;J. M. Wilson;39
+7214015;Abdunnaser Mrabet;38
+7214016;Matias Garcia-Constantino;180
+7214017;Paul Michael Dunphy;170
+7214018;Georgios Vasilios Magklaras;199
+7214019;Abdullah Alsaeedi;72
+7214020;J. C. Tomlinson;27
+7214021;Michael O. Shneier;82
+7214022;Harjit Singh;6
+7214023;Xuan Peng;31
+7214024;Craig McPheeters;152
+7214025;Brian Canavan;46
+7214026;Hemanth Khambhammettu;58
+7214027;Meng Zhu;158
+7214028;Konstantina Mitropoulou;84
+7214029;Graeme W. Blackwood;127
+7214030;Ziyun Cai;19
+7214031;Mathias Neumüller;62
+7214032;Zhiyuan Shi 0001;62
+7214033;René MacKinney-Romero;57
+7214034;Mark S. Withall;198
+7214035;E. Falconer;118
+7214036;Joseph Alan Hartley;111
+7214037;Shijing Guo;173
+7214038;G. T. Rooney;135
+7214039;Richard Butterworth;99
+7214040;Jason R. C. Nurse;135
+7214041;Vassilios Kopanas;148
+7214042;Seyed Ali Hosseini;151
+7214043;Konstantinos Bozas;119
+7214044;Junyi Jiang;97
+7214045;Sophiana Chua Abdullah;36
+7214046;Paul W. Rendell;7
+7214047;Vikas Deora;33
+7214048;Paulo Sergio Martins Pedro;37
+7214049;Gurleen Kaur Arora;143
+7214050;Jing Dong 0001;148
+7214051;Hua Cheng 0001;197
+7214052;Xin Chen 0015;177
+7214053;Orestis Tsinalis;128
+7214054;Wasan Mehdi;11
+7214055;Adam Baumberg;51
+7214056;Jenna Marie Reps;32
+7214057;Rodrigo Lankaites Pinheiro;163
+7214058;Jianjun Pu;179
+7214059;Tao Xue;43
+7214060;Stephen G. Matthews 0002;90
+7214061;Erik Reinhard;98
+7214062;Abdullahi Arabo;152
+7214063;Athanasios Konstantinidis;83
+7214064;Stig Nygaard Quist;16
+7214065;Peter John Whysall;56
+7214066;Bryan James Prosser;77
+7214067;Mahmud Ahmed;187
+7214068;Vincent E. Devin;128
+7214069;K. Foster;52
+7214070;John Colley;id
+7214071;Mona Ali;15
+7214072;Daniele Malleo;165
+7214073;Jingtao Yang;145
+7214074;Dimitrios Kourtesis;41
+7214075;Martinus Cornelis Schut;130
+7214076;O. Esoul;13
+7214077;Xuan Huang 0002;197
+7214078;Sheeva Afshan;19
+7214079;Mina I. S. Ibrahim;191
+7214080;Aaron Mark Parker;130
+7214081;Long Zhang 0006;141
+7214082;Saddam Bekhet;50
+7214083;Renan Krishna;47
+7214084;Alexander Voss;115
+7214085;Martins E. Irhebhude;34
+7214086;Ralph Barthel;12
+7214087;Abu Turab Alam;98
+7214088;Thomas C. Walters;178
+7214089;Janos Sziveri;198
+7214090;Abdul Samad Shibghatullah;9
+7214091;ShengLi Shi;73
+7214092;Dana Mohammed Al-Malki;65
+7214093;G. M. Evans;178
+7214094;James Skene;42
+7214095;Maya Wardeh;14
+7214096;Quentin Reul;102
+7214097;Teodor Ghetiu;122
+7214098;Michal Lukasik;160
+7214099;Edward Jaser;195
+7214100;Nicholas Wolverson;31
+7214101;Pouria Sadeghi-Tehran;180
+7214102;George H. Pollard;171
+7214103;Qi Wu 0001;169
+7214104;Wei Huang 0019;67
+7214105;Mayur Sarangdhar;88
+7214106;Khari A. Armih;29
+7214107;Mercedes Beatriz Ontiveros;185
+7214108;Tyler Moore;148
+7214109;Vincenzo Trignano;151
+7214110;Steven Robert Andrew Jones;164
+7214111;Xim Meng;8
+7214112;Peter Connard;120
+7214113;Ross J. Kang;id
+7214114;Waleed Alsanie;112
+7214115;Nimal Ananda Jayaratne;84
+7214116;Christopher Gwilliams;12
+7214117;Duncan Russell Campbell;88
+7214118;William Ian Cameron Mitchell;42
+7214119;Javier G. Marín-Blázquez;37
+7214120;Simon P. Hammond;96
+7214121;Patrick J. Connally;173
+7214122;Mohammad Hashem Ryalat;76
+7214123;Michal Morciniec;29
+7214124;Kuo-Jung Tseng;69
+7214125;John R. Longley;107
+7214126;Mascarus Joaquin Acevedo;82
+7214127;Min Jiang 0001;9
+7214128;Frédéric Ranno;143
+7214129;Fabio Paternò;169
+7214130;G. Williams;26
+7214131;Walid Adly Atteya Abdo;128
+7214132;Steven Neely;18
+7214133;Lone Leth;193
+7214134;Grégoire Burel;116
+7214135;Wafaa Rezk Shabana;7
+7214136;Safoora Shakil Khan;5
+7214137;Philip Iosifidis;44
+7214138;Maciej Kurek;189
+7214139;Ming Jiang 0007;171
+7214140;Francis Guerin;97
+7214141;David Anthony Parker;18
+7214142;María del Pilar Angeles;55
+7214143;Rishad Ahmed Shafik;128
+7214144;Amaria Zidouk;198
+7214145;Jonathan David Hook;151
+7214146;Colin James Burgess;79
+7214147;Hashim El Amin Mustafa;167
+7214148;Matthew Bennett;129
+7214149;Issam Souilah;104
+7214150;Jason P. Garforth;199
+7214151;Mario Wolczko;47
+7214152;Maira Tariq;119
+7214153;Paul J. Roberts;108
+7214154;Thomas Schiepp;33
+7214155;Marwan Ahmad Talal Al-Tawil;87
+7214156;Jey E. E. Ngole;199
+7214157;Andy Herdman;167
+7214158;Ian Charles Herbert Thomas;187
+7214159;Jó Ueyama;75
+7214160;Sean F. Heaney;146
+7214161;Mohammad Samir Khan;88
+7214162;Valentine Nwakacha;132
+7214163;D. P. Simpson;128
+7214164;Kamel Abdelsalam Mahmoud El-Hadad;160
+7214165;Fangde Liu;70
+7214166;Muayed S. Al-Huseiny;111
+7214167;Stephan Wolfer;2
+7214168;A. R. Grayer;7
+7214169;Vasileios Vitsas;86
+7214170;H. B. Kendler;26
+7214171;Jane M. Fritz;12
+7214172;Daryoosh Karami;59
+7214173;Dean Ashley Williams;18
+7214174;Shahid Abbas Haider;101
+7214175;David R. Brownbridge;198
+7214176;Asmaa Al-Naqi;158
+7214177;Shadi Aljawarneh;11
+7214178;Mark Bingham;43
+7214179;Jeffrey John Joyce;181
+7214180;Asif Khan 0003;28
+7214181;Samantha Type;10
+7214182;Marcos R. S. Borges;21
+7214183;John Christopher Murray;81
+7214184;Luis Filipe Ribeiro Pinto;146
+7214185;Richard Lowe;153
+7214186;D. M. Ashenden;52
+7214187;Lewis Gill;7
+7214188;Michel François Valstar;70
+7214189;D. Sapounas;190
+7214190;Ioannis Havoutis;123
+7214191;Pouwan Lei;98
+7214192;Christopher Daniel Emmons;98
+7214193;Guy Lever;98
+7214194;Kanagaratnam Ronald Sujithan;124
+7214195;Colin Fyfe;176
+7214196;Tiejun Ma;63
+7214197;David Warnock;192
+7214198;Paul A. Crook;31
+7214199;Michael Alan Dewar;66
+7214200;Yok Hoe Yap;54
+7214201;Nikolaos Papanikolaou 0001;19
+7214202;Aung Htike Phyo;196
+7214203;Thomas Edward Reid McCallum;128
+7214204;Nurlida Basir;59
+7214205;Michael James Heron;95
+7214206;Kwok Tat Peter Au;78
+7214207;Avon P. Huxor;31
+7214208;Hemal Kothari;43
+7214209;Callum George Littlejohns;17
+7214210;Paul Expert;81
+7214211;David J. J. Toal;126
+7214212;Mohammed Al-Shammaa;160
+7214213;Tim Anderson;185
+7214214;Kum Wah Choy;145
+7214215;Álvaro F. Moreira;45
+7214216;Y. A. Nusseir;155
+7214217;Clive Richard Higgs;83
+7214218;Katrin Jonas;121
+7214219;Yuan Jenq Lui;2
+7214220;Mirjam Palosaari Eladhari;187
+7214221;John William Lumley;91
+7214222;Klaus Stefan Schlobach;66
+7214223;J. G. Pearce;88
+7214224;Sharon Flynn;139
+7214225;Daniel Grigat;103
+7214226;Elio Quinton;186
+7214227;Mohammad Khodadadi;13
+7214228;Norbert Matthias Linke;78
+7214229;Roland Auckenthaler;45
+7214230;Joscha-David Fossel;94
+7214231;M. Floyd;93
+7214232;James Alexander Naish;94
+7214233;Dialechti Christina Emmanouil;24
+7214234;Sokratis Chatzis;175
+7214235;Shi Zhou;184
+7214236;Simon John Shurville;81
+7214237;Rawin Vongurai;172
+7214238;François Siewe;195
+7214239;Sebastien Nicolas Marion;22
+7214240;Ayad Ali Keshlaf;80
+7214241;Karim Mohsen Mahmoud El Batran;136
+7214242;Wentong Cai;67
+7214243;Christopher T. Asque;68
+7214244;John Robert Derek Hughes;163
+7214245;Maysoon F. Abulkhair;111
+7214246;John Brier;149
+7214247;Oluwakemi Adewunmi Ademoye;23
+7214248;Wondimagegn Yalew Mallede;156
+7214249;Tom Lovett;107
+7214250;Franz A. de Leon;19
+7214251;Philip Bolt;165
+7214252;Abdelsalam M. Maatuk;91
+7214253;Divakar Yadav;187
+7214254;Gordon M. Robinson;10
+7214255;Ana H. O. R. Castillo;196
+7214256;Mohamed Abdlhamed;18
+7214257;Ioannis Zeimpekis;9
+7214258;Mustafa Bani Khalaf;66
+7214259;Gunawan Ariyanto;163
+7214260;Timothy Revell;51
+7214261;Fan Zhang 0025;141
+7214262;Barry Ip;26
+7214263;John Oliver Bailey;34
+7214264;Richard G. Carter;1
+7214265;Mark Longley;23
+7214266;Stewart Massie;114
+7214267;Alexander Merry;104
+7214268;Ognjen Rudovic;36
+7214269;Paul Johnston Wilkinson;122
+7214270;Nigel John Jewell;151
+7214271;Alison Baker;1
+7214272;J. E. Ellis;157
+7214273;Fatima Alkandari;69
+7214274;Keith Halewood;80
+7214275;David Edward Ashdown Robinson;84
+7214276;Neil Tisdale;184
+7214277;Leandro Soriano Marcolino;161
+7214278;Dawn Helaine Wood;82
+7214279;Jing-Ping Fan;46
+7214280;Dimitrios S. Kolovos;54
+7214281;Erika Darics;id
+7214282;Robert Andrew Davis;179
+7214283;Samuel Staton;189
+7214284;Tim Lessner;67
+7214285;Sadek Hamani;69
+7214286;Daniela Wieser;69
+7214287;Jing Tian 0001;91
+7214288;Maria Stergiou;161
+7214289;Zhan Qiu;172
+7214290;Saad M. A. Hafidh;75
+7214291;Sam D. Allen;id
+7214292;Emre Savas;43
+7214293;W. L. Poon;1
+7214294;Kenneth J. Turner;188
+7214295;Nada Y. Philip;183
+7214296;Emmanuel Hooper;87
+7214297;Roland Carl Backhouse;162
+7214298;Sergio Alvarez Teleña;177
+7214299;Xiaolei Shang;117
+7214300;Moniphia Orlease Hewling;176
+7214301;Carl Samuel Barton;126
+7214302;Novia Admodisastro;146
+7214303;Ian C. Brown;123
+7214304;Malik Almaliki;113
+7214305;Roberto Montagna;78
+7214306;C. A. Briceno;49
+7214307;Mazlina Abdul Majid;id
+7214308;Anastassia Angelopoulou;30
+7214309;Richard Anthony Evans;2
+7214310;Ataollah Ramezan Shirazi;90
+7214311;Steve Bennett;29
+7214312;Martina Angela Sasse;155
+7214313;Dalan Wang;172
+7214314;Brent D. Mittelstadt 0002;156
+7214315;J. F. Lubran;196
+7214316;Rui Huang 0005;173
+7214317;Nadeem Qazi;146
+7214318;Anastasia Lykou;44
+7214319;Funminiyi Olajide;58
+7214320;John N. D. Fisher;10
+7214321;Manal N. K. Al-Rawahi;100
+7214322;Colin J. Layfield;28
+7214323;Rebecca Naylor;180
+7214324;Ning Jia 0001;136
+7214325;Michael Sean Grant;140
+7214326;Tareq Binjammaz;50
+7214327;Alan Messer;77
+7214328;Tarek Y. Khedr;84
+7214329;Anzhela Shestakova;113
+7214330;Michael P. Evans;131
+7214331;Meghana R. Ransing;110
+7214332;Michael Georgiades;182
+7214333;Jafreezal Jaafar;40
+7214334;Shahin Nabavian;34
+7214335;Xu Zhang 0013;12
+7214336;Laura Lafave;27
+7214337;Sibusisiwe Chiyangwa;139
+7214338;David R. Newman;116
+7214339;Claire Dormann;10
+7214340;Lesley Margaret Pickard;71
+7214341;Jonathan Paul Sharp;21
+7214342;Robert J. Stewart;112
+7214343;Fabio Fabris;20
+7214344;Keith Phalp;77
+7214345;Leena N. Patel;34
+7214346;Otman Abubaker El-Ghajiji;161
+7214347;Oliver Hamilton;4
+7214348;George Trigeorgis;1
+7214349;Mandana Ebadian Dehkordi;126
+7214350;R. T. Dunn;161
+7214351;Birinder Singh Sandhawalia;193
+7214352;Aimen Abdul Karim Mouharam;118
+7214353;Carlos Nascimento Silla Jr.;13
+7214354;Adam Rae;14
+7214355;Harin Sellahewa;177
+7214356;William Bradley Glisson;91
+7214357;Khaled M. Alhawiti;74
+7214358;Jeong-Ho Lee;119
+7214359;Yansong Liang;42
+7214360;Ehud Schlessinger;165
+7214361;Michaela Puck Rombach;113
+7214362;Kitty Meeks;70
+7214363;Kriangsak Damchoom;163
+7214364;Andrew T. Campbell;78
+7214365;Graham Alasdair Wilson;103
+7214366;Denis Kravtsov;151
+7214367;W. D. T. Davies;48
+7214368;Hongji Yang;66
+7214369;Nasser Al-Ismaily;45
+7214370;Andrew V. Jones;128
+7214371;John Hargreaves;195
+7214372;Amnart Pohthong;35
+7214373;Tom Lodge;151
+7214374;Xianhong Xu;167
+7214375;Silviu Paun;164
+7214376;Kumkum Prasad;156
+7214377;Mounia Lalmas;133
+7214378;Graham Robert Buckberry;132
+7214379;Andy Maule;27
+7214380;Bruce J. McAdam;186
+7214381;Leif Albin Johansson;127
+7214382;Jeong-Ju Yoo;132
+7214383;Yuhanis Yusof;172
+7214384;Georgios Papamarkos;50
+7214385;Shaleph O'Neill;199
+7214386;Mohammad M. Hamdan;7
+7214387;Jurgen Bogdahn;116
+7214388;Sarogini Grace Pease;40
+7214389;Xiaoyu Xiong;156
+7214390;Susanne Greenwood;151
+7214391;Douglas J. Gurr;190
+7214392;Mark Hugh Stansfield;147
+7214393;Paul Devadoss Ezhilchelvan;177
+7214394;Andrew James Smith;185
+7214395;Zakira Hussain;32
+7214396;Davide Roverso;128
+7214397;David James Pearce;168
+7214398;Mark Judge;88
+7214399;E. Agustin-Molina;195
+7214400;Pisit Praiwattana;95
+7214401;Chen Change Loy;17
+7214402;Giuseppe Passino;101
+7214403;Jonathon S. Hare;16
+7214404;Joshua McNamee;58
+7214405;Asmiza Abdul Sani;24
+7214406;Zarina Shukur;198
+7214407;Elias Gyftodimos;17
+7214408;Efstathios Panayi;134
+7214409;Harf Zatschler;180
+7214410;Fawad Qayum;44
+7214411;Philip David Strother;111
+7214412;Andrea Mambrini;28
+7214413;Laiq Khan;184
+7214414;Mike J. W. Riley;153
+7214415;Thomas Chun-Pong Chau;197
+7214416;Nikolaos Giannadakis;120
+7214417;Eman M. G. Younis;112
+7214418;Justus Obwoge;99
+7214419;Howard Bowman;64
+7214420;Christopher Patrick Ward;107
+7214421;Mary-Jane Sule;171
+7214422;Yong-Woo Lee;21
+7214423;Rui Zhang 0036;70
+7214424;Mohammed Alzahrani;97
+7214425;Opeyemi Dele-Ajayi;95
+7214426;David N. Turner;127
+7214427;Zhiyuan Luo;37
+7214428;Osama Altalabani;139
+7214429;Luke Dominic Mark Urquhart;174
+7214430;Irene S. Y. Kwan Lau;114
+7214431;Samuel Hagglund;147
+7214432;Melanie P. Ware;149
+7214433;Zied Hosni;72
+7214434;A. Chikouche;138
+7214435;Christopher P. Fawcett;17
+7214436;Zhidong Xiao;81
+7214437;Alexei E. Zverovitch;135
+7214438;Azrul Amri bin Jamal;83
+7214439;William Mark Grant Dawson;52
+7214440;Matthew Hague;71
+7214441;Tahani Alsubait;186
+7214442;Fernando Molina;152
+7214443;Tommy Thompson;29
+7214444;Qiang Guo 0001;43
+7214445;Mohammad Munshi Shahin Shah;48
+7214446;Yuan Chi;134
+7214447;Kevin Carroll;60
+7214448;Simon Fowler;55
+7214449;Tristam Fenton-May;10
+7214450;J. C. Peers;13
+7214451;Xian Zhang;139
+7214452;Aaron K. Martin;184
+7214453;John Lancaster;132
+7214454;Christian Peter Kreibich;91
+7214455;Meshrif Alruily;108
+7214456;Ronald Lyndon While;194
+7214457;Karen Simonyan;192
+7214458;George Dimitri Christelis;63
+7214459;Tom Khabaza;123
+7214460;Sam Holland;1
+7214461;Eugene Yougarajah Andrew Charles;84
+7214462;Stefan Kimak;44
+7214463;S. P. Guest;51
+7214464;Dida Midekso;90
+7214465;R. E. Blake;21
+7214466;Steven John Berryman;92
+7214467;Randa Herzallah;132
+7214468;Richard Chin Hung Cheung;196
+7214469;Konstantin Vikhorev;74
+7214470;Ferdi Sarac;176
+7214471;Douglas Siviter;124
+7214472;Vahan Hovhannisyan;157
+7214473;Hao Liu 0020;135
+7214474;Shereen Khoja;188
+7214475;Jeanne Audrey Mayes;161
+7214476;Kate Reed;130
+7214477;Henry Lee Forsyth;176
+7214478;Paul Mather;1
+7214479;Guangxing Li;18
+7214480;Pedro Fonseca Rodrigues;172
+7214481;Judith Mary Mullins;28
+7214482;Thomas James Osgood;58
+7214483;Matthias Olzmann;85
+7214484;Jennifer D. Simonotto;124
+7214485;Horia V. Corcalciuc;129
+7214486;Allan M. Bruce;30
+7214487;Evangelos F. Stefatos;46
+7214488;Beatriz de la Iglesia;55
+7214489;David A. Wolfram;40
+7214490;Jarrod Knibbe;117
+7214491;Kier Storey;195
+7214492;Julian P. Murphy;100
+7214493;T. A. Xia;145
+7214494;Theophilos Skevofilax;150
+7214495;Noppadol Chumchob;82
+7214496;Mary Elizabeth Cryan;74
+7214497;Luis Alexis Velásquez;63
+7214498;P. Y. Chan 0002;135
+7214499;Peter Robert Symons;43
+7214500;Ben Tagger;172
+7214501;Ashton Wilson;182
+7214502;Mark Charles Spittle;160
+7214503;Euan W. Dempster;50
+7214504;Danny Pearce;173
+7214505;Craig Nicol;53
+7214506;Luke Thomas Chatburn;157
+7214507;Effirul I. Ramlan;186
+7214508;Ian Batten;106
+7214509;R. Philips;129
+7214510;D. J. Rees;157
+7214511;Yunwen Yang;49
+7214512;Jan Tobias Mühlberg;44
+7214513;Andrew Thomas Plant;115
+7214514;Noraddin Nakhaee;101
+7214515;Areej S. Alfraih;117
+7214516;Botan M. Ahmad Al-Hadad;94
+7214517;S. R. A. Brown;138
+7214518;Arjurna Sathiasseelan;152
+7214519;Andrew J. Logsdail;114
+7214520;I. G. Mitchell;196
+7214521;Martin J. Hicks;139
+7214522;Ana Armas Romero;47
+7214523;Chris M. N. Tofts;137
+7214524;Sulaiman Alateyah;67
+7214525;Ahmed Khelfa Obeid Al-Ajeli;112
+7214526;Sameera A'amer Abdul-Kader;130
+7214527;Benjamin Thomas Ken Hopson;132
+7214528;I. D. Wilson;59
+7214529;Eric W. Tatham;153
+7214530;Yi Zhou 0007;76
+7214531;Husna Osman;id
+7214532;Kiera Murphy;83
+7214533;Visit Hirankitti;142
+7214534;J. A. Gunawardena;79
+7214535;Inman Harvey;9
+7214536;Darrel Trevor Desmond Manuel;189
+7214537;Pawan Goyal;85
+7214538;Malik Shahzad Kaleem Awan;13
+7214539;Simeon Xenitellis;161
+7214540;Mykola Galushka;7
+7214541;Konstantinos Papangelis;17
+7214542;Mahmud S. Shertil;151
+7214543;Craig Sharp;106
+7214544;Lucas Carstens;54
+7214545;Chang-Tsun Li;144
+7214546;Luana Micallef;175
+7214547;Simon Price;90
+7214548;Raul Espejo;94
+7214549;Mustafa Aswad;66
+7214550;Mohamed Misbah El-Khatib;146
+7214551;Anthony Potter;192
+7214552;Richard Tucker;69
+7214553;Jisheng Lu;140
+7214554;Georgios Sakellariou;127
+7214555;Pakorn Kaewtrakulpong;92
+7214556;Edmund Wadge;115
+7214557;Dhavalkumar Thakker;4
+7214558;Kate Ashton;82
+7214559;Katie Li;72
+7214560;Osama Hassan Youssef;12
+7214561;Ali Vahit Sahiner;37
+7214562;Anirban Bhattacharyya;72
+7214563;Fadhil Alfarag;186
+7214564;Daniel Wagner 0002;66
+7214565;Osemeke Mosindi;79
+7214566;Sarah Gordon Ford;88
+7214567;Keith R. Thompson;65
+7214568;Vijayashankar Sethuruman;132
+7214569;Kevin M. Hogan;62
+7214570;Latifa Al-Abdulkarim;69
+7214571;Keming Hu;61
+7214572;Saeed Masaud H. Alqahtani;182
+7214573;Mahmood A. Khan;id
+7214574;Paul Giaccone;127
+7214575;Y. N. Abu-Shaaban;157
+7214576;Hazem Kathem Qattous;16
+7214577;Amr Adel Hassan Ahmed;23
+7214578;Subrata Kumar Das;163
+7214579;Muhammad Abdul Hakim Newton;62
+7214580;Thomas Glyn Hinton;97
+7214581;R. I. Ferguson;id
+7214582;Daniel Keith Raymond McCormack;163
+7214583;Paul A. V. Thomas;15
+7214584;Stephen Christopher Kyle;130
+7214585;Xun Wang 0005;171
+7214586;Niruwan Turnbull;125
+7214587;Rong Zhang 0001;140
+7214588;G. Garrihy;111
+7214589;Muhammad Afzal Bhatti;123
+7214590;Yixin Li;69
+7214591;James Davis 0013;156
+7214592;Fábio Moreira Costa;12
+7214593;David Lemor Pickup;155
+7214594;Ilia Pietri;35
+7214595;Mischa Moussavian Tuffield;159
+7214596;Zhenhua Feng;131
+7214597;Janet Elizabeth Finlay;17
+7214598;Lee Gillam;112
+7214599;John G. Kollias;74
+7214600;Andrea Zisman;4
+7214601;Adam Barnett;197
+7214602;Tjeerd Olde Scheper;168
+7214603;Leslie G. Valiant;53
+7214604;Ting Wang 0011;56
+7214605;Daniel Tang;193
+7214606;Ao Shen;170
+7214607;Xiaohui Zhang 0004;7
+7214608;Chin-fu Hung;5
+7214609;Theodoros Michalareas;7
+7214610;Abdulrahman Alreshidi;144
+7214611;Zsolt Levente Husz;184
+7214612;Manuela Zanda;50
+7214613;Yudong Wang;49
+7214614;Menno Matthias Van Zaanen;141
+7214615;Ashley Montanaro;148
+7214616;Karin Sim Smith;122
+7214617;Clement Petres;103
+7214618;Emmanuel Ebuka Ibeke;79
+7214619;Vincent Wan;191
+7214620;Will Mepham;126
+7214621;Alex Mason;199
+7214622;Antonios A. Savidis;16
+7214623;Geoffrey Richard Gray;185
+7214624;Benoît Dupasquier;132
+7214625;Claire Brierley;86
+7214626;Roberto Desimone;197
+7214627;Alonso Patron-Perez;44
+7214628;A. E. Robinson;77
+7214629;James Alexander Grove Annesley;37
+7214630;Pasha Parpia;168
+7214631;Hisham Al-Assam;4
+7214632;Fragkiskos Sardis;160
+7214633;Grant Friel;99
+7214634;A. J. M. Guimaraes Rodrigues;101
+7214635;Vladimir Nikishkin;127
+7214636;Dan Casas Guix;101
+7214637;Majed Alshamari;38
+7214638;Robert Nicholas Maxwell Watson;79
+7214639;Eshrag Refaee;57
+7214640;Ravi Gauba;198
+7214641;Fabio Simeoni;119
+7214642;Julian A. Bailey;45
+7214643;Rain Ashford;77
+7214644;Konstantinos Koukouletsos;141
+7214645;Isabel Sassoon;59
+7214646;Yasumiko Cindy Tszyan Lo-Garry;65
+7214647;Lukman Ab. Rahim;32
+7214648;Sadiq Sani;13
+7214649;Mohammed Shahid Anwer;180
+7214650;Andrea DeMarco;23
+7214651;Raymond J. Glover;175
+7214652;Jose Luis Farah;99
+7214653;Catherine Mary Sobhanpanah;140
+7214654;Kian Shen Kiang;105
+7214655;Grigorious Tziallas;77
+7214656;Claire Julia Kennedy;84
+7214657;Oliver Daniel Cooper;149
+7214658;Sachi Arafat;44
+7214659;Richard Stuart Hadley Piggin;128
+7214660;Simon Richard Jones;180
+7214661;Yujiao Zhou;17
+7214662;Katy C. Noland;id
+7214663;Kristopher Welsh;id
+7214664;Sarah Cook 0001;87
+7214665;Andrius Velykis;63
+7214666;J. N. Ofulue;81
+7214667;Craig J. Webb;34
+7214668;Antony Edward Hofton;192
+7214669;Georgia Garani;150
+7214670;Lei Xu 0002;176
+7214671;Alessio Lomuscio;81
+7214672;Severin Andreas Thomas-Morus Fichtl;57
+7214673;A. Johnson 0001;143
+7214674;Najeed Ahmed Khan;26
+7214675;Lama Al Khuzayem;97
+7214676;John Charles Malone-Lee;25
+7214677;Mohammad Manea Alyami;193
+7214678;Yasser Abdel Kader;147
+7214679;Shuai Zhao 0004;73
+7214680;Hannah Rudman;186
+7214681;Enda Ridge;16
+7214682;Shahram Mohammadi;119
+7214683;Dac Khoa Doan;95
+7214684;Marc Drobek;164
+7214685;Amei Li;115
+7214686;Philip Vasey;67
+7214687;Daoud Kassem Hilal;183
+7214688;Malcolm Birtle;55
+7214689;Philip M. Sleat;71
+7214690;Aladdin Ayesh;25
+7214691;Nikolay Burlutskiy;183
+7214692;Kazeem Oluwakemi Oseni;141
+7214693;C. P. Cheng;146
+7214694;Michael Banbrook;112
+7214695;Evgenij Thorstensen;47
+7214696;Graham Morgan;148
+7214697;Andrey Mokhov;199
+7214698;Seyed Hassan Ghodsypour;188
+7214699;Abobaker Salem;7
+7214700;James Philip McMorran;19
+7214701;Laura I. Meikle;187
+7214702;Wilson Ifill;45
+7214703;Dimitrios Vlachos;78
+7214704;Niaz Morshed Chowdhury;158
+7214705;Ulrike Spierling;135
+7214706;Alex Louis Gill Hayzelden;51
+7214707;Mike Reddy;12
+7214708;Geoff Cutts;6
+7214709;Ralf Brunner;197
+7214710;Edward Nanakorn Turner;156
+7214711;Paul-Amaury Matt;162
+7214712;J. S. Smith;185
+7214713;Samarasena Buchala;173
+7214714;Feng Guo 0003;71
+7214715;Javier Correa Villanueva;184
+7214716;Giambattista Amati;24
+7214717;Mark Sinclair;154
+7214718;Maria Petridou;103
+7214719;Iain William Finlay;113
+7214720;John C. T. Hallam;102
+7214721;Martin Bourne;140
+7214722;Mingyou Hu;138
+7214723;Carolyn Salimun;148
+7214724;Soamsiri Chantaraskul;17
+7214725;Moshe Deutsch;25
+7214726;Ji Won Hwang;175
+7214727;Lisa Marie Bartlett;21
+7214728;Dave Harley;117
+7214729;Neil Cook;32
+7214730;Fatimah Adamu-Fika;140
+7214731;Ioannis Georgiadis;18
+7214732;Stephen M. Conway;173
+7214733;Marios Constantinides;176
+7214734;T. E. Shrimpton;81
+7214735;Jingpeng Li;2
+7214736;Jesse Michael Blum;152
+7214737;Tagreed Alsulimani;186
+7214738;Joanna K. Crosier;154
+7214739;Adam James Stanton;181
+7214740;John Mathenge Kanyaru;120
+7214741;J. Cavalcanti;105
+7214742;Simon Agamah;63
+7214743;Edward Robinson;157
+7214744;Zargham Haider;47
+7214745;Peter C.-H. Cheng;164
+7214746;A. A. Stavrinides;132
+7214747;Varvara Logacheva;162
+7214748;S. C. Wray;11
+7214749;Joseph J. Britto;96
+7214750;Sultan AlMotiri;163
+7214751;Andrew J. Marsh;143
+7214752;Adrian Friday;197
+7214753;Thomas Rory Stone;188
+7214754;Thomas James Woodchurch Clarke;136
+7214755;Zhiqiang Xu;29
+7214756;Samuel J. Webb;187
+7214757;Jeremiah Smith;101
+7214758;Riri Fitri Sari;50
+7214759;Arpit Mittal;27
+7214760;Alastair Neil Andrew;60
+7214761;Simon Dobnik;169
+7214762;Amirhassan Monadjemi;16
+7214763;A. Hoare;76
+7214764;Martin O'Shea;21
+7214765;Helen E. Thomson;114
+7214766;Peter Saffrey;52
+7214767;Christian Dieter Grunler;189
+7214768;Nick Barrow-Williams;1
+7214769;Xiao Yang 0006;149
+7214770;Xiang Li 0031;118
+7214771;D. He;169
+7214772;Katie Wilkie;119
+7214773;David Wilson 0005;185
+7214774;Adrian Venables;43
+7214775;Peichang Zhang;62
+7214776;Alice Toniolo;153
+7214777;Gary S. C. Pan;47
+7214778;Chen Gu;79
+7214779;András Joó;137
+7214780;Edward Toole;184
+7214781;Philip Parry;157
+7214782;Mark Roland Rawlinson;35
+7214783;Xiantang Sun;179
+7214784;P. Hooker;145
+7214785;Anja Sisarica;10
+7214786;Nicolaos Matsakis;93
+7214787;Andrew James Barnes;183
+7214788;A. N. Earl;44
+7214789;Frank A. Martin;63
+7214790;Stephen N. Cresswell;149
+7214791;Rob Mills;36
+7214792;Timothy A. Boyling;185
+7214793;Graham Capper;83
+7214794;Peter D. Hyde;157
+7214795;Ian Philip Gent;172
+7214796;Alexander Stolpmann;57
+7214797;Tadas Baltrusaitis;61
+7214798;S. Ranade;155
+7214799;M. P. Moore;21
+7214800;Timothy Alec Oliver;167
+7214801;K. T. Narayana;37
+7214802;Xiaoying Zhan;154
+7214803;Savvas Makalias;9
+7214804;Abbes Amira;170
+7214805;Aleksandar Trifunovic;154
+7214806;Michael J. Butler;60
+7214807;Usman Naeem;89
+7214808;Michael Cook;45
+7214809;Theodoros Kapourniotis;14
+7214810;Shane Wilson;126
+7214811;Mike C. Fraser;127
+7214812;G. C. Littlewort;32
+7214813;Amin Merati;20
+7214814;Paul Richmond;39
+7214815;David C. C. Ong;137
+7214816;Zhenzhuang Miao;20
+7214817;Mark Jago;91
+7214818;Charlotte Page;34
+7214819;Ian Lewis;51
+7214820;Andrew Peter McCabe;16
+7214821;Yasser Alharbi;136
+7214822;N. C. Megson;160
+7214823;Daniel Leightley;96
+7214824;Andrew Gareth Sunderland;149
+7214825;Saleh Al-umaran;193
+7214826;Michele Sama;95
+7214827;Richard James Maude;10
+7214828;Shakti Ranjan Tripathy;172
+7214829;K. Garg;128
+7214830;Qian Wang 0017;91
+7214831;Joseph Fong;107
+7214832;Dominic Brownin;52
+7214833;Alban Rrustemi;107
+7214834;Dhawal N. Thakker;177
+7214835;Raman Ramsin;90
+7214836;Babajide Ogunyomi;98
+7214837;Petri Vitiello;43
+7214838;Ben Smyth;52
+7214839;Hai Hoang Nguyen;136
+7214840;Mustafa Abdulrahman Jiffry;15
+7214841;Richard Millham;40
+7214842;Matthew Thomas Burt;88
+7214843;Anthony P. Reeves;76
+7214844;Peter Ashley Clifford Varley;86
+7214845;Matt Duckham;9
+7214846;Eugene Ch'ng;50
+7214847;Abdulaziz I. Almajed;52
+7214848;Nawat Kamnoonwatana;161
+7214849;L. S. A. Mansi;95
+7214850;Ruth Thompson;165
+7214851;David Alfredo Fuller;107
+7214852;Claudio V. Russo;64
+7214853;Muhammad Adeel;74
+7214854;Jason Alexis Valentine Crampton;9
+7214855;Alexandre James Nasrallah;89
+7214856;Martin Mariusz Lester;44
+7214857;Majeed Soufian;45
+7214858;Xueke Lu;80
+7214859;Charalampos Rotsos;102
+7214860;Martin Sepiol;150
+7214861;Mohammed Zia Hayat;60
+7214862;Varsha Veerappa;154
+7214863;Mohamed Hamed Ismail Sedky;170
+7214864;Wei Song 0009;148
+7214865;Darren Gerard Reilly;154
+7214866;Matthew D. A. Speed;107
+7214867;Carl Ian Birkinshaw;8
+7214868;Sarah Bastkowski;139
+7214869;Youssef Hassoun;60
+7214870;Ans Alghamdi;96
+7214871;R. J. Castell;159
+7214872;Khulood AlYahya;163
+7214873;Bartlomiej W. Papiez;51
+7214874;Graeme Coapes;141
+7214875;Sue Fenley;96
+7214876;S. S. Brown;146
+7214877;Nazar Al-Hayani;85
+7214878;John Walmsley;86
+7214879;Beeta Vajar;159
+7214880;Hassan Gomaa;99
+7214881;Mark J. Winter;70
+7214882;Cheryl Mary Jones;88
+7214883;S. Johnstone;3
+7214884;Mehdi Hosseini 0001;196
+7214885;Wail M. Omar;191
+7214886;Gihan R. Mudalige;15
+7214887;Tao Gong 0002;195
+7214888;Richard Southern;179
+7214889;Paul Blain Levy;31
+7214890;Mohammad A. Nabulsi;156
+7214891;Stuart Gordon Robinson;2
+7214892;Richard Withnell;182
+7214893;Evgeny Kharitonov;108
+7214894;Daniel Marsden;161
+7214895;Darren Lee Buttle;197
+7214896;Martin E. Bush;60
+7214897;Howard J. Harris;5
+7214898;Gabrielle Santos;40
+7214899;Daniel Heesch;id
+7214900;Balbir S. Bal;104
+7214901;Daniel Bernhardt;195
+7214902;Ilyas Bakbergenuly;131
+7214903;Douglas Samuel Kirk;155
+7214904;Tadashi Yamagata;144
+7214905;Imran Sarwar Bajwa;115
+7214906;Carl Nattrass;42
+7214907;Ryan Beveridge;63
+7214908;Abdunnaser Mohammed Segayer;191
+7214909;Thomas Paul Perry;119
+7214910;Efthimia Bilissi;146
+7214911;Martin Stuart Jones;73
+7214912;Carina Silberer;58
+7214913;Jamie Furness;180
+7214914;Loïc Dugast;144
+7214915;Ian McLaughlan Green;144
+7214916;A. G. Kilikas;143
+7214917;Laurent Mathy;82
+7214918;Belal Al-Jibouri;124
+7214919;Michael J. Taylor;93
+7214920;Alasdair D. Coull;53
+7214921;Martyn Amos;193
+7214922;Natasha Correia Queiroz Lino;81
+7214923;Afnan Ullah Khan;107
+7214924;Mohamed Mahyoub;177
+7214925;Edgar Galván López;65
+7214926;Nojood Obaidallah M. Aljehane;81
+7214927;Vidya Narayanan;71
+7214928;Rafidah Pakir Mohamad;12
+7214929;Kashif Hameed;116
+7214930;Rob Hague;77
+7214931;Alexander Kaganovsky;157
+7214932;Nathalie Louise Foster;175
+7214933;Xiufeng Wang;103
+7214934;Zacharias Bobolakis;193
+7214935;Paul Vincent Mellor;id
+7214936;Paul May;88
+7214937;Xi Zhao;32
+7214938;John V. H. Bonner;183
+7214939;Nikolai Ptitsyn;148
+7214940;Steven A. Battle;46
+7214941;George Diakonikolaou;65
+7214942;Colette Hume;69
+7214943;Joanna L. Duligall;167
+7214944;Nasser Alzeidi;194
+7214945;David Harris Jacobson;124
+7214946;Ghada Nasr Aly Hassan;29
+7214947;Guoquan Liu;55
+7214948;Farhad Mavaddat;110
+7214949;Jeremy William Bryans;147
+7214950;Kang Li 0002;159
+7214951;Quoc Huy Vu;42
+7214952;Helen Yannakoudakis;15
+7214953;Jean Krohn;124
+7214954;Libin Hong 0001;66
+7214955;Wudong Liu;80
+7214956;J. N. D. Whittle;60
+7214957;Alex Qiang Chen;185
+7214958;Renato Vicente;107
+7214959;Andrew James McKinlay;178
+7214960;Andrew Ian Coles;165
+7214961;Jiong Zhou;59
+7214962;Felicia Li Chin Ong;58
+7214963;Pedro Fernando De Oliveira Salazar Ribeiro;167
+7214964;Michael P. Gilroy;29
+7214965;Mansoor Ahmed Hassan;171
+7214966;Craig McKenzie;56
+7214967;Ahmed Alzahrani 0002;40
+7214968;Shayma Alani;147
+7214969;Stylianos Papanastasiou;96
+7214970;G. C. E. Winn;144
+7214971;Inhwa Kim;66
+7214972;David Jesse Finnegan;64
+7214973;Haozhe Wang;16
+7214974;Areeb Alowisheq;152
+7214975;Vivekanand Govinda;157
+7214976;Moustafa Noureddine;24
+7214977;Wayne Daniel Lister;180
+7214978;Sultan Alyahya;13
+7214979;Michael Sapienza;123
+7214980;Oussama Metatla;177
+7214981;R. E. Gowley;80
+7214982;Nurul Amin Badrul;148
+7214983;John N. Wilson;10
+7214984;Peng Jiang 0001;149
+7214985;Stephen Gerald Probets;45
+7214986;Bonnington Methuin Novello Clarke;20
+7214987;Liang-Ting Chen;190
+7214988;Liyang Hu;99
+7214989;Marc-Laurent Aird;140
+7214990;Ioannis Giagkiozis;156
+7214991;Syed Naveed Ahsan;126
+7214992;Thomas Saunders;8
+7214993;Nasreddine Tabet-Aouel;46
+7214994;Karsten Molka;107
+7214995;Chun-Hsing Chen;70
+7214996;Teck Yan Tan;73
+7214997;Ian Benson;181
+7214998;Lenka Mudrová;24
+7214999;Lee Kuan Heng;102
+7215000;Maryam Najafian;124
+7215001;Nikolaos Kazazakis;169
+7215002;Somasundaram Ravindran;198
+7215003;Stephanie Chua;34
+7215004;Joan D. Walker;5
+7215005;Zaher Salah;88
+7215006;Jason Christian Peters;123
+7215007;Ragab Basher Ihnissi;171
+7215008;Shanshan Yang;77
+7215009;Wenwen Li 0003;14
+7215010;Lu Ming Lai;174
+7215011;Alex King;64
+7215012;T. J. G. Benson;55
+7215013;Orlena Cara Zena Gotel;76
+7215014;Robin Barker;181
+7215015;Frank Schlimbach;51
+7215016;Silvio Romero de Lemos Meira;35
+7215017;Xin Chen 0014;62
+7215018;Ayesh Alshukri;183
+7215019;Richard Polfreman;55
+7215020;Ahmed Maache;16
+7215021;Arun Kannath;141
+7215022;Vakulathil Abdurahiman;86
+7215023;Mark Alexander Edward Beaumont;149
+7215024;Xiaoran Han;36
+7215025;Patricia Charlton;158
+7215026;Jose I. Nunez-Varela;118
+7215027;Edward Joseph Fergus;46
+7215028;Yang Wang 0037;105
+7215029;Pedro Barbosa;80
+7215030;Vassilios Liatsos;33
+7215031;Daniel Goldsmith;26
+7215032;Patricia H. Shaw;168
+7215033;Tom Kelly;49
+7215034;Wei-Ngan Chin;58
+7215035;Todd Papaioannou;63
+7215036;Armin Lehmann;151
+7215037;Nicholas Papadopoulos;154
+7215038;P. H. Mills;33
+7215039;Omar Kurdi;169
+7215040;A. Bamford;166
+7215041;Huibin Shi;70
+7215042;Michael May 0002;66
+7215043;Gareth P. McSorley;64
+7215044;Sohana Jahan;143
+7215045;Liming Gong;141
+7215046;Gareth Lyle Jones;129
+7215047;Pawel Swietojanski;18
+7215048;Amar Hadzihasanovic;24
+7215049;Vasileios Germanos;188
+7215050;Eamonn Lavery;195
+7215051;Victoria Shipp;115
+7215052;Somkiat Wangsiripitak;165
+7215053;R. E. H. Bywater;35
+7215054;Peter K. Oriogun;63
+7215055;M. S. Laghari;190
+7215056;Nenad Marovac;112
+7215057;Poh Khoon Ernie Lee;12
+7215058;Lewis Eric Hibell;48
+7215059;Scott Blunsden;72
+7215060;Stuart Butterfield;147
+7215061;Richard Bramwell Hibberd;43
+7215062;Ahmad Al-Mazeed;151
+7215063;Rashid Bakirov;81
+7215064;Ali Hassan 0001;10
+7215065;Frank Nebel;122
+7215066;John Owens;19
+7215067;Yaw Bang Low;191
+7215068;Theofanis Apostolopoulos;40
+7215069;Suliman M. Mohamed;173
+7215070;Martin Dunmore;78
+7215071;Fariba Sadri;112
+7215072;Richard Leggett;139
+7215073;Behnam Minbashian;159
+7215074;Marcel Odhiambo;161
+7215075;Lai-Sze Au;114
+7215076;Edward Gatt;121
+7215077;A. J. Morgan;29
+7215078;Derek Wade Reinhardt;83
+7215079;Anne-Marie Mann;101
+7215080;Konstantinos Sirlantzis;138
+7215081;A. R. Jackson;28
+7215082;Vineet R. Khare;150
+7215083;Antony Francis Bowers;163
+7215084;David Gordon Cameron;35
+7215085;Naila Yasmeen Rahman;15
+7215086;Peter Duncan Wallace;115
+7215087;George Pallis;154
+7215088;Alcides Calsavara;50
+7215089;P. Lockley;75
+7215090;Ayman Ahmad Yousef Issa;139
+7215091;James Raymond Blow;94
+7215092;Stephen T. Hassard;39
+7215093;Ka Yiu Yeung;51
+7215094;Daniyar Turmukhambetov;139
+7215095;Fucheng Yang;120
+7215096;Brian Harrington 0001;51
+7215097;Peter Young;131
+7215098;Hao Cai;175
+7215099;M. T. Pezarro;73
+7215100;Steven John Kerr;34
+7215101;Raphael Kominis;66
+7215102;Rafael Borges;98
+7215103;Syamsiah Mashohor;120
+7215104;Daniele Masato;131
+7215105;Muthupandi Ramachandran;108
+7215106;Si Qiao;46
+7215107;Robert Hunter;154
+7215108;Areej Zuhily;30
+7215109;Alexandru Popa 0001;4
+7215110;R. J. G. Edwards;68
+7215111;Gonghui Zheng;94
+7215112;Ettore Ferranti;73
+7215113;Bo Gao 0001;38
+7215114;Mohamad Farazi Johari;171
+7215115;Matthew J. Fairman;106
+7215116;Peter Fletcher 0002;88
+7215117;Quan Chu Dang;189
+7215118;Jason P. Smith;84
+7215119;Martin P. Parsley;131
+7215120;Lamya Daghestani;177
+7215121;Richard D. Seely;149
+7215122;Ramon Bradley Sargeant;23
+7215123;Bowei Chen;149
+7215124;Jonathan M. Garibaldi;80
+7215125;Peter J. Knaggs;198
+7215126;Noohul Basheer Zain Ali;23
+7215127;Pablo H. Ibargüengoytia;134
+7215128;Daniel Paul Jenkins;38
+7215129;Mafawez T. Alharbi;117
+7215130;Mashael Maashi;77
+7215131;Khalid Jalal Mhana;154
+7215132;William A. P. Smith;165
+7215133;Stephen Michael Lea;11
+7215134;Nikola Milosevic;113
+7215135;Choon-Ching Ng;192
+7215136;Peter J. King;43
+7215137;Steven Oliver Smith;60
+7215138;Markus Becker 0002;99
+7215139;Farhana Sarker;117
+7215140;Yulan Liu;113
+7215141;Paul Holmes-Higgin;193
+7215142;Kumutha Swampillai;85
+7215143;Lam Aun Cheah;195
+7215144;Thomas Joseph Duffy;41
+7215145;Wenjun Sun;184
+7215146;Richard Thompson;112
+7215147;Alexander Fargus;10
+7215148;Martin Wonders;132
+7215149;F. J. Wales;81
+7215150;Anthony Shi-Sheung Fong;25
+7215151;Francesco Vivarelli;104
+7215152;Glyn Carter;124
+7215153;T. A. Chua;168
+7215154;Lee Johnston;16
+7215155;Marcelo Paiva Fontenele;104
+7215156;Tal Sobol Shikler;162
+7215157;G. A. Turkington;135
+7215158;James Reynolds;100
+7215159;Nikolaos Floros;121
+7215160;Arijit Mukherjee;51
+7215161;Nava Tintarev;91
+7215162;Patrick Koopmann;67
+7215163;Andrew Robert Thomas Ormsby;158
+7215164;Norlaily Yaacob;138
+7215165;Edward Tersoo Apeh;80
+7215166;Tony Glover;198
+7215167;Huw William Bristow;168
+7215168;R. N. Cuff;71
+7215169;Dorian James Rutter;48
+7215170;Guy R. E. S. Saward;87
+7215171;Lance Craig Walton;148
+7215172;Jonathan Fredland;160
+7215173;Matthew Dale;106
+7215174;P. S. Dhillon;147
+7215175;Philip Thomas Ashton;45
+7215176;Devi Thirupathi;187
+7215177;Lorenzo Vigentini;176
+7215178;Benjamin Russell;189
+7215179;Yingyi Chu;169
+7215180;Amy Winters;102
+7215181;Nigel Malcolm Blackie;54
+7215182;Anna Ingólfsdóttir;135
+7215183;A. Teruel;29
+7215184;Yousef Abushnagh;123
+7215185;Sandeep Katragadda;133
+7215186;Timur Almaev;29
+7215187;Desmond Greer;167
+7215188;Jacqueline John George;135
+7215189;Dulani Apeksha Meedeniya;163
+7215190;Sze-Yeung Liu;30
+7215191;Cleanthis N. Eleftheratos;91
+7215192;Loredana Laera;168
+7215193;Richard T. J. Bostock;72
+7215194;Eustace Painkras;135
+7215195;George J. Milne;165
+7215196;James S. Briggs;100
+7215197;Kyriakos Poyias;129
+7215198;Steven Houben;24
+7215199;S. K. Sieh;22
+7215200;Howard Lee;121
+7215201;Sammy Siu;39
+7215202;Timothy C. Hender;99
+7215203;Andrea Arcuri;115
+7215204;Andrew J. Elmsley;189
+7215205;M. A. Stella-Sawicki;173
+7215206;Ignacio Eduardo Laplagne;84
+7215207;Rachel Cavill;105
+7215208;Aziem Chawdhary;13
+7215209;Muddasser Alam;142
+7215210;Simon R. Monk;49
+7215211;Aitor Apaolaza;127
+7215212;Amjad Shaheed;104
+7215213;Aristeidis Tsitiridis;93
+7215214;Stephen McKeague;121
+7215215;Vijay Solanki;140
+7215216;Lin Li 0027;121
+7215217;Donna Peacock;78
+7215218;David Boland;16
+7215219;Hamdullah Mohib;60
+7215220;Syed Fahad Tahir;189
+7215221;Maryhilda Heidi McClure;64
+7215222;Peiyi Shen;16
+7215223;Theocharis Tsigkritis;142
+7215224;Terence Min Khian Song;62
+7215225;Mohammed Algarawi;86
+7215226;Yanbo Justin Wang;35
+7215227;Ross McNaughton;69
+7215228;Kanta Premji Vekaria;55
+7215229;Andrew Donald Gordon;182
+7215230;King Wai Lau;100
+7215231;Michael John Knowles;38
+7215232;Alexandru Cristian Tudose;158
+7215233;Pierre Bourque;149
+7215234;Roger Anthony Noble;114
+7215235;Asim Yuzbasioglu;44
+7215236;Connie Elizabeth Scarrott;159
+7215237;Michael D. J. McNeill;73
+7215238;Lawrence Alexander Thirkell;4
+7215239;Mark Ashdown;56
+7215240;Peter Stordy;144
+7215241;Lianne F. S. Meah;97
+7215242;Othman Mohamed A. Esoul;100
+7215243;Michael A. E. Wright;35
+7215244;T. S. Hughes;199
+7215245;Nathaniel John King;131
+7215246;Luis A. Torres-Salomao;96
+7215247;Nichola Jane Salmons;60
+7215248;John A. Mariani;29
+7215249;Phillip Olla;135
+7215250;Martin L. Gill;100
+7215251;Martin John Turner;114
+7215252;Robert Scott Mitchell;93
+7215253;Philip Richard Spencer Nickoll;124
+7215254;Hayssam N. Traboulsi;14
+7215255;Damon Anthony Chaplin;172
+7215256;Lindsey Howell;17
+7215257;Andrew Dingwall-Smith;155
+7215258;Rodrigo Lamas Vieira Pinto;185
+7215259;Elhadj Benkhelifa;138
+7215260;J. Strother Moore;172
+7215261;Simon Alex Charles;129
+7215262;Miao Yu 0001;41
+7215263;Afizan Azman;158
+7215264;Kamalasen Rajalingham;102
+7215265;Alireza Ahmadyfard;59
+7215266;Philip J. McParlane;50
+7215267;Cai Wingfield;88
+7215268;Alvard Enrique Arenas-Sarmiento;21
+7215269;David W. Smith;4
+7215270;Erfan Loweimi;29
+7215271;James Finney;35
+7215272;Sam Coates-Stephens;39
+7215273;Yuyi Wang 0002;177
+7215274;Keith Bearpark;187
+7215275;Dennis Stuart William Tansley;134
+7215276;Mohd. Hanafi Ahmad Hijazi;30
+7215277;Martin J. Shepperd;76
+7215278;Issa Mohammad Qabajeh;176
+7215279;Sylwia Frankowska-Takhari;156
+7215280;Mike Dodds;48
+7215281;Robert T. Hughes;47
+7215282;Faiz Sayyid;37
+7215283;Michael Denzel;88
+7215284;Daniel Robinson;103
+7215285;Ioana Sporea;141
+7215286;Suad Almualla;128
+7215287;Fahim Ahmed;187
+7215288;Arthorn Luangsodsai;68
+7215289;Christofas Stergianos;52
+7215290;Sevtap Cinan;139
+7215291;Joseph B. Evans;41
+7215292;Zhongming Cai;95
+7215293;Haresh S. Kainth;135
+7215294;C. Morgan;182
+7215295;Bernardi Pranggono;144
+7215296;Jennie Palmer;173
+7215297;Christopher Hillman;108
+7215298;Davide Zilli;188
+7215299;David M. Berry;19
+7215300;Pinar Satilmis;142
+7215301;Ilia Nouretdinov;89
+7215302;Athena Stassopoulou;64
+7215303;M. Shirantha de Silva;130
+7215304;Babangida Albaba Abubakar;27
+7215305;George Mekhael El-Murr;86
+7215306;F. W. M. Stentiford;36
+7215307;S. Sehat Niakis;130
+7215308;Peter Jeffry Smith;121
+7215309;Ognen Paunovski;140
+7215310;Choo Leng Koh;68
+7215311;Dong Li 0012;155
+7215312;Anthony John Hirst;187
+7215313;Peter William Longhurst;22
+7215314;Christopher Leach;3
+7215315;N. M. Levy;51
+7215316;Neal Andrew Harman;122
+7215317;M. J. Tranter;192
+7215318;Alberto E. Schaeffer Filho;199
+7215319;Azira Ab Aziz;97
+7215320;Aidan Bernard Gerard Chalk;17
+7215321;Janet Susan Payne;29
+7215322;Haider Raza;31
+7215323;Nadeem Anjum;5
+7215324;Raphaël Clifford;28
+7215325;James Benson;196
+7215326;John Francis Wright;59
+7215327;Zahran Halim;19
+7215328;Anastasios Noulas;165
+7215329;I. E. Douglas;11
+7215330;Martin Brigham;75
+7215331;C. J. Dollin;128
+7215332;Adolfo J. Socorro Ramos;170
+7215333;A. Boucher;175
+7215334;Thomas Merritt;23
+7215335;Hussam Suliman;71
+7215336;Fuad Khalef;30
+7215337;James M. Brown 0001;134
+7215338;Guofu Xiang;92
+7215339;Shay Ping Seng;1
+7215340;Salem Abod-her;59
+7215341;Boran Gazi;69
+7215342;Simon Kestner;52
+7215343;Noor Fazilla Abd Yusof;64
+7215344;P. J. Broadbent;162
+7215345;Paul Lunau;8
+7215346;Christopher H. Broadbent;120
+7215347;Rozaida Ghazali;114
+7215348;Farha Naz Lakhani;170
+7215349;Jerome Corre;160
+7215350;Kasim Tasdemir;127
+7215351;Martin Andrew Ellis;99
+7215352;Brandon Bennett;97
+7215353;Fahren Bukhari;100
+7215354;Ali Alinejad;25
+7215355;A. A. Kaposi;158
+7215356;Wenzhe Zhou;171
+7215357;Lauren Norrie;119
+7215358;Mahmoud Moadeli;71
+7215359;Kian Ping Chan;90
+7215360;Sattam S. Al-Riyami;27
+7215361;Luiz Eduardo Buzato;128
+7215362;Karsten Seipp;83
+7215363;Einar Pius;69
+7215364;Ahmed Saleh 0002;4
+7215365;Chi-Kin Chau;85
+7215366;Christos Georgakis 0001;194
+7215367;Benjamin Ultan Cowley;91
+7215368;Yuemei Li;177
+7215369;Sunando Sengupta;189
+7215370;Charles Fox;31
+7215371;David Brazier;166
+7215372;Andrew Salway;192
+7215373;Ashkan Tousimojarad;90
+7215374;Saad Sabih Ahmed Medhat;172
+7215375;Simon A. Dobson;53
+7215376;Fergus R. McInnes;59
+7215377;Ivan Vaghi;44
+7215378;Jim Grundy;50
+7215379;Damien Robert Copeland;148
+7215380;Bjarne Stroustrup;60
+7215381;Timothy J. Miles-Board;17
+7215382;Yi Yang 0011;116
+7215383;Jahan Issapour;45
+7215384;Marina Carter;150
+7215385;Amala Vijaya Selvi Rajan;45
+7215386;Sheng Jiang;86
+7215387;J. D. Rice;180
+7215388;Nicholas Ball;111
+7215389;Peter Conway Humphreys;34
+7215390;Christian Spevak;59
+7215391;Steven Miller 0001;161
+7215392;Abdulaziz Almohimeed;18
+7215393;Michael Mauderer 0001;107
+7215394;Jiang Duan;24
+7215395;Thom Haddow;166
+7215396;Matthew Gwynne;76
+7215397;Qing Ming Cui;23
+7215398;Rudy Matela Braquehais;124
+7215399;Chun-Yu Chen;15
+7215400;Ivailo M. Nedelchev;91
+7215401;Watsawee Sansrimahachai;92
+7215402;Oisin Mac Aodha;91
+7215403;Daniel Chivers;44
+7215404;Jack Oclee-Brown;102
+7215405;Muhammad Aurangzeb Khan;59
+7215406;Abid Thyab Jazaa;76
+7215407;Prachya Boonkwan;168
+7215408;Arun Chakrapani Rao;25
+7215409;Vuk Janjic;137
+7215410;Lei-lei Shi;188
+7215411;Steven A. J. Brockie;38
+7215412;James Richard Srinivasan;113
+7215413;Matthew Benatan;156
+7215414;Keith Darlington;70
+7215415;Andrew S. Winter;111
+7215416;Jianzhong Chen;86
+7215417;Faycal Bouhafs;139
+7215418;Sijin He;155
+7215419;Martin C. Smith;79
+7215420;William Lee Mitchell;77
+7215421;Hina Uttam Keval;110
+7215422;Seyed Keyvan Mirrazavi;192
+7215423;John Gekas;41
+7215424;Pawitra Chiravirakul;158
+7215425;Xu Xu 0005;29
+7215426;Ajab Khan;94
+7215427;Navonil Mustafee;186
+7215428;Matthew Richard Johnson;168
+7215429;Laurence Dunn;8
+7215430;Kamran Arshad;83
+7215431;Donald MacDonald;46
+7215432;Moray Allan;89
+7215433;Fook Wai Kong;9
+7215434;J. A. B. Tome;126
+7215435;Rebecca Gamble;36
+7215436;Mikael Berndtsson;153
+7215437;Yi Wei;26
+7215438;Wei Cai 0001;169
+7215439;David B. Thomas;99
+7215440;Andrew Toseland;166
+7215441;Boris Feigin;180
+7215442;Cyril Onwubiko;73
+7215443;Sionade Ann Robinson;30
+7215444;Mohammedsharaf Alzebdi;80
+7215445;D. J. Hughes;110
+7215446;Fernando Carlos Neves Pereira;187
+7215447;Alistair I. Mees;145
+7215448;Samuel James Aaron;78
+7215449;Meng-Chang Liu;11
+7215450;Bo Li 0047;2
+7215451;Olubukola Oduntan;28
+7215452;Baher El-Geresy;109
+7215453;Jennifer Talbot;144
+7215454;Kenvi Wang;3
+7215455;Aminu Mohammed;107
+7215456;Michalis Kapsos;7
+7215457;Vu Thanh;157
+7215458;Gary Wooliston;198
+7215459;Andrew Jeremy Gavin Cockburn;175
+7215460;L. HaKong;132
+7215461;Dénes András Bisztray;158
+7215462;Juanito Camilleri;2
+7215463;Yu Wang 0013;149
+7215464;Gang Xue;189
+7215465;Ann-Marie Hughes;43
+7215466;Abdulmalik Alhammad;111
+7215467;Christopher Burdorf;198
+7215468;Jason Aaron Edward Weston;136
+7215469;Yihan Tao;25
+7215470;James Simon Pascoe;49
+7215471;Le Zhong;97
+7215472;Naim Che Pee;183
+7215473;Natalia Konstantinova;67
+7215474;Emily Thomforde;154
+7215475;Simon Clippingdale;177
+7215476;Zaid Ahmed Said Zabanoot;13
+7215477;Fahdi Kanavati;182
+7215478;Julie Collins;97
+7215479;David James Coulthurst;78
+7215480;David John Ramsbottom;54
+7215481;Ola Mahmoud;39
+7215482;Malcolm Benjamin Dias;99
+7215483;Shang Zheng;28
+7215484;Mengxin Li;116
+7215485;Robert Kinmond;195
+7215486;Nestor Yurievich Miliaev;39
+7215487;Aranzazu Prado Miguelez;159
+7215488;Alberto Ceravolo Morandi;115
+7215489;Daniel Kim Chung Chan;196
+7215490;Bager Yaghoobi;16
+7215491;Jonathan P. Lewis;id
+7215492;Hayder Qahtan Kshash Al-Salihi;94
+7215493;Grzegorz Skawinski;id
+7215494;Abdullah Al-Barakati;184
+7215495;Guoyi Fu;21
+7215496;Andrew John Gill;109
+7215497;Penelope Economou;180
+7215498;Oliver Lewis;140
+7215499;Jorge Leite Martins de Carvalho;179
+7215500;Christopher James Hargreaves;2
+7215501;J. Goodwin;99
+7215502;Julio César Cortés Ríos;133
+7215503;Yafan Zhao;78
+7215504;Rui Neto Marinheiro;55
+7215505;D. Alemozaffar;63
+7215506;Nicola K. Hook;15
+7215507;David John;93
+7215508;Anna Philippou;112
+7215509;Yuxuan Zhan;121
+7215510;Salvatore Scellato;10
+7215511;Tayyaba Azim;147
+7215512;Spyridon Bakas;139
+7215513;Wei Chen 0053;105
+7215514;John Monk;63
+7215515;Iker Elorza;16
+7215516;Michel Lecours;127
+7215517;Máire McLoone;156
+7215518;Lorenzo Sommaruga;191
+7215519;Eric Kerfoot;91
+7215520;Niall Rooney;55
+7215521;Marcio Rocha;141
+7215522;C. P. Price;35
+7215523;Matthew Orlinski;28
+7215524;Judith Y. Aston;165
+7215525;Sharon Michelle Young;62
+7215526;William John Woollard;9
+7215527;Andrew Chinery;91
+7215528;Wil O. C. Ward;161
+7215529;Ian van der Linde;107
+7215530;Simon Burton;123
+7215531;Emsaieb Geepalla;67
+7215532;Andrew David Moss;115
+7215533;Cerian E. Jones;15
+7215534;Ivor P. Page;75
+7215535;Hugo Gravato Marques;189
+7215536;Yossi Borenstein;16
+7215537;Mary Bernadette Stuart;178
+7215538;Yibing Li;171
+7215539;Sanjay Bilakhia;53
+7215540;Dayang Rohaya Awang Rambli;14
+7215541;Mark Law;45
+7215542;Paolo Besana;28
+7215543;Chidozie Mgbemena;71
+7215544;James Hawthorne;12
+7215545;Annabel Marie Latham;90
+7215546;Ah-long Foo;87
+7215547;Peter M. Will;33
+7215548;Iain Mann;110
+7215549;Olga Zubko;126
+7215550;Chao Yang 0020;77
+7215551;Kyle J. S. White;155
+7215552;Martin John Leigh;77
+7215553;Laurence Robert Tratt;196
+7215554;Talal Ashraf Butt;49
+7215555;L. T. Shafe;15
+7215556;Alexander Menk;80
+7215557;Marius H. Braun;154
+7215558;Ke Yang 0001;21
+7215559;Bita Shadgar;32
+7215560;Jack Whitham;83
+7215561;Daniel Jones 0004;85
+7215562;Luo Mai;119
+7215563;Douglas Andrew Chin;142
+7215564;Jonathan James Trinder;45
+7215565;Wei-Chih Huang 0001;143
+7215566;G. A. M. Ikekeonwu;167
+7215567;Mohd Rizuan Baharon;123
+7215568;KangWoo Lee;28
+7215569;Hilal M. Yousif;106
+7215570;Hakan Duman;172
+7215571;Haris Aziz 0001;133
+7215572;Robin Collier;143
+7215573;Foteini Katsarou;158
+7215574;Zhiyong Zhang 0004;6
+7215575;Sebastian Hunt;105
+7215576;Dongjoe Shin;31
+7215577;David Julian Oziem;149
+7215578;Jian Guan;159
+7215579;Matthew Jeoffroy;65
+7215580;Adrian Wright;112
+7215581;Kisuh Ahn;182
+7215582;Philip Gooch;145
+7215583;Lucia Rapanotti;96
+7215584;Jorge David Gonzalez Paule;93
+7215585;Pavel Rybin;126
+7215586;Badr Al-Johar;107
+7215587;Kurt Debattista;134
+7215588;Andrew Philip Waters;11
+7215589;Martin Petkov Ruskov;25
+7215590;Christopher Novakovic;140
+7215591;Michael Tanner;18
+7215592;Ian Miguel;144
+7215593;Vasilios S. Lazarou;99
+7215594;Anthony John Milbourn;17
+7215595;Andreas Distler;23
+7215596;Roman V. Belavkin;82
+7215597;I. Choudhury;78
+7215598;Francisco Javier Macias;22
+7215599;Trien Do Van;36
+7215600;Asli Eyecioglu Ozmutlu;133
+7215601;Yaser Alosefer;106
+7215602;Yang Zhang 0007;76
+7215603;Karl Bruno Surmacz;131
+7215604;Charles Ikerionwu;27
+7215605;Eric Schneider;148
+7215606;Mark Graham;72
+7215607;Sharadha Kariyawasam;67
+7215608;Blesson Varghese;117
+7215609;Juan Jim Tan;162
+7215610;Joao Moreno Colaco Geada;42
+7215611;Simon John Farley;4
+7215612;Stephen Adams 0002;19
+7215613;Muhammad Shafi;15
+7215614;Gareth Alun Evans;15
+7215615;T. Anderson;159
+7215616;Weinan Zhang 0001;14
+7215617;Bernardo Silva Carmo;4
+7215618;Mohammed Hosni Odeh;73
+7215619;Shahzaib Tahir;28
+7215620;Xibei Jia;11
+7215621;Murray Cole;117
+7215622;Colin Atkinson 0002;146
+7215623;A. R. Clare;112
+7215624;Casper Find Andersen;61
+7215625;Yan Su;198
+7215626;Mozhgan K. Chimeh;166
+7215627;Clement Creusot;23
+7215628;Scott Sherwood;51
+7215629;Nikolas Anastasiou;199
+7215630;Xuejian Wang;44
+7215631;Aphrodite Tsalgatidou;112
+7215632;Andrea Varga;120
+7215633;Ricardo Santos Morla;161
+7215634;Jessica Wardlaw;74
+7215635;Jose Antonio dos Santos Fonseca;61
+7215636;Shell Ying Huang;127
+7215637;Hashim Yaqub;57
+7215638;Saeed Dehnadi;124
+7215639;Anthony V. W. Smith;65
+7215640;Eric James Nichols;113
+7215641;Ziheng Zhou;101
+7215642;Polla Fattah;189
+7215643;Eugene P. Ryan;148
+7215644;Christopher Richardson;144
+7215645;William M. Webberley;168
+7215646;D. Allsopp;173
+7215647;Syed Asad Ali Naqvi;189
+7215648;Darran F. Milne;161
+7215649;Mark Collins;22
+7215650;Odétúnjí Àjàdí Odéjobí;183
+7215651;David Paul Kaye;92
+7215652;Mark Brian Dixon;174
+7215653;M. K. Mirza;120
+7215654;Bong Kyo Moon;57
+7215655;Luo Sun;68
+7215656;Tiberiu S. Chis;96
+7215657;Adel Alkhalil;154
+7215658;Arnaud Autret;173
+7215659;Yuanjing Shi;172
+7215660;Richard Power;4
+7215661;Stavros Petridis;45
+7215662;Haya Almagwashi;128
+7215663;Abdullah M. S. Alaraj;144
+7215664;Darren Dalcher;124
+7215665;Ahmed Al-Riyami;177
+7215666;Jingping Song;131
+7215667;Shouyong Jiang;105
+7215668;Oliver Bates;104
+7215669;C. P. Meletis;7
+7215670;Ahmad John Reeves;5
+7215671;Hongchuan Yu;133
+7215672;Stephen Panayiotou;179
+7215673;Grigorios Loukides;33
+7215674;Omer Qadir;38
+7215675;Mohammed Ahmed Muharram;88
+7215676;Siti Ahmad;156
+7215677;Kefeng Li;15
+7215678;John Williamson;13
+7215679;Michael Pengelly;id
+7215680;Joanna Katherine Brook;31
+7215681;Mark Selby;100
+7215682;D. Goswami;161
+7215683;Lee W. Howes;33
+7215684;Konstantinos Papadopoulos;40
+7215685;Sam Joseph Gilbert;127
+7215686;Katherine Elizabeth Barr;43
+7215687;L. Gregory;67
+7215688;Jamal Mustafa Al-Tuwarijari;163
+7215689;Philip David Smart;44
+7215690;Basem Y. Alkazemi;61
+7215691;Sokyna M. S. Al-Qatawneh;121
+7215692;Harco Leslie Hendric Spits Warnars;9
+7215693;Usman Nasir;155
+7215694;R. D. H. Walker;89
+7215695;Marco Volino;53
+7215696;Alastair F. Donaldson;171
+7215697;Christian Bannister;196
+7215698;Martin Dittus;73
+7215699;Jack Greenhalgh;28
+7215700;Stephen Kell;89
+7215701;Romanos Charitopoulos;19
+7215702;Matthew R. Karlsen;54
+7215703;Wan Amir Fuad Wajdi Othman;104
+7215704;Colin J. Archibald;174
+7215705;Dimosthenis A. Karatzas;106
+7215706;Jose Rojas;20
+7215707;Matteo Bregonzio;169
+7215708;Badril Abu Bakar;122
+7215709;Marian Petre;190
+7215710;Geeng-Neng You;39
+7215711;Matthew James Munro;160
+7215712;Ryuta Arisaka;70
+7215713;Mischa Damian Weiss-Lijn;5
+7215714;Cheng Kai;51
+7215715;Mike Reeve;59
+7215716;Kyriakos Koukoumpsetsos;167
+7215717;Catriona Macaulay;101
+7215718;Hamid Khosravi-Bardsirpour;117
+7215719;Xuegang Wang;154
+7215720;Ljiljana Spadavecchia;160
+7215721;C. J. Davies;129
+7215722;Syeda Fizzah Jilani;39
+7215723;Yue Zhao 0003;21
+7215724;Jean-Marc Boyle;169
+7215725;Yinghui Zhang 0001;198
+7215726;Menglong Ye;30
+7215727;Donald Sannella;43
+7215728;J. H. Tompkin;87
+7215729;Abdul Razak bin Salleh;41
+7215730;N. R. Tomlinson;33
+7215731;Ewa Luger;118
+7215732;William Harwood;81
+7215733;Michael Burrows;17
+7215734;Mohammad Tareq Jaber;70
+7215735;Thomas Rischbeck;135
+7215736;Indrek Ibrus;92
+7215737;Haibin Cai;112
+7215738;Stavros Nikolaou Samothrakis;140
+7215739;Hatab Alsubaie;128
+7215740;Andrej Ljolje;132
+7215741;Andrew J. Robinson 0002;84
+7215742;P. Bennetts;34
+7215743;Jing Guo 0002;28
+7215744;I. Al-Ani;197
+7215745;Leila Senkoro;36
+7215746;Allen Joseph Anie;189
+7215747;Stephania Padovani;47
+7215748;Michael Terence Malone;52
+7215749;Laurence E. Day;188
+7215750;William J. Stewart;52
+7215751;Rizik Al-Sayved;194
+7215752;Mark Robert Lord;126
+7215753;Georgios Haritos;69
+7215754;Emma McHarg;114
+7215755;Firas Mohammad Khalaf Alkhaldi;168
+7215756;I. C. Riches;81
+7215757;Ning Zong;140
+7215758;Miguel Rio;26
+7215759;Colin Kok Meng Ho;33
+7215760;Søren Christensen;131
+7215761;Wenyuan Yu;46
+7215762;Dimitrios Charitos;166
+7215763;Robert W. Witty;114
+7215764;Sherif Farid Fahmy;132
+7215765;Vasileios Giotsas;93
+7215766;Nicholas John Sales;121
+7215767;K. Faith Lawrence;20
+7215768;Gordon Thomas Rohrmair;45
+7215769;Tamás Székely;11
+7215770;Claudia Schulz 0001;129
+7215771;Tzu-Hsi Song;194
+7215772;Ramen Sen;166
+7215773;David J. Acunzo;49
+7215774;Anthony James Howard Simons;180
+7215775;N. A. Marrison;20
+7215776;Felix C. Waldermann;69
+7215777;Stephen Walter McKeever;54
+7215778;James David Laird;148
+7215779;Michael Wheeler;133
+7215780;Mark Nicholas Charles Rhodes;41
+7215781;Paul Dowland;23
+7215782;Tong Tong 0001;65
+7215783;Lichao Wang;28
+7215784;Omkar M. Parkhi;187
+7215785;Mark Andrew James McGreevy;190
+7215786;Behjat Y. M. Al-Yousuf;34
+7215787;C. J. Slinn;173
+7215788;Xiangyang Wang;126
+7215789;Abdolbast Greede;164
+7215790;Jonathan E. Higgins;171
+7215791;Yogesh Raja;149
+7215792;Simon P. Campion;15
+7215793;John Bustard;165
+7215794;Amit S. Malegaonkar;109
+7215795;Maria Karam;26
+7215796;Mutlaq Jalimid Alotaibi;175
+7215797;Rodolfo Gómez 0001;133
+7215798;Mihalis Nicolaou;168
+7215799;R. A. Hassan;20
+7215800;Azzam-ul Asar;167
+7215801;A. Hussien;185
+7215802;Galhenage Indika Udaya Shantha Perera;id
+7215803;Pedro B. Vasconcelos;185
+7215804;Jonathan Jacob Pastushchyn Krohn;19
+7215805;Christopher John Bramwell;192
+7215806;Christopher Lester;38
+7215807;Ashish Tandon;195
+7215808;Jing Liu 0016;188
+7215809;Christiana Panayiotou;11
+7215810;Yves-Laurent Kom Samo;61
+7215811;Nicola Freebody;68
+7215812;Ludovic Malfait;199
+7215813;Patience Ebehiremen Orukpe;86
+7215814;Christopher Steven Pettitt;30
+7215815;A. W. Wakelin;20
+7215816;Melanie M. Rudolph;27
+7215817;Ching-Lai Hor;10
+7215818;Matthew Thompson 0001;93
+7215819;Eoghan O'Neill;181
+7215820;Charles Care;122
+7215821;Katarzyna Aleksiejuk;42
+7215822;Reinhold Kloos;195
+7215823;Dominic Edward Job;182
+7215824;R. J. Lamden;158
+7215825;E. S. Harrison;4
+7215826;Alexander Lamaison;117
+7215827;Donald Francis Ross;13
+7215828;A. Norris-Sherborn;113
+7215829;Sami Al-Hamdan;91
+7215830;Neil Lightowler;52
+7215831;Mark Jenkins;166
+7215832;Parivash Ashrafi;24
+7215833;A. A. Algamdi;131
+7215834;Carol Barbara Franks;113
+7215835;Martin Graham;185
+7215836;Christopher John Purcell;65
+7215837;Joseph Henry;97
+7215838;Mai Alfawair;90
+7215839;Miriam Backens;180
+7215840;Henrik Engström;72
+7215841;Rajeev Sudra;68
+7215842;M. A. De Carvalho;194
+7215843;Xin Sun 0012;22
+7215844;Noor Hayati Hashim;82
+7215845;Brian G. Tripney;42
+7215846;Joshua Ellul;7
+7215847;Jon Rimmer;119
+7215848;Gerhard Wickler;59
+7215849;Daniel James Owen;193
+7215850;Andrew David Hutcheon;20
+7215851;Seyed Navid Haji Mirza;51
+7215852;Alda Sofia Pires de Dias Marques;14
+7215853;Douglas Ealey;154
+7215854;Christos Papathanassiou;196
+7215855;Iain John Bate;102
+7215856;A. K. Kochhar;34
+7215857;Peyman Behbahani;14
+7215858;Ling Zheng;36
+7215859;M. Darmi;72
+7215860;Muaz A. Niazi;19
+7215861;Yasser Muhammad Naguib Sabtan;199
+7215862;Robert Spencer;80
+7215863;C. K. Bright;171
+7215864;Di Cai;38
+7215865;Oswald Aldrian;1
+7215866;Hugo Carr;129
+7215867;I. M. Hamlet;163
+7215868;C. Conn;78
+7215869;David Cabanis;24
+7215870;Cristina Boeres;169
+7215871;Ahmed A. Al Khateeb;136
+7215872;Dylan Clarke;135
+7215873;Khaled Sobaihi;121
+7215874;Stephen Flavell;161
+7215875;Kai-Pin Tung;167
+7215876;Miao Kang;127
+7215877;Lutz H. Hamel;123
+7215878;Mojdeh Amani;29
+7215879;Mobolaji Akinola;31
+7215880;Ray Waddington;139
+7215881;S. A. Hale-Ross;124
+7215882;Dimane Mpoeleng;113
+7215883;Florian Schroff;145
+7215884;Gavin Sim;69
+7215885;Ioannis Tsalamanis;131
+7215886;Kenneth J. McGarry;169
+7215887;Mohamed Osama El-Giar;146
+7215888;Pejman Mirza-Babaei;32
+7215889;Mbou Eyole-Monono;108
+7215890;Ossama Hashem Khamis Embarak;98
+7215891;Vasilios Pasias;7
+7215892;Maura Beth Paterson;186
+7215893;L. D. Burrow;97
+7215894;Bo Wang 0034;93
+7215895;Asia Al-Karkhi;93
+7215896;Diane Meehan;150
+7215897;Ahmed Kattan;79
+7215898;Janan Abdulsattar Mustafa;172
+7215899;R. C. Hook;43
+7215900;Yuke Ma;83
+7215901;Khalid Almohammadi;63
+7215902;Patrick J. McParland;23
+7215903;Alysia Skilton;99
+7215904;Yasser Mohammed Alghurabi;68
+7215905;Julia Anne Dain;77
+7215906;N. J. Davies;98
+7215907;L. M. Popovic;57
+7215908;Jane Terry;7
+7215909;Gerhard Deon Oosthuizen;132
+7215910;Leonardo Badino;175
+7215911;Ines Marusic;120
+7215912;Giannis Piveropoulos;176
+7215913;Alan C. Y. Wong;19
+7215914;Mindaugas Gapsevicius;123
+7215915;Yanxia Zhang;86
+7215916;Peter E. Lauer;101
+7215917;Timothy S. Butler;124
+7215918;Richard B. P. Burrows;53
+7215919;Vincent Zammit;105
+7215920;Rabinder Lee;166
+7215921;Supakorn Prungsinchai;141
+7215922;R. Al-Shabandar;5
+7215923;Eman S. Al-Abri;65
+7215924;Víctor Manuel Zamudio Rodríguez;195
+7215925;Aleks Kissinger;56
+7215926;Syed Izhar Hussain Zaidi;133
+7215927;Jakub Marecek;160
+7215928;Roger William Stephen Hale;21
+7215929;Ivaylo Hristakiev;153
+7215930;Corinna Julia Elsenbroich;185
+7215931;Ian Jason;32
+7215932;Kitty Shuk-Yee Hung;188
+7215933;Howell O. Istance;116
+7215934;Markos Papadonikolakis;90
+7215935;Jonathan M. Sandford;58
+7215936;Abeer Alnuaim;18
+7215937;M. D. Simmons;191
+7215938;Richard Michael Bentley;92
+7215939;Alexander Bolotov;165
+7215940;Kenz Amhmed Bozed;100
+7215941;B. A. Huckle;186
+7215942;Sergio A. S. Moraes;78
+7215943;Danielle Kaminski;160
+7215944;Xun Dong;101
+7215945;Hanaa A. Aldahawi;132
+7215946;James Kelly;58
+7215947;Craig Robinson;2
+7215948;Andre Soares Monat;123
+7215949;Eric Agyei-Bekoe;51
+7215950;Chengwei Dai;171
+7215951;Asma Ounnas;162
+7215952;Rashid Ali Khan;19
+7215953;Philip David Tetlow;87
+7215954;Matthew Horridge;123
+7215955;Simon Ogg;20
+7215956;Stephen Hitchman;175
+7215957;Alvaro Adolfo Antunes Fernandes;187
+7215958;Richard Alexander Hayden;160
+7215959;Leilei Li;120
+7215960;Fleur Liane Williams;95
+7215961;Mark Green;52
+7215962;Craig John Saunders;188
+7215963;Horacio González-Vélez;128
+7215964;Duncan Peter Frost;178
+7215965;Imran Sheikh 0001;36
+7215966;A.-N. S. Abo-Rezeq;6
+7215967;Yuanping Xu;104
+7215968;Kleopatra Chatziprimou;191
+7215969;Jinfu Wang 0001;49
+7215970;Mark Eric Wiegand;19
+7215971;Muhammad Shakir Hussain;7
+7215972;Alastair Colin Murray;20
+7215973;Gary John Phythian;100
+7215974;Alastair Hampshire;179
+7215975;B. B. Khan;171
+7215976;Kent Tsz Kan Cheung;155
+7215977;Ann Reddipogu;66
+7215978;Oded Tal;110
+7215979;Ammar Al-Dallal;8
+7215980;Paul Rauwolf;158
+7215981;Andrew Zammit Mangion;17
+7215982;Vitaly Teterin;94
+7215983;Samar Khadrah;197
+7215984;Lorna McKnight;24
+7215985;Paul R. McWhirter;173
+7215986;Robert Eurig Mitchelmore;155
+7215987;Wichit Sombat;101
+7215988;Helen Bakhsh;149
+7215989;Ali Khajeh-Hosseini;10
+7215990;Guillaume Raynaud;133
+7215991;Stuart M. Wheater;147
+7215992;Haiyan Xiong;34
+7215993;Xiaofei Du;90
+7215994;Gavin John Doherty;191
+7215995;Carina Frota Alves;30
+7215996;Evan Benjamin Thompson;15
+7215997;Eva Banik;80
+7215998;David Ian Wyatt;70
+7215999;Dai-Il Kim;36
+7216000;D. T. Dalzell;93
+7216001;Stuart Pullinger;137
+7216002;Hesham A. Elzouka;157
+7216003;Jie Shen 0008;161
+7216004;Shusen Yang;142
+7216005;S. G. Nikola;23
+7216006;Xiaowei Zhao;122
+7216007;Mohammad Al Mojamed;96
+7216008;Mylene Melley;146
+7216009;Lakshitha de Silva;143
+7216010;Esra'a Alshdaifat;161
+7216011;James Webber;107
+7216012;George Craig Shering;119
+7216013;Ellis Rowland Watkins;198
+7216014;Nadjet Bouayad-Agha;113
+7216015;Dhaifallah Alwadani;70
+7216016;Xinwei Zhou;15
+7216017;H. J. Williams;120
+7216018;Kirsten Mhairi Sinclair;70
+7216019;Sukhdev Singh Khebbal;18
+7216020;Srinivas;136
+7216021;Gada F. Kadoda;60
+7216022;Sebastian E. Ahnert;64
+7216023;Xinruo Zhang;41
+7216024;Jiandong Lang;28
+7216025;Philip David Coward;188
+7216026;Emmanuel Brousseau;63
+7216027;Mudhi Mohammed Aljamea;14
+7216028;Alexander Artikis;98
+7216029;Peter Matthew;63
+7216030;Ali Abusnina;125
+7216031;W. G. McGinley;65
+7216032;Janet C. Read;37
+7216033;Mian Asbat Ahmad;109
+7216034;Esraa Alwan;107
+7216035;Imran Askerniya;114
+7216036;Jung-Wook Bang;57
+7216037;Yung Kyung Park;id
+7216038;Yaser Saleh;96
+7216039;Stefan Pszczolkowski Parraguez;71
+7216040;Aimin Zhou;22
+7216041;Sonia Wilkie;179
+7216042;Martin Charles Atkins;25
+7216043;Siddharth Sigtia;1
+7216044;Paul Alexander Aitken;158
+7216045;Zacharia John Mtema;45
+7216046;Ken Lomax;171
+7216047;Martin James Green;51
+7216048;Sarah A. Sauvé;176
+7216049;R. V. Potter;33
+7216050;Obinna Anya;108
+7216051;Jacki O'Neill;136
+7216052;Jirí Mencák;3
+7216053;Georgios Ioannou;135
+7216054;M. D. Harrison;41
+7216055;Ian Brown;41
+7216056;Alexander James Williamson;180
+7216057;Dan Zhao 0003;134
+7216058;Filipe Cristino;143
+7216059;Michael Kevin Williams;74
+7216060;Joseph James Williams;113
+7216061;Jacob M. Howe;99
+7216062;Jason Lines;83
+7216063;Milena Yankova-Doseva;7
+7216064;Amri Yusoff;120
+7216065;Athanasios Papakonstantinou;148
+7216066;Mabrouka Baqqar;105
+7216067;Sun-Hea Choi;46
+7216068;Xi Chen 0015;78
+7216069;James S. Cope;29
+7216070;P. Barkataki;39
+7216071;Paul Sandoz;196
+7216072;Theodoros Theodoridis;192
+7216073;Erich Wolfgang Steiner;154
+7216074;Fernando Martins Muradas;11
+7216075;Denis Chekhov;68
+7216076;Paul Watson 0001;158
+7216077;Joop van de Pol;132
+7216078;Serein Abdelmonam Alratrout;21
+7216079;Brian Peach;75
+7216080;P. G. Hancock;68
+7216081;Tobias Anthony Marett O'Hara;154
+7216082;Muhammad Asim;185
+7216083;Joao H. Bettencourt-Silva;10
+7216084;William J. Martin;33
+7216085;Rashid J. Al-Ali;85
+7216086;Christos Efstratiou;171
+7216087;Michael P. Pound;63
+7216088;Jinhan Kim;150
+7216089;Gerard M. Blair;106
+7216090;David William Roff Marsh;183
+7216091;Rachel M. Jones;102
+7216092;Jesper Mortensen;189
+7216093;Scott F. Page;131
+7216094;Simon Cooper;91
+7216095;Alexandre Marcos Lins de Vasconcelos;54
+7216096;Neil Hewitt;101
+7216097;Leslie Ann Goldberg;64
+7216098;Kamalrulnizam Abu Bakar;105
+7216099;Zhihui Luo 0002;1
+7216100;Soran Saeed;83
+7216101;Adrian Colbrook;42
+7216102;Ali Rodan;131
+7216103;Nordin Abu Bakar;52
+7216104;Xiaowei Zhou;146
+7216105;Jan de Muijnck-Hughes;167
+7216106;C. S. Buchanan;180
+7216107;Mihai Burcea;52
+7216108;George D. M. Ross;178
+7216109;Alan Stewart;148
+7216110;Greg Ross;17
+7216111;Stephen Doswell;147
+7216112;Christopher J. Arthurs;144
+7216113;Martin Biehl;11
+7216114;Pavlos Symeonidis;30
+7216115;Wasifa Jamal;65
+7216116;C. Y. Chan;184
+7216117;An Ping Zhao;68
+7216118;Austen William Rainer;170
+7216119;Qammer Hussain Abbasi;37
+7216120;Carl Wilhelm Rantzien Cronholm;107
+7216121;Dimoklis Despotakis;25
+7216122;Yulia Cherdantseva;121
+7216123;Andrew M. Peacock;74
+7216124;Wee Hoe Tan;67
+7216125;Mark C. M. Hsieh;93
+7216126;Simon J. Shum;127
+7216127;Abdullatif M. Al Abdullatif;60
+7216128;Owen Defries Brady;118
+7216129;William Knight 0001;129
+7216130;Paul Harvey 0002;81
+7216131;Eleni Kaplani;79
+7216132;Paul James Fox;57
+7216133;Catalin Gheorghe Amza;130
+7216134;Michael Philip Smith;73
+7216135;Suleyman Al-Showarah;68
+7216136;David J. Wilson;52
+7216137;Helen Jackson;85
+7216138;Shaun Howell;171
+7216139;Williams A. G. Prys;161
+7216140;Hector Alejandro Duran-Limon;148
+7216141;Abby D. Levenberg;184
+7216142;Nicholas Robert Cameron;43
+7216143;Doon MacDonald;144
+7216144;Christos Politis;97
+7216145;Andrew Ireland;7
+7216146;Mehdi Badii;152
+7216147;Christophe Meudec;110
+7216148;Anders Fongen;46
+7216149;Amanda Peart;57
+7216150;Tussanai Parthornratt;120
+7216151;Nikhil Ratanje;150
+7216152;Mark Sanderson;124
+7216153;Claire Jones;136
+7216154;Hamid Gharib;48
+7216155;Chun-Wei Yeh;16
+7216156;Derek John Mortimer;122
+7216157;Paul Ardin;157
+7216158;Chuangjie Xu;178
+7216159;Andrzej Warzynski;109
+7216160;Matthew J. Lovert;159
+7216161;James A. Ollis;91
+7216162;Rozlina Mohamed;50
+7216163;Simon R. Wiseman;187
+7216164;Matheos Stylianou Charalambides;106
+7216165;Osama Abu-Rahmeh;101
+7216166;Hing-Yin Mak;72
+7216167;Etimad A. Fadel;124
+7216168;Barney Stratford;186
+7216169;Steinar Kristoffersen;46
+7216170;Christopher Alex McLean;178
+7216171;Hisham Abdel-Ghaffer Aboul-Enien;52
+7216172;George Page;107
+7216173;Wei Liang 0002;87
+7216174;Richard Sandiford;35
+7216175;Shih-Yang Chiao;60
+7216176;Juan Camacho Gonzalez;34
+7216177;Sam Lindley;66
+7216178;Grammateia Kotsialou;92
+7216179;Samuel Ross Andrews;98
+7216180;Anshul Gupta;86
+7216181;Reda Younsi;191
+7216182;Tony Chich-Chiang Fan;3
+7216183;Huong LeThanh;61
+7216184;R. J. Botting;7
+7216185;Anna Maria Tammaro;114
+7216186;Anthony Sargeant;63
+7216187;Ian Michael Dobie;15
+7216188;Simon Jouet;66
+7216189;R. W. Thatcher;3
+7216190;Gavin John Stark;139
+7216191;Daniel Edward Salt;46
+7216192;Fan Jin;19
+7216193;Frederick Valentine McBride;54
+7216194;Judith Kelner;176
+7216195;Aleksandr V. Segal;97
+7216196;Jim Davies;79
+7216197;Torsten Ackemann;137
+7216198;Valerie Rose;93
+7216199;Michalis Titsias;1
+7216200;Saqer Abdel-Rahim;168
+7216201;Jie Hu 0001;132
+7216202;Alberto Magni;2
+7216203;Temesghen Kahsai;164
+7216204;Robert Askwith;35
+7216205;S. T. Tei;110
+7216206;Ian Ruthven;129
+7216207;Andrew C. Simpson;148
+7216208;D. H. Jerew;147
+7216209;Matthew Timothy Patrick;49
+7216210;Alan R. Newton;3
+7216211;Martin Ellis;93
+7216212;Min Seong Kim;4
+7216213;Carlos Molina-Jiménez;85
+7216214;Arthur William Mecklenburg;19
+7216215;Alicja Piotrkowicz;38
+7216216;Anthony John Hepple;56
+7216217;I. G. Thomson;129
+7216218;Alexandros Gounaropoulos;32
+7216219;Kirill Bogdanov 0002;106
+7216220;Abdalla Kablan;192
+7216221;Roberto Leyva;113
+7216222;Simon Emberton;175
+7216223;Paul Baden Austin;39
+7216224;Gert Westermann;155
+7216225;James Humble;123
+7216226;Timothy Langdon Parsons;187
+7216227;James Andrew Ozment;90
+7216228;Christopher John Inkpen;176
+7216229;Christopher John William Townson;58
+7216230;Peter Reginald George Harding;16
+7216231;Ka Lai Ho;151
+7216232;Jawed Siddiqi;95
+7216233;Kalpesh Kapoor;151
+7216234;Prasanthi Rathnala;106
+7216235;Jonathan Carlos Mayo-Maldonado;123
+7216236;Pauline Kan;6
+7216237;Viktor Vafeiadis;189
+7216238;Khin Hua Ng;193
+7216239;C. M. S. Adcock;86
+7216240;Pengming Wang;109
+7216241;Trevor Collins;152
+7216242;Yibin Wang;69
+7216243;Qiao Cheng 0001;155
+7216244;Robin Fencott;176
+7216245;Belsam Attallah;156
+7216246;Amir Mansoor Kamali Sarvestani;45
+7216247;Abdulaziz Zaenalabedeen;123
+7216248;Wee Jin Goh;94
+7216249;C. M. Elstob;25
+7216250;Pierre-Yves Lesage;174
+7216251;Abdulbasit Al-Talabani;137
+7216252;Renan Cipriano Moioli;id
+7216253;Enrico Scalavino;105
+7216254;Mohammed Messaoudi;156
+7216255;Richard Green;187
+7216256;Pi-Hwa Sun;47
+7216257;Chuan Bai;168
+7216258;Dade Nurjanah;152
+7216259;Stefano Ortona;129
+7216260;Cem Direkoglu;117
+7216261;Hamish I. E. Gunn;39
+7216262;Janice Sheasby;27
+7216263;Dominik Safránek;181
+7216264;S. H. Yong;192
+7216265;Qinbing Fu;99
+7216266;Thomas Pohl;126
+7216267;Timothy Leung;116
+7216268;Joseph Arthur Wood;178
+7216269;Haider Khalil Easa;112
+7216270;Jorge Faleiro;8
+7216271;Andrew MacFarlane 0001;100
+7216272;Nick Jeremy Mavity;9
+7216273;Frank Doelitzscher;76
+7216274;Valentina A. M. Tamma;40
+7216275;She Ri Gu Leng;26
+7216276;James R. Williams;27
+7216277;Damon Daylamani Zad;182
+7216278;Sifat Momen;116
+7216279;Lu Guo;146
+7216280;John J. Scott;8
+7216281;Eduardo Couto Dalcin;27
+7216282;David Guthrie;64
+7216283;Ermioni Topintzi;134
+7216284;Emad Shafie;105
+7216285;Benigno Uria;106
+7216286;Daniel Goodman 0002;149
+7216287;Ion Androutsopoulos;139
+7216288;D. D. Hamilton;58
+7216289;Daniel M. Lowe;113
+7216290;Kikelomo Maria Apampa;31
+7216291;Ayman Qahmash;183
+7216292;Simon Ambrose Brown;29
+7216293;R. Hull;43
+7216294;Teresa Paula Azevedo Perdicoúlis;34
+7216295;Jieming Ma;3
+7216296;James Campbell Charles Darling;135
+7216297;Benjamin Guy Shirley;189
+7216298;Socrates Linardakis;161
+7216299;Aimilia Tzanavari;35
+7216300;Atanu Ghosh;37
+7216301;Tony Shepherd;48
+7216302;D. Murray Laing;39
+7216303;Colin T. S. Sng;173
+7216304;Yuan Chen 0002;89
+7216305;Olushola Alexander Akinbi;189
+7216306;Jean Tajer;12
+7216307;Yichao Yang;81
+7216308;Bowen Lu;88
+7216309;Nan Wu 0001;193
+7216310;George Siemens;130
+7216311;Avraam Tapinos;165
+7216312;Seyed-Hassan Mirian-Hosseinabadi;195
+7216313;Paul M. Wadsworth;55
+7216314;Mario R. F. Benevides;147
+7216315;David Christopher Turner;176
+7216316;Tobias Becker;119
+7216317;Marcus R. Frean;65
+7216318;Zuraini Zainol;30
+7216319;Bendra Ojameruaye;50
+7216320;Asad Ali 0002;107
+7216321;Anastassia Spiridou;178
+7216322;Wenlong Wang;8
+7216323;Kathleen Mary Curran;19
+7216324;Fan Ye 0005;135
+7216325;Samantha Patricia Bail;86
+7216326;Osian Haines;199
+7216327;John Kingston;93
+7216328;Peter Salkeld Robertson;106
+7216329;Rupert F. Weare;178
+7216330;Nuo Li;77
+7216331;Petros Bofakos;52
+7216332;Duncan J. Batey;96
+7216333;Robin Woodburn;131
+7216334;Alireza Rastegarpanah;112
+7216335;Rhys Alun Griffiths;10
+7216336;Muhammad Zakarya;145
+7216337;Daniel Whitehouse;134
+7216338;Alexandros Agapitos;14
+7216339;Seyed Nasser Farimani-Toroghi;90
+7216340;Dana Dghaym;184
+7216341;Jie Hu 0017;37
+7216342;Peng Zhang 0002;12
+7216343;G. A. Roberts;169
+7216344;Matthew Francis Hurst;140
+7216345;Shekoufeh Kolahdouz Rahimi;23
+7216346;Artie Basukoski;18
+7216347;Nadia Al-Hassan;153
+7216348;Ioannis Douros;167
+7216349;Yulin Wang;7
+7216350;C. Aday Curbelo Montañez;149
+7216351;Muhamad Kamal M. Amin;2
+7216352;Li Meng;108
+7216353;Sylvain Brugnot;124
+7216354;Stewart Alexander Thomson;100
+7216355;L. M. Parker;114
+7216356;Ji Ruan;7
+7216357;Ernest Sithole;196
+7216358;Sarah Taylor;191
+7216359;Stuart Hutchesson;145
+7216360;Georgios Christogiannopoulos;109
+7216361;Ali Haldun Taner;id
+7216362;Ke Yu;69
+7216363;Zhenyu Li 0004;42
+7216364;Mary Habib;7
+7216365;Tonworio Oguara;26
+7216366;Dilipkumar Kantibhai Patel;28
+7216367;Saba Nasseri;55
+7216368;Alexander Brostoff;51
+7216369;Carole Susan Klein;13
+7216370;John C. Flackett;21
+7216371;Keerthi Thomas;3
+7216372;Wing Keung Felix Lor;146
+7216373;Santiago Martinez;14
+7216374;Hamid Reza Jalalian;24
+7216375;Sarah Anne Margaret Talbot;49
+7216376;James Patrick John Irwin;63
+7216377;Florida Estrella;140
+7216378;Hristina Palikareva;112
+7216379;Hernán Prieto Schmidt;61
+7216380;Jean-Philippe Turcat;171
+7216381;Ioannis Korkontzelos;14
+7216382;Inês de Castro Dutra;159
+7216383;Robin P. Neatherway;49
+7216384;Ian Karl Levy;99
+7216385;Qian Xu 0006;193
+7216386;Abdulaziz Ibrahim Alayed;94
+7216387;Derek Foster;53
+7216388;Jianhua Shao 0002;55
+7216389;Valentina Zanardi;67
+7216390;Pushmeet Kohli;194
+7216391;Song Xiao;137
+7216392;Huat Tatt Gan;199
+7216393;Jason Adam David Atkin;99
+7216394;Syed Saqib Khursheed;125
+7216395;Alexandros G. Rigas;87
+7216396;Antonio D. Kheirkhahzadeh;186
+7216397;Asma Abdulghani Qassem Al-Shargabi;90
+7216398;Guido Zuccon;65
+7216399;Julian A. Padget;89
+7216400;Ilias Kolonias;71
+7216401;Ali Fouad;99
+7216402;D. R. Appleton;131
+7216403;Shem J. Ochuodho;181
+7216404;Joao Baptista da Silva Araujo;169
+7216405;Marco Colombo;160
+7216406;Jionglong Su;190
+7216407;Osmar Marchi dos Santos;166
+7216408;Petros Papapanagiotou;134
+7216409;Nils Knafla;106
+7216410;Carl David Evans;178
+7216411;Anna Vartapetiance;99
+7216412;Hazel Anne Shaw;44
+7216413;Mateusz Ujma;85
+7216414;Matthew Terrell;4
+7216415;J. Longstaff;77
+7216416;Casey McQuinn Wilson;195
+7216417;W. C. Charles;160
+7216418;Qi-zhi Sun;193
+7216419;Christian Günsel;9
+7216420;Eve Elizabeth Hoggan;100
+7216421;Stephen Howard Duncan;124
+7216422;Adrian Baldwin;166
+7216423;Mark Sheppard;7
+7216424;Stuart Reeves;162
+7216425;Chengqiang Huang;197
+7216426;Alexis Boukouvalas;8
+7216427;Mohammad Saeed Abou Trab;6
+7216428;Rizvi Rahman;114
+7216429;Daniel Liew;78
+7216430;Nicholas David Francis;27
+7216431;Mohammad Mustafa Taye;141
+7216432;Tut San Guan;2
+7216433;Timothy John Taylor 0002;20
+7216434;Tahir Mohammed Hassan;32
+7216435;Hanan Al-Jubouri;102
+7216436;Andreas Antoniades;14
+7216437;Katie Bentley;135
+7216438;Petar Palasek;84
+7216439;Jaewoo Joo;197
+7216440;Abdulgader Almutairi;147
+7216441;Kassim S. Mwitondi;141
+7216442;G. S. Birk;168
+7216443;Thomas S. Gatewood;173
+7216444;Simon J. Hunt;178
+7216445;Mei Lin Hui;174
+7216446;Tim Murdoch;25
+7216447;M. F. P. Gillies;45
+7216448;Bernard D'Antras;41
+7216449;Gavin A. Campbell;198
+7216450;Oleksandr Pryymak;22
+7216451;Ian Napier;110
+7216452;Adriaan Wolfgang Joubert;78
+7216453;Amina Said Mohammed Alsawaai;24
+7216454;Domenico Corapi;172
+7216455;Cornelius Glackin;125
+7216456;Rawle C. S. Prince;71
+7216457;Jaratsri Rungrattanaubol;193
+7216458;Lewis Percival Gordon Evans;115
+7216459;Ali Alsam;136
+7216460;Charalampos Karagiannidis;21
+7216461;Cheng Zhang 0010;171
+7216462;Rahul Premraj;98
+7216463;Chintagunta Abhishek;69
+7216464;Paul Watson 0002;57
+7216465;Chandrika Cycil;30
+7216466;Sami Smadi;153
+7216467;Alan Jeremy Jeffcoat Dick;32
+7216468;George Papamargaritis;151
+7216469;Alison J. Heppenstall;114
+7216470;René Keller;21
+7216471;Bairong Zhang;185
+7216472;Paschalis Veskos;41
+7216473;Yong Liu 0015;id
+7216474;S. Sudirman;85
+7216475;D. P. Stoten;62
+7216476;Bernardino Romera-Paredes;19
+7216477;Klaus E. Schmitz Abe;128
+7216478;Mauricio Varea;16
+7216479;Cecilia Loureiro-Koechlin;155
+7216480;Stephen Nicholas Laughton;161
+7216481;Ming-Feng Lee;94
+7216482;Ping Wang 0013;168
+7216483;L. G. Samaraweera;172
+7216484;Matthew D. Ryan;145
+7216485;Clive Fencott;27
+7216486;Hsiu Ching Hsieh;155
+7216487;Richard Vincent Bennett;81
+7216488;Miguel Branco;49
+7216489;David Edward Millard;197
+7216490;Tudor Pascu;13
+7216491;Stephanie Simmons;2
+7216492;Edward Fiddy;42
+7216493;Karim Yaici;55
+7216494;Christopher Bak;52
+7216495;Mohammad A. Dabbah;190
+7216496;Paul Netherwood;144
+7216497;M. G. V. Albutt;184
+7216498;S. H. Booth;62
+7216499;Sei Howe;85
+7216500;Gregor Schwake;124
+7216501;M. A. Ledwich;122
+7216502;Natalia Dowding;146
+7216503;Xin U. Liu;52
+7216504;Sara Aghdaei;74
+7216505;Fenglian Qiu;118
+7216506;Robert Egginton;35
+7216507;Noel William Winstanley;135
+7216508;Christopher Burbridge;id
+7216509;Stephen Cook 0002;184
+7216510;Antony McCabe;140
+7216511;Paul Philip Boca;108
+7216512;Mohammed Alwanain;17
+7216513;Marcelo P. Fiore;146
+7216514;Sumitha L. Balasuriya;195
+7216515;Munir Hussain Naveed;185
+7216516;Zeeshan Malik;38
+7216517;Watcharin Po-ngaen;29
+7216518;Claire E. Gerrard;33
+7216519;Yi Pan 0002;91
+7216520;Thomas J. Butcher;13
+7216521;Peter Ho Yin Ching;151
+7216522;Kaveh Darabi;53
+7216523;Jerome Jackson;162
+7216524;Elizabeth Black;180
+7216525;Ana Leticia de Cerqueira Leite Duboc;14
+7216526;Paul Arkley;187
+7216527;Jonathan Michael Robert Byrd;186
+7216528;Gregg O'Malley;131
+7216529;Russell Newman;186
+7216530;Alexnewton Alexander;30
+7216531;Kae Yeet Foo;93
+7216532;Albert M. Selvin;122
+7216533;Cristian Riveros Jaeger;83
+7216534;Kimberley James Jarvis;189
+7216535;Adriano Martins Lopes;23
+7216536;Jakramate Bootkrajang;3
+7216537;Gai Sun;29
+7216538;Adriano Velasque Werhli;6
+7216539;Khaled Almejalli;142
+7216540;Maarten Steen;17
+7216541;Matthew Broadbent;80
+7216542;Sarah L. Taylor;54
+7216543;Ian Stewart Gibson;32
+7216544;Majid Naeem;44
+7216545;Khaled Mahbub;184
+7216546;J. K. S. McKay;15
+7216547;Alasdair Armstrong;95
+7216548;Simon Attfield;37
+7216549;Darren George Priddin;176
+7216550;Olav Beckmann;73
+7216551;Miriam Akemi Manabe Capretz;121
+7216552;Mohammad Hossein Sadaghiani;81
+7216553;Nor Zainah Siau;113
+7216554;Peter Foster;132
+7216555;William Ivan Warburton;70
+7216556;Petar Iliev;10
+7216557;Gianni Corino;90
+7216558;Andreas Ulrich Mauthe;65
+7216559;Amy V. Beeston;27
+7216560;Hugo George Hiden;137
+7216561;Horatiu S. Bota;192
+7216562;Gunnar Aastrand Grimnes;108
+7216563;Hywel R. Dunn-Davies;168
+7216564;Fathi Abuagila A. Hamhoum;157
+7216565;Yongxin Yang;88
+7216566;David Forrest;113
+7216567;David Maurice Flinton;196
+7216568;Alexandros G. Fragkiadakis;7
+7216569;Xiaodong Chen;144
+7216570;Zuhoor Abdullah Al-Khanjari;138
+7216571;Roberto Lopez-Hernandez;68
+7216572;Neal Kiritkumar Lathia;92
+7216573;Alastair J. D. Craft;4
+7216574;Mark Elsom-Cook;157
+7216575;Stavros Isaiadis;188
+7216576;Lipeng Wen;83
+7216577;W. J. Wilson;107
+7216578;Ervin Ramollari;187
+7216579;Duncan P. Brumby;130
+7216580;Olly Oechsle;2
+7216581;Vu Nam Tran;99
+7216582;R. K. Wood;97
+7216583;Michael Oliver John Thomas;114
+7216584;Philip Thomas Cattani;44
+7216585;Ji Ni;186
+7216586;Peter David Mosses;145
+7216587;Aaron D. Mason;46
+7216588;Julia Wallace;60
+7216589;John Bates;149
+7216590;Christopher Köhnen;36
+7216591;Jaelson Freire Brelaz de Castro;73
+7216592;Shuxian Chen;176
+7216593;José Antonio Reyes;136
+7216594;Tezcan Dilshener;39
+7216595;Andrew David Ben-Dyke;49
+7216596;Raéd Yousef Sindaha;5
+7216597;P. J. Horne;117
+7216598;Richard Brough;68
+7216599;Ahmed Hosny Omar Saad Ahmed;134
+7216600;Douglas Kunda;14
+7216601;Mike Healy;111
+7216602;Witold Slowinski;88
+7216603;Timothy Sean Brookes;22
+7216604;Stuart Michael Cox;171
+7216605;D. J. Watson;32
+7216606;Jan Andrzej Duracz;164
+7216607;Ciaron William Murphy;11
+7216608;Mark Ian Snaith;93
+7216609;Mubarak Aldwsry;85
+7216610;Ian Gray;117
+7216611;Andrew J. Chipperfield;74
+7216612;Bareeq A. Al Ghannam;136
+7216613;Nivea de Carvalho Ferreira;48
+7216614;Izhar Che Mee;189
+7216615;Elizabeth S. Guy;17
+7216616;Zeshan Malick;id
+7216617;Ian Stokes-Rees;129
+7216618;Lu Fan;99
+7216619;Olaf Karl Klinke;117
+7216620;David G. M. Mitchell;95
+7216621;Fernando Osorno-Gutierrez;150
+7216622;R. C. Hutty;50
+7216623;Ming-Lang Lin;111
+7216624;Jing An;70
+7216625;Alberto Moraglio;27
+7216626;Yuangui Lei;106
+7216627;Emyr Wyn Evans;124
+7216628;Alex E. Hayes;24
+7216629;Kaveh M. Moazami-Goudarzi;173
+7216630;Zheng Zeng;183
+7216631;Vassileios Karakostas;178
+7216632;Maria Sifniotis;165
+7216633;Sean Andrew Jacobs;60
+7216634;Teresa Del Soldato;132
+7216635;Bharat Gupta;47
+7216636;Adel Taweel;58
+7216637;Wei Zhou 0015;48
+7216638;Kenneth H. W. Chan;97
+7216639;I. M. Andrews;166
+7216640;Raymond Hu;136
+7216641;Hani Sayyaf Alharbi;7
+7216642;Sandra Periam Foubister;103
+7216643;Martin Bellamy;97
+7216644;Nicolae Radu Zabet;154
+7216645;Kin Leong Ho;161
+7216646;Jose Carlos Soares Brandao;112
+7216647;Yin Leng Theng;64
+7216648;Yong Luo 0001;139
+7216649;Martha Lucia Hause;191
+7216650;Emmanuel Touloupis;173
+7216651;Fahad Anwar;28
+7216652;Andrew J. Newell;169
+7216653;Cassandra Gould;119
+7216654;D. Green;64
+7216655;Ibrahim Kabiru Musa;99
+7216656;Louis Major;78
+7216657;Áine MacDermott;5
+7216658;Thomas Page;142
+7216659;Mohammad Ali Moni;157
+7216660;Barry Taylor;20
+7216661;Michael James Compton;76
+7216662;Stephen R. Adams;198
+7216663;Niran Subramaniam;166
+7216664;A. K. Pui;124
+7216665;Caroline Ann Bassett;197
+7216666;Shangzhu Jin;150
+7216667;Juan D. Millan-Cifuentes;181
+7216668;Christopher Bevan;111
+7216669;Anjie Fang;159
+7216670;Alassane Seck;150
+7216671;Maryam Roshanaei;163
+7216672;Timothy Humphreys;46
+7216673;Mathew J. Wilson;77
+7216674;Kamlesh Mistry;28
+7216675;Timothy John Todman;130
+7216676;John W. Patchell;41
+7216677;Yunfeng Ma;103
+7216678;Xiaoming Wang 0008;47
+7216679;Karsten Loer;74
+7216680;Jarinee Chattratichart;14
+7216681;Steven Frank Bridge;153
+7216682;Victor Ye;131
+7216683;Bangdao Chen;7
+7216684;Murtaza Taj;77
+7216685;Geneen Elizabeth Stubbs;190
+7216686;Alexis Petrounias;46
+7216687;Jennifer Betts;9
+7216688;R. J. Driscoll;9
+7216689;J. D. Day;103
+7216690;Emmanuel Uchechukwu Eze;77
+7216691;Alan Keith Burden;62
+7216692;Michael Adam Lones;43
+7216693;Donia Badawood;21
+7216694;R. A. Hancock;157
+7216695;Nurulhuda A. Manaf;30
+7216696;Farahnaz Mohanna;90
+7216697;P. Hale;81
+7216698;Daniel Friday Owoichoche Onah;153
+7216699;M. E. Horani;105
+7216700;Kuanhou Tian;120
+7216701;Gabriel Panis;24
+7216702;Vijayanarasimha Hindupur Pakka;142
+7216703;John M. J. Herbert;59
+7216704;Jehad Al-Amri;93
+7216705;Ali Mustafa Zaidi;157
+7216706;Darren J. Kerbyson;144
+7216707;K. T. Al-Kibasi;21
+7216708;Mark Bowen Hill;72
+7216709;Ioannis Pavlosoglou;92
+7216710;Chao Chen 0011;178
+7216711;Jonathon Read;199
+7216712;Azhar Alhindi;81
+7216713;Alexander Ian Smith;133
+7216714;Dominic Smith;74
+7216715;Ib Holm Sørensen;160
+7216716;Gan Lu;74
+7216717;Sam Devlin;193
+7216718;Huihai Lu;152
+7216719;Richard Paul Bruin;164
+7216720;Karl Cox;56
+7216721;Eduardo Rojas Vegas;86
+7216722;John Ndeta;104
+7216723;Stuart Adam Battersby;57
+7216724;Ayibapreye Kelvin Benjamin;186
+7216725;Garen Zohrab Arevian;93
+7216726;Taimur Al Said;129
+7216727;Mary G. Croarken;37
+7216728;Dania Aljeaid;27
+7216729;Lang Yang;92
+7216730;Theerayod Wiangtong;132
+7216731;Han Gong;84
+7216732;Gordon Paul;34
+7216733;Pedro E. Hepp;179
+7216734;James Alexander George Hamilton;25
+7216735;Ewen Maclean;177
+7216736;Shih-Wen Ke;13
+7216737;Vera de Ligt;102
+7216738;Kevin Williams 0002;169
+7216739;D. K. Siong Tok;86
+7216740;Rafael Dueire Lins;4
+7216741;Lynne Bowker;74
+7216742;Yousef Rabadi;161
+7216743;Haifa Elsidani Elariss;47
+7216744;Ilias Kiourktsidis;161
+7216745;Shun Bian;196
+7216746;Paul A. Golder;73
+7216747;Mette Ramsgard Thomsen;112
+7216748;Stefan Meissner;148
+7216749;Greg Law;127
+7216750;Ajay Chakravarthy;5
+7216751;Wilawan Rukpakavong;61
+7216752;Ezequiel Alejandro Di Paolo;94
+7216753;Kester Dean Clegg;31
+7216754;Jonathan Ralph Roberts;191
+7216755;Natalie J. Coull;79
+7216756;Stefano Cattani;id
+7216757;James Thorniley;171
+7216758;Yee-Ting Li;58
+7216759;Arben Damoni;109
+7216760;Aisha Naseer;94
+7216761;Shirt Fun Ooi;14
+7216762;Xueyue Huang;135
+7216763;Matthew R. Lakin;24
+7216764;Yanti Rusmawati;111
+7216765;J. G. Hunt;167
+7216766;Christopher Anthony Silles;7
+7216767;Nicholas David Molton;128
+7216768;Mauricio Marín;98
+7216769;Siva Karteek Bolisetti;89
+7216770;Darryl Owens;25
+7216771;Kyriakos Anastasakis;146
+7216772;Nicolás D'Ippolito;50
+7216773;Delfina Fantini van Ditmar;55
+7216774;Stelios Sotiriadis;154
+7216775;Craig Steven Moore;123
+7216776;Zhaojie Ju;25
+7216777;George Baxter Swan;38
+7216778;Haider Farhan Ali;63
+7216779;D. T. O'Brien;121
+7216780;Soliman M. Algeri;16
+7216781;Aparajit Narayan;79
+7216782;Chin Wei Kiong;166
+7216783;José Miguel Baptista Nunes;164
+7216784;Andrew Hamilton;171
+7216785;M. Manjunathaiah;131
+7216786;Alistair David Rowe;155
+7216787;Frank Grimm;1
+7216788;Bassam Farran;130
+7216789;A. S. E. Ahmed;110
+7216790;Alicia Morales-Reyes;183
+7216791;Mark Kenneth Thompson;159
+7216792;Mark Kattenbelt;129
+7216793;Brian Ross;198
+7216794;Christopher Wastell;25
+7216795;Rima Sheikh Rajab;76
+7216796;Andrea Rota;68
+7216797;Sylivano Chiluli Nonga Kitinya;55
+7216798;Ye Yao 0002;103
+7216799;Grant Brewer;181
+7216800;Thomas Farrenkopf;149
+7216801;Risco Mulwani Mutelo;75
+7216802;Tsampikos Kounalakis;36
+7216803;Eva Huzan;167
+7216804;Twin Karmakharm;77
+7216805;Camilo Edward Benedict Fitzgerald;199
+7216806;Jianhua Shao 0001;30
+7216807;Yu Fu 0001;188
+7216808;Alaa Al-Afeef;92
+7216809;Ali Almohammad;157
+7216810;Catherine Dawn Taylor;177
+7216811;Odinaldo Teixeira Rodrigues;129
+7216812;Erroll Wood;58
+7216813;Haya El-Ghalayini;111
+7216814;Gordon Charles McGregor;122
+7216815;Cassia Valentini-Botinhao;185
+7216816;Anthony Charles Daniels;135
+7216817;Jairo M. de Souza;76
+7216818;Paolo Capriotti;112
+7216819;James Sebastian Guido;121
+7216820;J. Bryan Scattergood;34
+7216821;Matthew Gordon Dennis;76
+7216822;Hani El Sakkout;58
+7216823;Allister Furey;188
+7216824;Nadia Bendjeddou;54
+7216825;Rodrigo Gomes de Oliveira;47
+7216826;Cornelia Pahnke;11
+7216827;Angela Chandler;79
+7216828;Wasakorn Laesanklang;138
+7216829;Joseph Charles Mellor;180
+7216830;Joe Loughry;172
+7216831;Alan John Goddard;54
+7216832;Jeremy Yallop;60
+7216833;Christopher C. Paige;25
+7216834;Hossam Allam;190
+7216835;Huma Shah;28
+7216836;F. P. Treasure;120
+7216837;Eman Marzouq Aljohani;45
+7216838;Dimitra Bampou;77
+7216839;Philip Garner;117
+7216840;Christopher Mark Powell;148
+7216841;Xiaodong Yang 0007;174
+7216842;Luke Dicken;192
+7216843;Twittie Senivongse;90
+7216844;Helen McBreen;134
+7216845;Michael Opoku Agyeman;117
+7216846;Panayis Fourniotis Pavlatos;168
+7216847;Clauirton de Siebra;117
+7216848;Georgios Pavlou;93
+7216849;Henrik Carl-Olof Julian Oldfeldt Ekéus;53
+7216850;Brett McLean;110
+7216851;Thomas Spink;164
+7216852;Irena Spasic;9
+7216853;Waleed Wagealla;190
+7216854;P. Yousefpour;22
+7216855;Sasan Maleki;87
+7216856;Panagiotis-Aristidis Kountouriotis;168
+7216857;Joanna Marie Lumsden;23
+7216858;Richard Newcombe;58
+7216859;Sharon Dingley;173
+7216860;John Moses;41
+7216861;Tahereh Yaghoobi Mashhadi;139
+7216862;Iyad Mohammed AlAgha;88
+7216863;Alexander Ng;9
+7216864;Michael G. Norman;49
+7216865;Deirdre Lungley;98
+7216866;Andrew Hazell;42
+7216867;An Nguyen 0003;191
+7216868;Pavel Avgustinov;50
+7216869;Polyvios Tsirimpas;19
+7216870;Edit Halmay;31
+7216871;Chryssanthi Taramonli;119
+7216872;Nawwaf Nayef Kharma;188
+7216873;Sarah Gallacher;24
+7216874;Feng Gang Shi;16
+7216875;Meng Wang 0002;6
+7216876;Jens Riegelsberger;138
+7216877;Christian Walker Dawson;10
+7216878;Rafael Ramírez-Meléndez;52
+7216879;Lucia Del Prete;128
+7216880;Quentin Charatan;36
+7216881;Stephen Mark Vernon Hailes;109
+7216882;Robert Lukierski;169
+7216883;David Philip Frost;85
+7216884;Shtwai Alsubai;97
+7216885;Ritesh K. Taank;180
+7216886;Lukas Rupprecht;131
+7216887;Nathan Shone;103
+7216888;John G. Sandiford;68
+7216889;Jonathan Noel Tombs;118
+7216890;Xun Huang;66
+7216891;E. C. Cranfield;86
+7216892;Terence R. Norman;175
+7216893;Shakir Mohamed;73
+7216894;Daniel J. Beresford;71
+7216895;Alan Brown 0002;2
+7216896;Charalampos Koniaris;171
+7216897;Claudio Luis de Amorim;112
+7216898;Richard C. Staunton;154
+7216899;Anthony Davey;115
+7216900;Prabhudev Irappa Hosur;3
+7216901;David C. J. Naylor;195
+7216902;Fernando da Fonseca de Souza;75
+7216903;Pengyu Wang;21
+7216904;Hor Yan Wong;153
+7216905;Paul Jakma;180
+7216906;Clément Fumex;52
+7216907;Hossein Miri;136
+7216908;Vasileios Argyriou;85
+7216909;Kine Dørum;131
+7216910;Noora Fetais;100
+7216911;Said S. Al-gahtani;66
+7216912;Heiko Claussen;12
+7216913;B. Raymead;74
+7216914;Nabih T. Abdelmajid;77
+7216915;Kamarul Ariffin Noordin;152
+7216916;Yoon Ping Chui;150
+7216917;Marta E. Cecchinato;97
+7216918;Richard Berger;21
+7216919;Daniel Alexander Smith;180
+7216920;Mohammed Q. S. Al-Khalidi;147
+7216921;Alexia Zoumpoulaki;54
+7216922;Ian Finch;9
+7216923;Martyn Ratcliffe;39
+7216924;Lei Zhang 0043;189
+7216925;Linlin Song;46
+7216926;Ashraf F. Khalil;70
+7216927;Benjamin Millar Gorman;155
+7216928;Rosana Veronica Lilian Desanker;1
+7216929;Olexiy Gotsman;144
+7216930;Jiayu Tang;135
+7216931;Zhuo Xue;199
+7216932;Qian Wang 0018;137
+7216933;Luis Alfonso Maeda-Nunez;184
+7216934;Rocío Aldeco-Pérez;71
+7216935;Dermot Kerr;75
+7216936;S. Dawson;99
+7216937;D. I. Stamp;79
+7216938;Phillip James Brooke;61
+7216939;Vijay John;91
+7216940;David Ball;137
+7216941;Adeeb Alnajajr;6
+7216942;Matthew Waters;169
+7216943;Zhongliu Xie;154
+7216944;Sophia Alim;80
+7216945;Mohan Ganesalingam;183
+7216946;J. M. H. Hunter;47
+7216947;Shehzad Khalid;176
+7216948;Jonathan William Harley;111
+7216949;Hsi-Ming Ho;15
+7216950;Alan D. Saul;70
+7216951;David R. Hardoon;83
+7216952;Parisa Derakhshan;14
+7216953;Mohamed A. Alkalai;167
+7216954;D. A. Cockeram;170
+7216955;Shaoshi Yang;70
+7216956;Zoltán Miklós 0001;13
+7216957;J. G. Sellers;63
+7216958;Dinesh Kumar Hurreeram;45
+7216959;Dimitri Kartsaklis;127
+7216960;Sherif Akoush;131
+7216961;Hung-Kwan Chen;7
+7216962;Fazilah Haron;51
+7216963;Andreas Theodoros Lianos;10
+7216964;Ziran Sun;16
+7216965;Mohammed Adil Qureshi;139
+7216966;Antonio Canales Rivas;93
+7216967;David Martyn Lewis Williams;189
+7216968;Geng Li;160
+7216969;J. D. McCartney;59
+7216970;Antonio Di Ferdinando;18
+7216971;Chris Swinerd;71
+7216972;Yorck Hunke;180
+7216973;Sepideh Nazemi Gelyan;29
+7216974;Seyeon Kim;51
+7216975;Mohamed Benbrahim;176
+7216976;Anwar Baig;46
+7216977;Yi-Zhe Song;42
+7216978;Ioannis Xanthakos;188
+7216979;Oveeyen Moonian;122
+7216980;Andrew G. Barber;70
+7216981;Mike Westmacott;64
+7216982;Gennaro Imperatore;86
+7216983;Xin Lu 0001;91
+7216984;Liang Wang 0016;163
+7216985;Sebastian Reiner Spiegler;87
+7216986;Lesely T. Semmens;38
+7216987;Tobias A. Kleemann;67
+7216988;Barry G. Sherlock;147
+7216989;Michael Benjamin Jampel;102
+7216990;Jan Hartmann;110
+7216991;John A. Carroll;82
+7216992;Zongyan Huang;121
+7216993;Yuxuan Lan;90
+7216994;Yang Yu 0012;129
+7216995;Vahid Soleimani;54
+7216996;Myo Thida;158
+7216997;Sherif Nour El-Din;60
+7216998;Faisal Hammad;8
+7216999;Ebrahim Ardeshir-Larijani;18
+7217000;David Fawthrop;153
+7217001;Veronika Kuchta;127
+7217002;Hojung Kim;75
+7217003;Nicholas Walton;100
+7217004;Yow Tzu Lim;81
+7217005;Zulfadhli Mohamad;73
+7217006;Jonathan Bell 0002;58
+7217007;Mufajjul Ali;157
+7217008;Sherif Yusuf;193
+7217009;Nicholas Mark Allott;82
+7217010;Calum G. Blair;17
+7217011;Sunil Datt Nautiyal;5
+7217012;Robert Duncan Macredie;31
+7217013;Firas Ajlouni;13
+7217014;Daniel Hiak Ong Ling;137
+7217015;Salvador Elías Venegas-Andraca;53
+7217016;Chong Xu;14
+7217017;Peter Reid;171
+7217018;Luca Pino;129
+7217019;Chee Peng Lim;11
+7217020;Neil Johnson;25
+7217021;Jonathan Antony Stirk;153
+7217022;Mark D. Bedworth;122
+7217023;Kiran K. Seunarine;169
+7217024;Rafat Alshorman;69
+7217025;Antonios Printezis;45
+7217026;Mohammad Ismat Kadir;168
+7217027;David Richard Hope;172
+7217028;Eleanor Martin;64
+7217029;Wellington Santos Martins;153
+7217030;Stephen Moore 0001;166
+7217031;Arthur Gregory Money;79
+7217032;Muhammad Nabeel Asghar;126
+7217033;Andrew D. Palmer;99
+7217034;Andreas Savva;188
+7217035;R. B. Uribe;196
+7217036;Darren Parker;186
+7217037;Alastair Peter Dunsmore;72
+7217038;Peter B. Musgrove;38
+7217039;David Edward Webster;175
+7217040;Monica Messaggi Kaya;12
+7217041;Baoguo Yang;27
+7217042;Egor Ianovski;98
+7217043;Daniel Thomas Rhodes;154
+7217044;Weihang Wu;135
+7217045;Conor McBride;71
+7217046;Aleksandar Dimovski;131
+7217047;F. N. Teskey;31
+7217048;Muhsin Atto;185
+7217049;James Heather;184
+7217050;David McLuskie;28
+7217051;Haishan Huang;72
+7217052;David Roger Gilbert;2
+7217053;Georgios Kourtis;191
+7217054;Swati Gupta;167
+7217055;Syed Shabbir Haider;168
+7217056;Simone Veglioni;143
+7217057;Nada Bajnaid;44
+7217058;Ni Zhang;198
+7217059;John James Hondros;83
+7217060;Naganathy Rajkumar;58
+7217061;Abdulrazaq Almutairi;32
+7217062;Aitor Rovira i Pérez;7
+7217063;David A. Burgess;20
+7217064;Adil Hussain;174
+7217065;Matthew J. Billings;96
+7217066;Woakil Uddin Ahamed;141
+7217067;A. E. Orhun;181
+7217068;Neville David Sinnamon;14
+7217069;James D. Walker;186
+7217070;Jonathan Blakes;123
+7217071;Omar Inverso;97
+7217072;Jonathan A. J. Deutscher;62
+7217073;D. E. Luke;151
+7217074;Wan Ching Ho;81
+7217075;Gabin-Wilfried Kayumbi-Kabeya;69
+7217076;Shahid Maqsood;35
+7217077;Gavin Lowe;162
+7217078;Norman W. Paton;194
+7217079;James D. Edge;165
+7217080;Christopher David Turner;70
+7217081;Sam J. C. Davies;46
+7217082;Xristine Faulkner;2
+7217083;Danica Damljanovic;121
+7217084;Marco Eric Pérez Hernández;157
+7217085;Yvonne Skalban;91
+7217086;Shun Ha Sylvia Wong;56
+7217087;Jorge Figeroa;99
+7217088;Graham Deane;55
+7217089;Jospeh Amoako-Attah;148
+7217090;Marco Elver;150
+7217091;Petroula Tsampouka;67
+7217092;Philip Thomas Hodgers;194
+7217093;Muhammad Ali Alsubaie;31
+7217094;A. Bainbridge;108
+7217095;B. S. A. Al-Rashoud;86
+7217096;Abdulaziz Omar Abdullah Alsadhan;30
+7217097;Susan Gasson;182
+7217098;A. W. J. Griffin;177
+7217099;Graeme Milligan;166
+7217100;Seung Min Lee;71
+7217101;John Howell;80
+7217102;Ning Wang 0001;21
+7217103;Sarah Omar Al-Humoud;81
+7217104;Jianzhi Li;64
+7217105;Chia Woo Yu;72
+7217106;Z. Taha;61
+7217107;Andrew Collins;109
+7217108;Diána Turcsány;176
+7217109;Zoe Zoni Kavogli;85
+7217110;Alice Clifford;67
+7217111;Stephen C. Williams;4
+7217112;Matthew Higgs;24
+7217113;Bogdan Vladimir Ghita;71
+7217114;Charilaos Pasantonopoulos;166
+7217115;Lichi Zhang;63
+7217116;Victoria G. Mortimer;82
+7217117;Paul Hulse;63
+7217118;Rosli Bin Omar;76
+7217119;Lesley Fosh;64
+7217120;Flávia de Almeida Barros;104
+7217121;Christopher K. Cowley;159
+7217122;Husam Yaseen;34
+7217123;Trevor John Cockram;65
+7217124;Jonathan Parr;127
+7217125;Wu-Hsiung Chen;74
+7217126;Katia Lebart;26
+7217127;Benjamin Heckmann;134
+7217128;Andrew Patrick Hayes Weightman;37
+7217129;S. F. Stanczyk;140
+7217130;Hugo Marques;65
+7217131;Arno Pauly;81
+7217132;Vrizlynn L. L. Thing;181
+7217133;Mohsen Ghasempour;142
+7217134;Kazeem Ayinde Oladele;97
+7217135;Arooj Fatima;179
+7217136;Jimmie Andrew Miller;157
+7217137;Asma Mubarak;190
+7217138;Tahir Habib Nawaz;112
+7217139;Donald Calum McMillan;52
+7217140;Gianfranco Antonino Gliozzo;12
+7217141;Nick F. Ryman-Tubb;157
+7217142;Aristea-Maria Zafeiropoulou;20
+7217143;Ian Christopher Weaver;58
+7217144;Jörn Gause;127
+7217145;Victor P. Lane;110
+7217146;Stanislavs Golubcovs;123
+7217147;Wanmu Liu;18
+7217148;Andrew Alexander Wallace;126
+7217149;Weng Kin Ho;15
+7217150;Hamish Taylor;161
+7217151;Fatmah Y. Akeel;95
+7217152;Ruy José Guerra Barretto de Queiroz;103
+7217153;Raphael Velt;157
+7217154;David V. J. Murphy;73
+7217155;Vincent Yampolsky;99
+7217156;Graham Richard McFarlane Collins;30
+7217157;Yun Peng Lin;104
+7217158;Martin Swientek;107
+7217159;Alex Macfie;132
+7217160;Snaider Carrillo;44
+7217161;Qiang Guo 0002;27
+7217162;Neil Anirvan Sagomisa Datta;7
+7217163;Ciarán M. Lee;30
+7217164;Kan Ren;76
+7217165;Youyi Lu;158
+7217166;Peter Leslie Davies;57
+7217167;Andrew P. Black;id
+7217168;C. B. Rivers;81
+7217169;Efstathios Goudoulakis;66
+7217170;Ruth Pastôra Saraiva Leão;10
+7217171;Anthony Howitt;84
+7217172;Merkourios Karaliopoulos;143
+7217173;C. L. Hankin;88
+7217174;Ngiam Chiung Wong;9
+7217175;Christopher Smowton;23
+7217176;Ashwin R. Usgaocar;85
+7217177;Ehab El Salamouny;177
+7217178;Peter John Bentley;142
+7217179;Abdulrahman Salih;141
+7217180;Gopikrishnan Mannamparambil Chandrasekharan;20
+7217181;M. K. Chan;64
+7217182;H. O. D. Longe;20
+7217183;Lewis Irwin Berman;10
+7217184;Howaida Gomaa Takey El-Din;77
+7217185;Edson Costa de Barros Carvalho Filho;111
+7217186;Nasri Sulaiman;6
+7217187;I. G. D. Strachan;146
+7217188;Siamak Shams;127
+7217189;Cleveland Augustine Gibbon;152
+7217190;Jing Hu 0006;148
+7217191;Nayef Baker;5
+7217192;Claire Elizabeth Q;159
+7217193;Maria Dobrska;24
+7217194;Joe Marshall;31
+7217195;Rongqiang Qian;171
+7217196;Xueni Pan;146
+7217197;Eduardo Cabal-Yepez;18
+7217198;James Robert Brown;15
+7217199;Jun Wang 0033;11
+7217200;Jasmin Lesley Wason;3
+7217201;D. Ingram;79
+7217202;Brendan Neville;178
+7217203;Jack A. Hunter;52
+7217204;Lyndon J. Clarke;36
+7217205;Osman Ali Sadek Ibrahim;100
+7217206;Mark G. Wallace;82
+7217207;Jiahua Wu;31
+7217208;Siti Nur Iqmal Ibrahim;95
+7217209;Christopher Power;173
+7217210;Kay Rogage;85
+7217211;Mian Wei;138
+7217212;Anna-Louise Ellis;152
+7217213;Maja Vukovic;176
+7217214;S. C. Da Costa;101
+7217215;Chris Colin Baillie;117
+7217216;Antony A. Faustini;147
+7217217;Anthony Brown 0001;125
+7217218;Sa'adah Hassan;146
+7217219;Rand Hindi;151
+7217220;D. G. Delaney;39
+7217221;Dominic P. Mulligan;121
+7217222;John M. Coleby;157
+7217223;Adam T. Sampson;175
+7217224;P. Pantziarka;70
+7217225;Katriel Cohn-Gordon;81
+7217226;Pathmeswaran Raju;56
+7217227;Mohammed Hassan Abdulla Haji;193
+7217228;Marta Mrak;66
+7217229;Ben Horsburgh;186
+7217230;Viet-Anh Nguyen;14
+7217231;Timothy M. Hospedales;134
+7217232;Yang Wang 0038;155
+7217233;Yevgeniya Kovalchuk;170
+7217234;Chaiyaporn Chirathamjaree;159
+7217235;Liang Shen 0006;160
+7217236;Daniel J. Russell;187
+7217237;Ognjen Prnjat;70
+7217238;M. J. West;97
+7217239;Jonathan Paul Tidmus;187
+7217240;Duc Cuong Nguyen;38
+7217241;Kwok Mak;165
+7217242;Ali Hussein Raheem;188
+7217243;Russell Harmer;87
+7217244;C. R. Shashidhar;167
+7217245;Luca Gasparini 0002;134
+7217246;George Angelos Papadopoulos;109
+7217247;Musaid Seleh Al Tayyar;11
+7217248;Martin Peter Todd;198
+7217249;Stephen G. Matthews 0001;4
+7217250;Haneen Algethami;182
+7217251;Omer Dawelbeit;63
+7217252;Hyoungshick Kim;182
+7217253;Rory V. O'Connor;105
+7217254;Ayman Mahfouz;51
+7217255;Stephen Brooks;71
+7217256;S. G. Owen;1
+7217257;Omer Khalid;180
+7217258;Qianyun Zhang;153
+7217259;Judith Barnard;159
+7217260;Stephen David Drake;148
+7217261;James Salter;45
+7217262;Malcolm Wallace;49
+7217263;Richard George Vigars;44
+7217264;Ayomi Bandara;46
+7217265;Samuel Coulter Tannahill;92
+7217266;B. Hallam;112
+7217267;Raul Murillo Garcia;169
+7217268;Kamal S. Chenaoua;91
+7217269;Malte Harder;48
+7217270;Gavin Adrian Rummery;156
+7217271;Vu Ngoc Duy Luong;117
+7217272;Marion Edwards;85
+7217273;Olamidipupo Solomon Ajigboye;54
+7217274;Alison Pease;184
+7217275;Oksana Schaeffer;169
+7217276;Christos L. Koumenides;61
+7217277;Diman Hassan;141
+7217278;S. T. Murdoch;115
+7217279;Chun Wang Nicholas Ng;123
+7217280;Thomas J. Strain;65
+7217281;Ashur Rafiev;61
+7217282;Richard O. Sinnott;72
+7217283;Andrew John Sadler;61
+7217284;Brian J. Ross;24
+7217285;John B. Butcher;146
+7217286;Stephen Renals;188
+7217287;John William Charnley;38
+7217288;Ilyas Eminoglu;31
+7217289;Matthew Gamble;7
+7217290;Shokoofeh Ketabchi;68
+7217291;Stephen Paul Wade;45
+7217292;Keeran J. Brabazon;127
+7217293;Irfan Ullah 0002;198
+7217294;Mazin Rahim;151
+7217295;P. H. F. McGregor;178
+7217296;J. B. Emery;27
+7217297;Emma Hart;48
+7217298;Timothy Frank Wiegnad;21
+7217299;Ezequiel Julian Bianco-Martinez;142
+7217300;P. Shepherd;192
+7217301;H. Al-Lakany;120
+7217302;Saemundur O. Haraldsson;162
+7217303;Paul William Parry;174
+7217304;David Bernhard;159
+7217305;Nora Alkhamees;89
+7217306;Georgios N. Yannakakis;129
+7217307;Anthony Costa Constantinou;41
+7217308;Robin Donaldson;178
+7217309;Chris Venour;158
+7217310;Anastasis A. Sofokleoous;90
+7217311;Frank Hutson Gregory;31
+7217312;Lizhi Zheng;96
+7217313;Nicola Burns;199
+7217314;Marcílio Carlos Pereira de Souto;4
+7217315;Samit Khosla;134
+7217316;Sandra Steinert;122
+7217317;Wegene Demeke;9
+7217318;Oliver Schoett;155
+7217319;Heiko Hirschmüller;129
+7217320;M. Afshar;51
+7217321;Jamie Garside;65
+7217322;Patrick Weber;27
+7217323;M. Sepehry Rad;144
+7217324;Nicky Young;22
+7217325;Adolfo Sanchez-Barbudo Herrera;59
+7217326;Seyyed Madasar Ali Shah;130
+7217327;Douglas Joseph Santry;11
+7217328;Georgios Vasileios Gkoutos;152
+7217329;Nora Alkaldi;32
+7217330;Muddesar Iqbal;115
+7217331;R. J. Collins;133
+7217332;Nicholas Lambert;10
+7217333;Horia A. Maior;194
+7217334;Asser Hassan Youssef Azz El Din;181
+7217335;A. C. S. Wong;53
+7217336;Colin Anthony Mclay;50
+7217337;Gerald Wachira Chege;177
+7217338;Md. Sanaul Hoque;44
+7217339;Akara Supratak;180
+7217340;Fahd M. Aldosari;74
+7217341;Thomas Richardson 0003;136
+7217342;Heather S. Packer;8
+7217343;Gintautas Sulskus;72
+7217344;Dominic Frank Julian Binks;95
+7217345;Thiam Kian Chiew;125
+7217346;Hasanein Hasan;195
+7217347;Saba K. Toor;78
+7217348;Helen X. Xiang;44
+7217349;Cláudio Elízio Calazans Campelo;69
+7217350;Roland Stelzer;39
+7217351;Tamas Kukla;id
+7217352;Colin Frank Snook;21
+7217353;Chris Greenhalgh;193
+7217354;Neil Eliot;175
+7217355;Yasser Al-Roqi;24
+7217356;Paul Michael Godley;11
+7217357;Conrad Attard;51
+7217358;Blaz Zlicar;135
+7217359;Mark Levy;178
+7217360;John Stuart Harper;48
+7217361;Tamar L. Collins;173
+7217362;Noor Zuraidin Mohd-Safar;187
+7217363;Andrew Wilkinson;138
+7217364;M. C. McNally;153
+7217365;Miguel Martinez-Alvarez;128
+7217366;Cheng Chan;114
+7217367;Wing-Kay Kan;132
+7217368;Jonathan Michael David Hill;134
+7217369;Elizabeth M. Murphy;60
+7217370;Karl M. Sammut;12
+7217371;John D. Thomson;88
+7217372;J. Greig;36
+7217373;Ronald Denaux;127
+7217374;Mohammed Alawairdhi;94
+7217375;Saad Almutairi;176
+7217376;Jiwei Wang;178
+7217377;Eamonn Joseph O'Neill;50
+7217378;Ramizi Mohamed;7
+7217379;Robert David Johnson;86
+7217380;Yang Chang;132
+7217381;Laurent Moulinier March;8
+7217382;Nalina Phisanbut;10
+7217383;Nicholas James Palmer;183
+7217384;Btihaj Ajana;3
+7217385;Ruben Stranders;157
+7217386;James William Smith;188
+7217387;Dean Mohamedally;142
+7217388;Alan W. Andrew;148
+7217389;Christopher John Ponder;182
+7217390;Pooneh Bagheri Zadeh;118
+7217391;Robert C. B. Cooper;71
+7217392;Taha Mohammed Osman;92
+7217393;James Sharp;107
+7217394;James J. Govindhasamy;19
+7217395;Craig Gaskell;67
+7217396;Saad Bani-Mohammad;137
+7217397;A. R. Aylward;101
+7217398;Shahrukh Agha;173
+7217399;Ze Ji;195
+7217400;Arshad Muhammad;68
+7217401;Catalina Llado Matas;58
+7217402;Al Sadiq ul Amin Muhammad Madani Halepota;165
+7217403;Bryn A. Bell;113
+7217404;Bhanu Prasad Pokkunuri;82
+7217405;Christopher David Claxton;24
+7217406;Abdul Rahman Mohamed Tasir;189
+7217407;Matthew P. John;91
+7217408;Christopher James Chilton;32
+7217409;S. Yasemin Kural;189
+7217410;Sardar F. Jaf;80
+7217411;Ehab Mohamed Mahmoud Essa;84
+7217412;Edwin Mit;77
+7217413;Wallen Mphepo;123
+7217414;Kristian Garza Gutierrez;24
+7217415;Andy J. Galloway;74
+7217416;Nicholas Drivalos Matragkas;153
+7217417;Vorapol Jittamas;190
+7217418;Maria Adelaide Pinto dos Santos Carvalho;140
+7217419;Stefan Haflidason;34
+7217420;Dominic S. J. Stanyer;141
+7217421;Ahmed Al-Hunaiyyan;101
+7217422;Su-Wei Tan;138
+7217423;Priyanka Chaurasia;119
+7217424;Rajesh Muthu;187
+7217425;Peter Axel Nielsen;96
+7217426;Marko Horvat;94
+7217427;Jonathan G. Campbell;49
+7217428;Sowmya Ramakrishnan;167
+7217429;Aisha Fouad Bushager;106
+7217430;Jadvinder Singh Sidhu;88
+7217431;Joan Evelyn Aarvold;30
+7217432;Sherin M. Youssef;122
+7217433;Alexandros Giagkos;23
+7217434;James Black;53
+7217435;Jeremy Andrew Swann;29
+7217436;Jose Fortuna;57
+7217437;Andrew Charles Pardoe;176
+7217438;K. I. Shihab;136
+7217439;G. C. Dooley;192
+7217440;S. Z. M. Ibrahim;69
+7217441;Jeremy Wyatt;65
+7217442;Terence J. Harmer;134
+7217443;Cosmin Gorgovan;145
+7217444;Forouzan Golshani;197
+7217445;Dimitrios-Stavros Grammenos;154
+7217446;Pau Climent-Pérez;194
+7217447;Lee Richard Frederick Odiam;42
+7217448;Martin Mayer;130
+7217449;Veit Dominik Kunz;179
+7217450;Clive C. H. Rosen;109
+7217451;Yiu-Kwong Wong;155
+7217452;Paraskevi Zerva;137
+7217453;Philip J. Green;176
+7217454;Nicholas J. Bailey;60
+7217455;Jethro Shell;122
+7217456;Sumeet Agarwal;112
+7217457;Alan Davies;98
+7217458;Steven Marcus Furnell;41
+7217459;Stanley Gill;181
+7217460;M. J. Gregson;138
+7217461;Zhonglun Cai;157
+7217462;Daniel P. F. Sturdy;180
+7217463;Ilektra-Georgia Apostolidou;155
+7217464;Farshid Khalili;23
+7217465;Syed S. Husain;165
+7217466;Yunjia Li;111
+7217467;Zhenghua Xu;7
+7217468;Yu Chan;163
+7217469;Ian David Woodward;97
+7217470;P. K. Sinha;43
+7217471;A. Floyd;186
+7217472;Louis Parsonson;118
+7217473;Pawel Paczkowski;29
+7217474;Raúl V. Casaña Eslava;110
+7217475;A. T. Fuller;99
+7217476;Fabio Nemetz;133
+7217477;Colin Smart;186
+7217478;William J. Buchanan;78
+7217479;Clive Andrew Jervis;55
+7217480;Alireza Tamaddoni-Nezhad;38
+7217481;Christos Stergiou 0003;100
+7217482;Obiajulu Anizoba Aghanya;80
+7217483;Daniel Morrison;63
+7217484;Farshad Fatin;153
+7217485;Ahmed A. Alzahrani;114
+7217486;James Matthew Armstrong;92
+7217487;Claudia Krehl;121
+7217488;Martin James Loomes;124
+7217489;Konstantinos Zachos;107
+7217490;Laurent Chevalier Langlois;4
+7217491;Matheus Paixão;39
+7217492;Farzana Abdulla Maraghi;106
+7217493;Stephen Dowland Page;51
+7217494;Sheila Catherine Lynch;65
+7217495;Helmut Cantzler;86
+7217496;Kenneth Peter Williams;49
+7217497;Horng-Chang Yang;157
+7217498;Kee Khoon Lee;180
+7217499;Alex K. Simpson;137
+7217500;Richard Boulton;25
+7217501;Kamal Mabrok Moftah Solaiman;89
+7217502;Elham Kashefi;161
+7217503;Lingbo Li 0001;120
+7217504;Erol-Valeriu Chioasca;78
+7217505;Faisal Fayyaz Qureshi;7
+7217506;D. A. Wilson;9
+7217507;Vassilios A. Chouliaras;196
+7217508;Anna Ritchie;134
+7217509;P. D. Laurence;67
+7217510;Muhammad Yassin Al-Hafez;9
+7217511;Richard Jensen;27
+7217512;Rupesh N. Shet;89
+7217513;Yusuf Sani;195
+7217514;Alastair Mark Paterson;60
+7217515;Sean Clark;174
+7217516;Saleh Al-Zahrani;194
+7217517;Daniel James Tallis;86
+7217518;Stephen Robert Pettifer;108
+7217519;Jerry Dwight Aplevich;68
+7217520;Zurina Muda;172
+7217521;Yanru Wang;145
+7217522;Vivian Chinwendu Oyemike;90
+7217523;Heng Yang 0001;142
+7217524;Intekhab Asim Alam;56
+7217525;Ikechukwu E. Onyenwe;131
+7217526;Ali Sohaib;49
+7217527;D. J. Lacey;189
+7217528;David McMinn;74
+7217529;Xu Wang 0011;159
+7217530;Noor Azizah K. S. Mohamadali;106
+7217531;Joseph Ray Davidson;124
+7217532;Jianmin Pang;150
+7217533;Ramsay Taylor;42
+7217534;João Monteiro;160
+7217535;M. Saraee;168
+7217536;Cornelis H. Hoogendoorn;5
+7217537;Xinyuan Lao;98
+7217538;Milan Vasilko;129
+7217539;M. S. Sheya;142
+7217540;Simon C. Merrall;195
+7217541;Rouaa Yassin Kassab;134
+7217542;Dmitry Dereshev;84
+7217543;Xiaolin Chen;84
+7217544;Remy Peyret;8
+7217545;Sana Hoor Arisar;130
+7217546;Laura Hutchins-Korte;158
+7217547;Muneer O. Bani Yassein;153
+7217548;Stuart Edward Gibson;23
+7217549;Sotiris Moschoyiannis;188
+7217550;Ioannis V. Vasilopoulos;69
+7217551;Z. Theochari;40
+7217552;Roger Harnden;54
+7217553;Nasser Kalantery;31
+7217554;M. F. Schulz;36
+7217555;Charlie Hargood;154
+7217556;Tomas By;199
+7217557;Tessa Berg;191
+7217558;Malcolm Craig Pullan;82
+7217559;W. A. Bock;76
+7217560;Colin O'Reilly;156
+7217561;Cornelius Poepel;80
+7217562;Brian Robert Webb;193
+7217563;Maryam Al Dabel;91
+7217564;Yang Li 0003;183
+7217565;Jonathan Heathcote;171
+7217566;Hiok Chai Quek;27
+7217567;Rosanne English;99
+7217568;Vicente Guerrero Rojo;40
+7217569;Juan Chen;95
+7217570;Leonardo Freitas;15
+7217571;Xuemei Li 0002;127
+7217572;Robert Ben Chatley;141
+7217573;Hilary Berger;73
+7217574;Adrian Benfell;71
+7217575;Simon Ambler;95
+7217576;D. A. Stevens;113
+7217577;Nafrizuan Mat Yahya;59
+7217578;Mustansar Ali Ghazanfar;178
+7217579;Alastair T. P. Pearce;125
+7217580;Piers R. Williams;144
+7217581;Sam Bakhtiar Sanjabi;40
+7217582;Denis M. Anthony;95
+7217583;Andrew George Jamieson;23
+7217584;Bridget Joan Healy Beattie;31
+7217585;Nada Massoud Alruhaily;50
+7217586;Ralf Franken;137
+7217587;Jonathan K. Lawder;56
+7217588;John Pirie;72
+7217589;Patrick Michael Holroyd;191
+7217590;Joel J. Wright;178
+7217591;Shan Khazendar;89
+7217592;Waraporn Jirapanthong;112
+7217593;Roland Perera;194
+7217594;Muhammad Mukaram Khan;175
+7217595;Suparawadee Trongtortam;146
+7217596;Thanapong Intharah;107
+7217597;Zhenyu Chen 0006;95
+7217598;Philippe Li-Thiao-Té;141
+7217599;Tracy Gardner;11
+7217600;Wei Pang;36
+7217601;S. O. Childs;178
+7217602;Carol Shergold;88
+7217603;Hasan Najib Yousif Qunoo;148
+7217604;Modupe Ayara;55
+7217605;Osama M. Al Arrayedh;147
+7217606;Mohammed N. Alenezi;83
+7217607;Muhammad Raza Ali;93
+7217608;Matthew C. Rowe;139
+7217609;Vassilios Hurmusiadis;28
+7217610;Stuart David Collin;1
+7217611;Alistair Neil Dunlop;51
+7217612;Richard John Hicks;66
+7217613;Swee Leong Kok;183
+7217614;Barbara Pizzileo;132
+7217615;Naizheng Zhang;78
+7217616;Julie Anne Dugdale;93
+7217617;R. B. Antonov;133
+7217618;Simon G. Bance;5
+7217619;Katrina Samperi;94
+7217620;Ako-Mbark Armstrong Takang;17
+7217621;Thomas Oliver Jackson;101
+7217622;Sunny Rukhsana Elynn Bains;81
+7217623;Huang Fei;122
+7217624;Stephen Wayne Ball;166
+7217625;Ran Xu;120
+7217626;Ping-Lin Chang;96
+7217627;Hafizul Ismail;100
+7217628;Tim Watson;191
+7217629;Omar Abdullah Batarfi;187
+7217630;Christopher Michael Field;121
+7217631;Andrew Marc Burkimsher;171
+7217632;Tomasz Mazur;194
+7217633;A. H. S. Loh;168
+7217634;Andrew Harry Watson;196
+7217635;Sebastián Uchitel;57
+7217636;K. H. Chan;40
+7217637;Thomas Gibson-Robinson;88
+7217638;Charles A. Clarke;25
+7217639;Ruqayah Rabeea Hashim Al-Dahhan;119
+7217640;Rami Suleiman Alkhawaldeh;13
+7217641;Che Zulkhairi Abdullah;40
+7217642;Chalita Toopsuwan;102
+7217643;Panagiotis Kouvaros;71
+7217644;Ben Hutchinson;99
+7217645;Adam Michael Gundry;119
+7217646;Luca Plattner;15
+7217647;Savvas Papaioannou;170
+7217648;William Denman;163
+7217649;Xi Bai 0001;12
+7217650;Adrian D. McKernan;39
+7217651;Richard Foster;8
+7217652;Haizhou Qu;168
+7217653;Nikolaos Nikolaou;161
+7217654;Alexandros Papanikolaou;125
+7217655;Patrick Wendel;145
+7217656;Gareth L. Jones 0002;14
+7217657;Stephan Glöckner;162
+7217658;Mahmoud Awad 0002;2
+7217659;Olusegun Ogundapo;96
+7217660;Wang Miao;86
+7217661;Mark D. Dunlop;167
+7217662;Ian A. MacLeod;180
+7217663;F. Hwang;192
+7217664;Mudar A. O. Barry;123
+7217665;Francisco A. C. Pinheiro;101
+7217666;Victoria Bloom;128
+7217667;Maryam Kheir Abadi;17
+7217668;Sonia Ranade;135
+7217669;Kerstin I. Eder;134
+7217670;R. W. J. Ely;11
+7217671;Siddhartha Kargupta;31
+7217672;Wolfgang Prinz;127
+7217673;Cherifa Mansoura Liamani;181
+7217674;Devina Ramduny-Ellis;131
+7217675;Ku Muhammad Naim Ku Khalif;193
+7217676;Panagiotis Markopoulos;196
+7217677;Nithin M. Thomas;81
+7217678;Ian Postlethwaite;134
+7217679;Maximilian C. Bolingbroke;126
+7217680;N. Cooper;190
+7217681;Jack C. Chaplin;129
+7217682;Triantafillos Koukoulas;159
+7217683;Ayush Goyal;33
+7217684;Gilad L. Rosner;189
+7217685;Zoë P. Lock;101
+7217686;Ahmad Al Nawasrah;9
+7217687;Andrew Sherlock;38
+7217688;Corin Pitcher;122
+7217689;Ashley McClenaghan;100
+7217690;M. G. Singh;126
+7217691;Gary John Hill;140
+7217692;Oksana Samko;48
+7217693;Alexey Bakhirkin;182
+7217694;Tracy Hall;93
+7217695;Md Golam Jamil;59
+7217696;Chris Cox;124
+7217697;David G. Melvin;173
+7217698;Sulieman Salem Alshuhri;125
+7217699;Keith Richard Baker;15
+7217700;Li Zhang 0013;185
+7217701;Phillip M. Yelland;138
+7217702;Vincent Austin Hall;121
+7217703;Ling Shao 0001;29
+7217704;Xinqun Liu;41
+7217705;Jan Bracker;98
+7217706;Hsun-Wen Lisa Liu;68
+7217707;Anthony J. Field;16
+7217708;Rodney Martineau Burstall;192
+7217709;Cathryn Peoples;46
+7217710;Alireza Talebpour;131
+7217711;Hua Zhou;42
+7217712;Atish Rajkomar;196
+7217713;D. R. S. Hedgeland;117
+7217714;Alexander James Gibb;185
+7217715;Zakea Idris Ali Il Agure;96
+7217716;Saman Hameed Amin;161
+7217717;Lan Su;166
+7217718;Bryan Christopher Burford;80
+7217719;Ioannis Konstas;96
+7217720;Jane Mycock;92
+7217721;Ian Heath;137
+7217722;John Anthony Bradshaw;77
+7217723;I. McRitchie;53
+7217724;Elio Tuci;92
+7217725;John M. Henry;110
+7217726;V. Spiliotopoulos;151
+7217727;Rishi Nalin Kumar;118
+7217728;A. Findlay;142
+7217729;J. F. A. de O. Pantoja;92
+7217730;Andrew Stevens 0001;38
+7217731;Brahim Betkaoui;137
+7217732;A. A. Hadjiaslanis;183
+7217733;Alison Elisabeth Bacon;179
+7217734;Attila Egri-Nagy;142
+7217735;Muhammad Hilmi Kamarudin;18
+7217736;Graham D. Parrington;130
+7217737;William Bruce Croft;130
+7217738;Adrian Adewunmi;133
+7217739;Hasan Tahir;138
+7217740;Wei Li 0083;191
+7217741;Leif Oppermann;141
+7217742;Khaled Fawagreh;177
+7217743;John Paul Kawalek;69
+7217744;George Charalambous;178
+7217745;Ian Hales;83
+7217746;L. Zheng 0001;169
+7217747;Xinyu Niu;142
+7217748;Yonghao Wang;63
+7217749;Elisa Rondini;19
+7217750;Simon Shiu;168
+7217751;John Paul Vargheese;57
+7217752;C. F. Stanier;142
+7217753;Nicholas Micallef;160
+7217754;Abubakar Attah Umar;44
+7217755;Konstantinos Papazachariou;122
+7217756;Hyoseob Kim;102
+7217757;P. J. Gollop;37
+7217758;Adrian Bulat;115
+7217759;Robert H. Currie;70
+7217760;Peter David Cornwell;85
+7217761;Faisal Alrebeish;112
+7217762;Siffat Ullah Khan;89
+7217763;Alexander J. Summers;4
+7217764;Mark H. Smith;132
+7217765;George Barrett Smith;64
+7217766;C. V. W. Armstrong;148
+7217767;Ahmad F. Subahi;113
+7217768;Natalie Kerracher;131
+7217769;Averil Meehan;31
+7217770;Sirapat Boonkrong;194
+7217771;Kui-Fu Du;125
+7217772;Jeffrey Alun Jones;49
+7217773;Evangelos Kehris;98
+7217774;J. M. Lewis;140
+7217775;James Ingham;188
+7217776;Savita de Souza;50
+7217777;Roger James Stockwell;78
+7217778;Ali Owrak;157
+7217779;Pablo Puente Guillen;194
+7217780;Zhenyu Wen;56
+7217781;Christopher Hampson;19
+7217782;Alice Good;69
+7217783;Maxwell Jaderberg;39
+7217784;David Trepess;195
+7217785;Cedric Raguenaud;152
+7217786;David Sellier;154
+7217787;Silvia Masiero;35
+7217788;Nasser Tairan;95
+7217789;Huiying Mu;118
+7217790;Simon Coupe;57
+7217791;Manoj Misra;98
+7217792;Simon P. Martin;8
+7217793;Veronica Esther Arriola Rios;164
+7217794;R. Dabh;58
+7217795;W. E. Richardson;3
+7217796;Ahmad R. Shahid;148
+7217797;Salem A. Garawi;166
+7217798;Pauline A. Wilcox;82
+7217799;Mathew Neville Smith;51
+7217800;Kevin Tiow Wee Tang;159
+7217801;Neven T. Tomov;74
+7217802;S. S. Albugami;119
+7217803;J. Jeon;119
+7217804;Hisashi Hayashi;182
+7217805;Steven Simpson;191
+7217806;Derek John Cooke;15
+7217807;John Francis Samual;73
+7217808;Mohammed Kyari Mustafa;51
+7217809;Mohd Yunus Nayan;94
+7217810;Mohamed A. Edris Abdalla;169
+7217811;Bin Li 0021;96
+7217812;Ke Li 0009;164
+7217813;Changhe Li;71
+7217814;Edward William Blakey;137
+7217815;Unaizah Hanum Binti Obaidellah;113
+7217816;James Arthur Robert Marshall;73
+7217817;Miguel Angel Ríos Gaona;38
+7217818;Peter Moritz Wortmann;id
+7217819;Tarek Abudawood;64
+7217820;Sawal Hamid Md Ali;133
+7217821;Ian Hosein;169
+7217822;Timothy Womack;127
+7217823;Andrew John Kennedy;197
+7217824;Randa Aly Mosaad El-Marakby;126
+7217825;Saeed Turabzadeh;137
+7217826;Smaragda Zygridou;64
+7217827;Sajid Baloch;125
+7217828;Edward Kent;69
+7217829;Guiseppe Mauri;30
+7217830;H. I. Paltikian;51
+7217831;John Pagonis;28
+7217832;Louise Rasmussen;171
+7217833;Anton Stefanek;23
+7217834;David Michael Cattrall;127
+7217835;A. L. Cursons;16
+7217836;Zhan Huang 0001;82
+7217837;Pierre-Évariste Dagand;149
+7217838;Paul Raymond Nicholl;151
+7217839;Matthew David Crosby;76
+7217840;Miroslav Hamouz;181
+7217841;J. Short;38
+7217842;Simon Brown 0002;51
+7217843;Damien Hugh Coyle;118
+7217844;Bernhard Spanlang;109
+7217845;Subramanian Ambati;68
+7217846;Kamalpreet Kaur;80
+7217847;Ioannis Papanagiotou;86
+7217848;Richard Kevin Donnelly;48
+7217849;Rachel Anne Bourne;148
+7217850;Paula Kotzé;166
+7217851;M. D. Edwards;111
+7217852;Lorenzo Valeri;134
+7217853;Paulo Borba;102
+7217854;Hüseyin Avsar;116
+7217855;David James Gibson;100
+7217856;Matthew Charles Higgs;3
+7217857;Philip J. Willis;58
+7217858;Thomas Melluish;153
+7217859;Aaron Paul Johnson;136
+7217860;Ian George Clark;166
+7217861;Paul Dan Marinescu;56
+7217862;Manal Al Ghamdi;49
+7217863;Fatma Layas;167
+7217864;Linda Finch;68
+7217865;Christopher Arthur Brewster;62
+7217866;A. Cartledge;59
+7217867;Lei Shi 0007;159
+7217868;Vishnu Kotrajaras;26
+7217869;Abdullah A. H. Alzahrani;84
+7217870;Constantinos Papadopoulos;191
+7217871;Ming Gao 0003;76
+7217872;Mark B. Josephs;112
+7217873;Stuart John Harding Kent;95
+7217874;K. Armstrong;99
+7217875;Lazaros Zafeiriou;39
+7217876;Christopher Lazareus;125
+7217877;Omed S. Khalind;88
+7217878;Paul J. McCullagh;92
+7217879;Martin Hugh Goodfellow;156
+7217880;Robert F. MacInnis;85
+7217881;James C. R. Purbrick;158
+7217882;Elena Chernikova;188
+7217883;Charles Harkness Forsyth;7
+7217884;Mihai Valentin Tablan;42
+7217885;Abdullah Mohd Zin;19
+7217886;Harald Braun;162
+7217887;Fotis Liarokapis;185
+7217888;Khattab M. Ali Alheeti;28
+7217889;Mohamed Juma Al Darmaki;185
+7217890;Geoffrey Ellis;83
+7217891;Muntadher Fadhil Sallal;142
+7217892;Joanne Thoms;180
+7217893;Vincent Vella;130
+7217894;Ka-Po Lam;197
+7217895;Stephen Andrew Hellberg;176
+7217896;Richard Ellis-Braithwaite;117
+7217897;Jonathan Kochems;70
+7217898;A. Stott;172
+7217899;N. M. Bahoshy;115
+7217900;Marco Bonzanini;14
+7217901;Hanan Halawani;174
+7217902;Georgios Kontonatsios;36
+7217903;Victor Bandur;87
+7217904;Sheng Song Mei;37
+7217905;Sotirios Ch. Diamantas;177
+7217906;J. A. Chang;149
+7217907;V. Thevendran;158
+7217908;M. Tajdini;17
+7217909;Tracey Ann Bale;166
+7217910;Dari Trendafilov;73
+7217911;Babak Khazaei;119
+7217912;Muan Hong Ng;144
+7217913;Keeley Alexandria Crockett;192
+7217914;Ashutosh Trivedi 0001;36
+7217915;Jawad Hasan Yasin AlKhateeb;72
+7217916;J. Drummond;96
+7217917;Ragad Mohammad Allwihan;122
+7217918;Weigang Wang;141
+7217919;Graham N. C. Kirby;15
+7217920;Michel F. Randrianandrasana;107
+7217921;Gilbert Thomas Laycock;112
+7217922;Geoffrey Muragori Macharia;65
+7217923;Paul D. Hankin;115
+7217924;Jade Hind;55
+7217925;Gabriela Asli Rino Nesin;197
+7217926;Stewart John Marshall Green;154
+7217927;Eduardo Fernández Canga;155
+7217928;R. Daniel Resler;55
+7217929;Michael John Short;41
+7217930;Lawrence A. Spracklen;103
+7217931;Nourah Shenaiber;60
+7217932;Jennifer Ferreira;185
+7217933;Murat Haciomeroglu;161
+7217934;Nora Alkhaldi;165
+7217935;Chris H. Pratten;132
+7217936;Jane Sinclair;19
+7217937;Mathieu Verbaere;171
+7217938;Zbigniew Kwecka;112
+7217939;Wim Julien Cornelius Melis;19
+7217940;Anne Johnstone;118
+7217941;Stephen O. Otim;31
+7217942;Florian Block;151
+7217943;Richard Pollard;36
+7217944;Richard Mark Downing;196
+7217945;Dilshat Hewzulla;32
+7217946;Hugo Fuks;135
+7217947;Tharinee Ramasoot;161
+7217948;Yan Li 0031;157
+7217949;Gabor Kecskemeti;72
+7217950;Richard Anthony Russell;89
+7217951;Huanjia Yang;103
+7217952;Jonathan H. Fernyhough;36
+7217953;Jeffrey S. Fenton;73
+7217954;Yuedong Song;69
+7217955;Donald M. S. Clark;90
+7217956;Francis Oliver Bunnin;25
+7217957;Nidal A. Al-Dmour;60
+7217958;Jeunese A. Payne;162
+7217959;Khaled Mohsen Ali-Faris Al-Hazmi;46
+7217960;Karel Fuka;107
+7217961;Sulaiman Al Amro;29
+7217962;Junyao Huang;143
+7217963;Ana Maria Dinis Moreira;33
+7217964;Amirthalingam Ramanan;115
+7217965;Galal Hassan Galal;83
+7217966;Syed Noor-ul-Hassan Shirazi;131
+7217967;Barbaros Yet;3
+7217968;Peter Cowen;133
+7217969;Garry Smith;17
+7217970;John Nigel Gaunt Brittan;40
+7217971;Yu Liu 0018;160
+7217972;Nina Vyas;12
+7217973;Neil Duncan McIntyre;79
+7217974;Andreas Schuh;104
+7217975;Roderick Chapman;45
+7217976;Colin Rothwell;46
+7217977;Maher Al-Aboodi;45
+7217978;Chen Mao;36
+7217979;Andreas Komninos;92
+7217980;Jane Yin-Kim Yau;88
+7217981;David England;38
+7217982;Silke Maren Witt;151
+7217983;Muna Hamdi;15
+7217984;Khawaja Al-M. Haq;171
+7217985;Robert Stewart 0001;147
+7217986;Tatiana Vladimir Balikhina;140
+7217987;C. Y. Wang 0001;174
+7217988;Zaid Al-Zobaidi;153
+7217989;Noushin Najjari;69
+7217990;Ali Alqahtani;135
+7217991;Mary Pamela Zajicek;136
+7217992;G. C. Jain;48
+7217993;Michael Morak;8
+7217994;Yangyue Feng;48
+7217995;Jan M. Maciejowski;168
+7217996;Yasin I. Rosowsky;94
+7217997;Efstratios Doukakis;37
+7217998;Marko Bacic;153
+7217999;Roger Collins;194
+7218000;Oche Omobamibo Ejembi;63
+7218001;Natalia Edwards;49
+7218002;Dorine Gevaert;187
+7218003;Dominic Roger Camus;141
+7218004;Lorenzo Clemente;99
+7218005;Peter J. Scott;100
+7218006;Abdenour Amroun;95
+7218007;V. S. Sunderam;129
+7218008;Muhammad Tahir Qadri;62
+7218009;Kent McClymont;95
+7218010;Yang Hu 0004;33
+7218011;D. C. Daws;162
+7218012;Fred Howell;110
+7218013;Ross Horne;10
+7218014;Milena Radenkovic;162
+7218015;James Pycock;146
+7218016;Vasileios Triantafyllidis;182
+7218017;Peter Hornsby;119
+7218018;Ahmad Lutfi Amri Bin Ramli;194
+7218019;Osama Younes;92
+7218020;Mohamed S. El-Azhari;193
+7218021;Mustafa Ali;94
+7218022;Paolo Zuliani;77
+7218023;Thao P. Le;101
+7218024;Carolyn E. Phelan;103
+7218025;Michael Harris;141
+7218026;Mustafa A. Abusalah;141
+7218027;Matthew John Storey;id
+7218028;Shisheng Wang;21
+7218029;Michael Rogers;148
+7218030;Hao Wu 0038;52
+7218031;Andrew Ravenscroft;18
+7218032;Muhammad Anwar-ur-Rehman Pasha;149
+7218033;Nirmalie Chandrika Wiratunga;8
+7218034;Nicholas Alexander Johnson;56
+7218035;Abdulkadir Farah;30
+7218036;Haiyan Wang;173
+7218037;Mathieu Bergeron;84
+7218038;Christopher Lyon Anderson;55
+7218039;Christopher Gathercole;155
+7218040;Marilyn Lougher Vaughn;69
+7218041;Shin-ya Katsumata;98
+7218042;Essam Ghadafi;190
+7218043;S. H. Jamieson;175
+7218044;Albert Alderson;76
+7218045;Bader Almutairi;134
+7218046;Ian David Bede Stark;101
+7218047;Michael Simpson;149
+7218048;Jianming Cai;17
+7218049;John Denis Wilcock;138
+7218050;Christopher D. S. Moss;133
+7218051;Piyanan Issaravit;102
+7218052;Oscar Naim D'Paola;98
+7218053;Ronaldo Parente de Menezes;91
+7218054;Faraz Khan;187
+7218055;Weiwei He;109
+7218056;Richard Wheeldon;101
+7218057;Edwin J. Bailey;139
+7218058;Ross Duncan;21
+7218059;Neville Grech;id
+7218060;Simon J. Cox;2
+7218061;David Philip Harry Gray;190
+7218062;Kish Shen;24
+7218063;David J. Mayes;13
+7218064;Georgios A. Dafoulas;128
+7218065;Amin Safaei;25
+7218066;Luciano de Errico;116
+7218067;Mark Zarb;164
+7218068;Michael C. Fairhurst;6
+7218069;Heyayda El Ghawalby;79
+7218070;Mohammed Al-Badawi;43
+7218071;Michael James Taylor;10
+7218072;Euclid Keramopoulos;188
+7218073;Nikitas Vaptismas;167
+7218074;Christopher Piers Fowler;1
+7218075;Sara Elisabeth Adams;103
+7218076;Sunil Nakrani;126
+7218077;Muhammad Kamran Naeem;192
+7218078;P. R. S. White;147
+7218079;Ahmad Khonsari;89
+7218080;Ali Obied;187
+7218081;Bernardus Ridder;94
+7218082;Jennifer George;145
+7218083;Richard Ian Taylor;181
+7218084;Georgios Kyritsis;25
+7218085;Michael Sheldon;49
+7218086;Barney Pell;91
+7218087;Mike Robinson;131
+7218088;Paul David Tar;104
+7218089;Richard Clayton;148
+7218090;Steven J. Murdoch;87
+7218091;James Edwards 0004;1
+7218092;Thomas Andrew Kean;32
+7218093;Malte Plath;17
+7218094;Saleh M. Altowaijri;156
+7218095;Sergio Bravo-Solorio;153
+7218096;C. Hawksley;116
+7218097;Albin E. Wallace;108
+7218098;Ibrahim Olatunji Idowu;9
+7218099;Alfred L. Brown;76
+7218100;Afzan Adam;164
+7218101;Charles Iheagwara;3
+7218102;Ahmad Shubati;156
+7218103;Amr Jadi;127
+7218104;Diego Bricio Hernandez-Castanos;47
+7218105;Dima Damen;143
+7218106;Baharak Ahmaderaghi;86
+7218107;José Gabriel de Figueiredo Coutinho;13
+7218108;Johannes Dwiartanto;117
+7218109;Paul Slavin;130
+7218110;Dorothy Ndedi Monekosso;106
+7218111;Jan Drugowitsch;14
+7218112;Kevin Curran;130
+7218113;Ben Kirman;182
+7218114;Cosmos Andrea Nicolaou;131
+7218115;Anthony Hennessey;68
+7218116;Majid Azarakhsh;26
+7218117;Alvin Kee Keong Tan;121
+7218118;Fabio Papacchini;75
+7218119;Stuart Richard Matthews;156
+7218120;Fritz Georg Wollenweber;60
+7218121;Rudy Prabowo;82
+7218122;Ying Han;77
+7218123;Moussa Ouedraogo;33
+7218124;Nicholas John Rothwell;101
+7218125;J. K. Voice;47
+7218126;Yishi Zhao;117
+7218127;Sasikumar Punnekkat;23
+7218128;Alvaro Francisco Huertas-Rosero;149
+7218129;Siti Rohkmah Binti Mohd Shukri;154
+7218130;Tommaso D'Odorico;188
+7218131;David A. Kinloch;58
+7218132;Ali Mohammed S. M. Al-Khouri;106
+7218133;Ahmad Salah El Ahmad;7
+7218134;Edward Chi-Man Cheng;176
+7218135;David Cobham;44
+7218136;Mohammed AlRahmawy;122
+7218137;Graeme Richard Smith;197
+7218138;P. G. Kendrick;120
+7218139;Fatimah Abdulsattar;149
+7218140;Tran Thi Hong Minh;106
+7218141;Anton Lokhmotov;15
+7218142;Martin Peniak;25
+7218143;Jamie Hillman;60
+7218144;Nicolas Villar;157
+7218145;Catherine Teehan;168
+7218146;Robert Cain;26
+7218147;James Alexander Osborne;70
+7218148;Nouf Aljaffan;91
+7218149;Edward M. Hadley;143
+7218150;Nauman Ahmed Khan;73
+7218151;Angela Lin;50
+7218152;Philipp Hennig;129
+7218153;Julie Elizabeth Weeds;187
+7218154;Daniela Karin Busse;57
+7218155;Rafael Henkin;166
+7218156;Martin Flintham;92
+7218157;Ruhma Tahir;34
+7218158;M. R. Harris;18
+7218159;Gudmund Grov;27
+7218160;Raphael Haskell;44
+7218161;Yongyan Zheng;116
+7218162;A. Rizk;14
+7218163;S. J. Cahill;48
+7218164;David Picado-Muiño;111
+7218165;Dantong Liu;162
+7218166;Xiaohu Liu;54
+7218167;Vijay K. Dialani;98
+7218168;Nasir Touheed;117
+7218169;Bill Stoddart;25
+7218170;Nasser Salem Abouzakhar;194
+7218171;David J. King;75
+7218172;Mircea Cimpoi;150
+7218173;Alexandros Bouganis;42
+7218174;Carl Benjamin Simmons;63
+7218175;Xiong Yu;144
+7218176;Vasileios Exadaktylos;42
+7218177;Ran Tao 0001;186
+7218178;Gemmelia Eve Stapleton;68
+7218179;A. S. Janet Van Der Linden;84
+7218180;Alexander M. W. Peck;69
+7218181;Galpayage Don Susantha Prasad Wilamaratne;93
+7218182;Christopher Michael Angus;26
+7218183;Jonathan Starck;1
+7218184;Simon Moss;182
+7218185;Randall J. Stark;125
+7218186;Lu Lou;173
+7218187;Adrian Stanley;176
+7218188;Liang Zhao 0004;77
+7218189;Daniel Paul Schostak;108
+7218190;Sue Black 0001;128
+7218191;Bogdan Vrusias;15
+7218192;Andrew Secker;148
+7218193;Bholanathsingh Surajbali;15
+7218194;Aram Balian;117
+7218195;Umran Ali;44
+7218196;Chaiyakorn Yingsaeree;56
+7218197;Michaela M. Black;158
+7218198;R. F. Smith;101
+7218199;Yuan Zhan;115
+7218200;David Streader;156
+7218201;Hüseyin Pehlivan;73
+7218202;George I. Pangalos;191
+7218203;Jennifer Ann Longster;84
+7218204;Abbas A. Haydari;28
+7218205;Maria Ulfah Siregar;128
+7218206;Marcos Francisco Rosetti Sciutto;199
+7218207;Mohammad Sapiyan;180
+7218208;Ben Salem;101
+7218209;Stewart Long;93
+7218210;Alex Pfister;54
+7218211;Shengchen Li;94
+7218212;Nasser Alavi-Naeini;159
+7218213;Peter de Bourcier;44
+7218214;Pan Hui;174
+7218215;Shinichiro Matsunaga;84
+7218216;Kevin R. Page;35
+7218217;Robert Hamill;69
+7218218;Matthew Butler 0001;77
+7218219;Ivans Lubenko;156
+7218220;Chien-An Chen;20
+7218221;Maria Maleshkova;89
+7218222;Cheng Hu 0006;197
+7218223;Einar Thorsen;2
+7218224;Ho Duc Thang;111
+7218225;Ben Ibinson;149
+7218226;Ian Kirkland Livingstone;192
+7218227;Evangelia Kalyvianaki;126
+7218228;Tibor Sándor Bálint;92
+7218229;Taiwo Oladipupo Ayodele;78
+7218230;Farzaneh Sarafraz;135
+7218231;Mohammed Ibrahim Alodib;67
+7218232;Hossein Ragheb;89
+7218233;Cecília Mary Fischer Rubira;59
+7218234;Hsiang-Shang Ko;99
+7218235;C. Eddie Moxey;50
+7218236;C. P. Traynar;156
+7218237;Yuan-Chi Tseng;97
+7218238;Mark Andrew Stephens;45
+7218239;Andi Bejleri;138
+7218240;J. Psyrrakis;57
+7218241;Christian Steinruecken;169
+7218242;Daniel Taylor 0001;25
+7218243;Pierre-André Dardignac;74
+7218244;Christopher Holmes;83
+7218245;Matthew J. Beal;93
+7218246;Abdallah Deeb I. Al Zain;2
+7218247;M. I. Davies;27
+7218248;Antônio de Pádua Braga;189
+7218249;Alastair H. Cummings;179
+7218250;Adrian Francalanza;25
+7218251;Julia Hunter;41
+7218252;Alexander J. Pinkney;116
+7218253;Marie Owens;187
+7218254;Muhammad Naeem Ahmed Khan;165
+7218255;Richard Stocker 0001;88
+7218256;Remi Jounghuem Kwon;141
+7218257;Osama M. Dorgham;76
+7218258;Fahad Abdulkareem Alarifi;72
+7218259;Mohd Rossmadi Bin Mokhtar;40
+7218260;Brian Bowen;22
+7218261;R. Ryde;87
+7218262;Sarah Chisholm;155
+7218263;Jie Li 0021;172
+7218264;Edward Walker;140
+7218265;Long Chen 0008;156
+7218266;Hanting Xie;196
+7218267;Matthew Hudson;126
+7218268;Chanboon Sathitwiriyawong;125
+7218269;Dimitrios Paris Darzentas;70
+7218270;Johnston Paul Wray;125
+7218271;Simon McGinnes;128
+7218272;Imanol Luengo;73
+7218273;Frank Taylor;178
+7218274;Robert Warrender;74
+7218275;Wayne Clements;19
+7218276;C. Ryan;16
+7218277;Rakkrit Duangsoithong;25
+7218278;Jane Hillston;128
+7218279;Nir Oren;17
+7218280;Emmanouil I. Marakakis;189
+7218281;Soonhwa Lee-Klenz;120
+7218282;Flavien Flandrin;186
+7218283;Lin Han;138
+7218284;Stephen Richard Gulliver;88
+7218285;Sang Cong Tran;114
+7218286;Thomas James Harte;59
+7218287;Gishantha I. F. Thantulage;55
+7218288;Pedro Miguel Abreu Silva;71
+7218289;Joseph Phillips;72
+7218290;Ilango Leonardo Sriram;108
+7218291;Adam Back;25
+7218292;Paulo de Castro Aguiar;182
+7218293;Quynh H. Nguyen;23
+7218294;Timothy David Blanchard;170
+7218295;Chathura M. Sarathchandra Magurawalage;52
+7218296;Iman Alsharhan;84
+7218297;Udeme Ekong;9
+7218298;Mohammadreza Asghari Oskoei;183
+7218299;Rashiq Rafiq Marie;133
+7218300;Julius Tanyu Nganji;3
+7218301;Marco Polo Perez Cervantes;7
+7218302;Chengpu Li;156
+7218303;Yongqiang Zhou;103
+7218304;Bijan Shoushtarian;101
+7218305;Ivan D. Crawford;183
+7218306;Emeka Nwankwor;20
+7218307;Andrew Batchelor;1
+7218308;William Benfold;79
+7218309;Faisal Mustafa;181
+7218310;Mohamed Hussein 0001;4
+7218311;Hamid Ohadi;18
+7218312;Christine Franziska Grimm;160
+7218313;James R. Cowie;44
+7218314;Heather Maclaren;49
+7218315;Somnath Ghosh;107
+7218316;Alen D. Shapiro;88
+7218317;Kaushala Dias;22
+7218318;Nuzhah Gooda Sahib;62
+7218319;Majed Farrash;175
+7218320;Marvin G. Kelly;97
+7218321;Antonis D. Papatsaras;173
+7218322;Kostas Stergiou 0001;71
+7218323;Rex Winsbury;16
+7218324;Minahi Alotaibi;18
+7218325;Timothy M. Jones 0001;193
+7218326;Ian McDonald;23
+7218327;U. Ferizi;127
+7218328;Ian Michael O'Neill;158
+7218329;Peter W. J. Morris;193
+7218330;James G. Adam;11
+7218331;Norbert Erich Buch;114
+7218332;Anthony Gribben;56
+7218333;Fadi Safieddine;135
+7218334;Michele Filannino;28
+7218335;Vladislav Kramarev;11
+7218336;Lyndon Paul Drake;175
+7218337;Graeme N. Dixon;146
+7218338;Jelizaveta Konstantinova;62
+7218339;J. Sadek;159
+7218340;Po Leung;93
+7218341;Yuning Chai;102
+7218342;Anna K. Jordanous;86
+7218343;Qiao Tang;47
+7218344;Firas Omar;71
+7218345;Amar Pravin Dhokia;93
+7218346;Elmawati Laksmani Sutanto;149
+7218347;Sam Cramer;71
+7218348;Leighton Folkes;66
+7218349;Sean Moran;128
+7218350;Fabio Massimo Zennaro;99
+7218351;Mustapha Soufian;13
+7218352;Ryan Dalzell;124
+7218353;Euan Strachan;176
+7218354;Alan James Warn;183
+7218355;Sanaa Abdullah M. Sharaf;141
+7218356;Emine Gokce Aydal;162
+7218357;Matthew Leeke;110
+7218358;William Blum;56
+7218359;Steven Gregory;39
+7218360;Robert J. Mullen;125
+7218361;Alfred Dielmann;124
+7218362;Tawunrat Chalorthorn;172
+7218363;Nazlia Omar;80
+7218364;Zhibin Niu;158
+7218365;Cory M. Knapp;19
+7218366;Renato Samperio Melgoza;196
+7218367;Lionel Barnett;26
+7218368;Zang Yeng;139
+7218369;Robert Wanat;106
+7218370;Jan Chircop;33
+7218371;Thorsten Gerdsmeier;176
+7218372;Kai Sun 0002;5
+7218373;Andre Oboler;178
+7218374;Alwin de Rooij;41
+7218375;Fathi Hassan Saad Mohammed;159
+7218376;Jonathan Dale;162
+7218377;Michael Andrew Lynch;30
+7218378;R. Mandava;11
+7218379;Nicolas Oros;90
+7218380;Michael A. Firth;4
+7218381;E. J. A. Davison;37
+7218382;Javeed I. Mhar;47
+7218383;Luca Penso Dolfin;16
+7218384;Thomas Henry Outram Beach;134
+7218385;Daniel Parnham;158
+7218386;Paul Edward McKechnie;68
+7218387;Mohammad Raza;191
+7218388;Mark Davoren;16
+7218389;Stephen McGregor;104
+7218390;Paul Grigoras;4
+7218391;Anna Magdalena Kosek;108
+7218392;Zhe Jiang 0004;85
+7218393;J. J. D'Azzo;90
+7218394;Vishnu Arun Kumar Thumatty Rajan;125
+7218395;Pascal Kesseli;145
+7218396;Michael Leitner 0001;186
+7218397;H. A. Barker;172
+7218398;Surej Mouli;36
+7218399;Zohreh Zakeri;194
+7218400;Sabine Süsstrunk;161
+7218401;Lachlan Urquhart;90
+7218402;Teng Fu;167
+7218403;Pollie Barden;108
+7218404;Inah Omoronyia;166
+7218405;Rachel Joy Craddock;149
+7218406;Richard John Stapenhurst;161
+7218407;P. D. Pearce;111
+7218408;Fabio Ciravegna;181
+7218409;Lawrence Bull;11
+7218410;Jianqiang Yang;188
+7218411;Jacqueline Anne Bettess;113
+7218412;Jonathan Anderson;7
+7218413;Amir Tomer;182
+7218414;Alwyn Barry;15
+7218415;Geoffrey Livingston Burn;100
+7218416;Jocelyn Wishart;180
+7218417;Hanita Hassan;75
+7218418;Richard Bache;149
+7218419;Epameinondas Gasparis;199
+7218420;Melanie Schirmer;150
+7218421;Daniel J. Holmes;15
+7218422;Seyed Mohammadali Eslami;90
+7218423;Dymitr Ruta;140
+7218424;Alexandre N. Pechev;53
+7218425;Alvin C. M. Kwan;155
+7218426;Paul Butterley;12
+7218427;David Maxwell;77
+7218428;Kostantinos Dryllerakis;106
+7218429;Ran Zhao 0002;156
+7218430;S. A. Kent;172
+7218431;A. K. Chakravarty;53
+7218432;Colin G. Johnson;169
+7218433;Dimitris Xydas;29
+7218434;Mutiq Mohammed Almutiq;122
+7218435;M. V. Mason;131
+7218436;Philip Woodall;134
+7218437;Harry Goldingay;87
+7218438;Olle Fredriksson;198
+7218439;Rafal Bogacz;44
+7218440;Bobby R. Bruce;155
+7218441;James Ballantyne;76
+7218442;Lars Kotthoff;70
+7218443;James Ohene-Djan;159
+7218444;Christian Wagner 0002;195
+7218445;Vasileios Vasaitis;128
+7218446;Benjamin Charles Davis;194
+7218447;Naghmeh Moradpoor Sheykhkanloo;10
+7218448;J. A. Gibbons;187
+7218449;Divya Prasad;132
+7218450;Stamatia Giannarou;61
+7218451;Meine Jochum Peter van der Meulen;168
+7218452;Nadia Alshahwan;195
+7218453;Ee Leong Lim;146
+7218454;J. G. St. Quinton;179
+7218455;Keyssy Guerra Perez;29
+7218456;Naresh M. Patel;55
+7218457;Saul Daniel Santilan-Gutierrez;186
+7218458;Sobia Khan;135
+7218459;Alistair Gibson Rust;153
+7218460;Tajudeen Abayomi Atolagbe;87
+7218461;M. Frentiu;88
+7218462;Brian Mitchell;75
+7218463;Xiaoyu Cheng;id
+7218464;Justice Opara-Martins;86
+7218465;Fariborz Entezami;120
+7218466;Peter J. Brown;32
+7218467;Fabrice P. Retkowsky;3
+7218468;Binhui Chen;91
+7218469;Michael Rossa;11
+7218470;Victor Hernandez-Urbina;16
+7218471;Panagiotis Saragiotis;50
+7218472;Francis Rico Domingo;164
+7218473;Ruixin Gao;49
+7218474;Sye Loong Keoh;118
+7218475;Srdan Marinovic;160
+7218476;Yolanda Vazquez-Alvarez;174
+7218477;Charalampos I. Theodoulidis;23
+7218478;Fatima Cristina Canazaro Dargram;22
+7218479;Allan Ramsay;196
+7218480;Elisabetta Trezzi;115
+7218481;Houda Benbrahim;147
+7218482;E. Ribes Gomez;91
+7218483;Iryna Tsimashenka;33
+7218484;Naseer Al-Jawad;192
+7218485;Mai Xu;127
+7218486;Nuno Amaálio;164
+7218487;Mohamed Mahmoud Youssef Shalaby;82
+7218488;H. E. Jowsey;98
+7218489;Paul James Power;39
+7218490;Shenkai Gu;18
+7218491;Stephen Meirion Hitchcock;14
+7218492;Robert D. Fink;156
+7218493;Perukrishnen Vytelingum;12
+7218494;Boriana Koleva;192
+7218495;Nickos Vasilonikolidakis;31
+7218496;Muhammad Garba;156
+7218497;Sherif El-Sayed Hussein;162
+7218498;Josef Sivic;196
+7218499;Michael John Arrowsmith;168
+7218500;Lailatul Qadri Zakaria;134
+7218501;Paul Gerard Donnelly;93
+7218502;Sarah Kettley;4
+7218503;Robert H. Wortham;85
+7218504;Anjali Bharatkumar Samani;2
+7218505;Paul Andrew Booth;46
+7218506;Paul Howells;69
+7218507;Muhammad Adnan 0001;125
+7218508;Xingbo Li;119
+7218509;Mark Paul D'Iverno;66
+7218510;Aamir Khan;180
+7218511;Christopher Rohan Senanayake;149
+7218512;Sameera Alshayji;74
+7218513;Robert Archer Snowdon;100
+7218514;Mark Cameron Little;52
+7218515;T. A. Berson;181
+7218516;Sallyann Freudenberg;2
+7218517;Renata Obiala;174
+7218518;K.-M. Chao;70
+7218519;Majed Mohammed Abdullah Al-Saeed;154
+7218520;Enrique Edgar Villeda;63
+7218521;Jian Chang;62
+7218522;Manuel Marina Muller;55
+7218523;Ahmed A. Elfituri;97
+7218524;Sebastian Friston;85
+7218525;Shern Shiou Tan;148
+7218526;Robert Steven Patching;129
+7218527;Kimberley M. Proudlock;5
+7218528;Claire Ingram;125
+7218529;W. A. K. Al-Hamdani;73
+7218530;Dimitrios Liarokapis;163
+7218531;Oscar Almer;157
+7218532;N. M. Hart;156
+7218533;Thomas Hedges;185
+7218534;Ieuan Evans;53
+7218535;Nithya Gopalakrishnan Nair;45
+7218536;Ali Ghoroghi;26
+7218537;Edward Blair Clark;86
+7218538;Hao Jing;105
+7218539;S. Dimolitsas;56
+7218540;Victor González-Castro;109
+7218541;Stefanos Eleftheriadis;39
+7218542;Bing Han 0002;158
+7218543;Florian Adamsky;4
+7218544;Bharath Sudev;65
+7218545;Jerone Theodore Alexander Andrews;149
+7218546;Richard Holden;106
+7218547;Steven J. Ramsay;138
+7218548;Ricardo Contreas;14
+7218549;Muhammad Arifur Rahman;120
+7218550;Harsha Nishantha Deepal Appuhami Ralalage;id
+7218551;Athena Eftychiou;97
+7218552;Richard John Patrick Harrison;194
+7218553;Armin Shams Baragh;40
+7218554;Mohammad H. Alshira'H;7
+7218555;L. Sun Woh;194
+7218556;Yiwei Zhang 0002;14
+7218557;Shahriar Asta;42
+7218558;Kevin Johnson 0001;88
+7218559;Nor Hisham Hamid;53
+7218560;Gisele Lobo Pappa;190
+7218561;Gary Allen;171
+7218562;Arthur W. S. Cater;24
+7218563;Yukun Liu;68
+7218564;Julius C. Mong;104
+7218565;Surachai Ongkittikul;165
+7218566;Richard Bartlett Smith;61
+7218567;Khalid Ibrahim AlShitri;98
+7218568;Jose Rivera-Rubio;106
+7218569;Mario Graff-Guerrero;177
+7218570;Kenneth Gavin Neil Sutherland;89
+7218571;Lee Prangnell;171
+7218572;Jan Jürjens;26
+7218573;Faisal Salem Alsrheed;38
+7218574;Tuan Vuong;85
+7218575;Mark James Weal;184
+7218576;Demetris Kyriacou;81
+7218577;Andy Shui-Yu Lai;40
+7218578;Christopher Watson 0002;12
+7218579;D. A. Horne;56
+7218580;Daniel John Burton;80
+7218581;Antonio Robles-Kelly;40
+7218582;Zainab Ali Abbood;193
+7218583;Christopher Wood;40
+7218584;Weidong Gong;69
+7218585;Simon Butler 0001;15
+7218586;Zheng Wang 0001;128
+7218587;Saeed Q. Al-Khalidi Al-Maliki;31
+7218588;Golnaz Badkobeh;32
+7218589;Brian Austin Tate;116
+7218590;Weizhen Yang;189
+7218591;Luis Miramontes Hercog;119
+7218592;Changiz Delara;171
+7218593;Samer Sa'adah;186
+7218594;Siamak Tavakoli;28
+7218595;K. P. Yu;25
+7218596;Ted Emerson Dunning;62
+7218597;Soha Maad;9
+7218598;Masood Uzzafer;144
+7218599;Victor Zverovich;193
+7218600;Martin J. Wheatman;133
+7218601;Mark Treglown;64
+7218602;Konstantinos Bougioukos;101
+7218603;Abdelhamid Abdouni;187
+7218604;Y. J. Jiang;186
+7218605;Alberto Pettorossi;167
+7218606;M. Alauddin;70
+7218607;Abdulmalik Danlami Mohammed;54
+7218608;Ching-Yun Chang;102
+7218609;Simon R. Rollinson;123
+7218610;Gary Unthank;78
+7218611;Asaad Moosa;86
+7218612;Benjamin James Blundell;96
+7218613;Steven Paul Bradley;70
+7218614;James Allwright;100
+7218615;Fernando Martínez Ortuño;96
+7218616;Louai Maghrabi;136
+7218617;Nwagwu Honour Chika;61
+7218618;Mohammed Alreshoodi;85
+7218619;Hengzhi Wu;164
+7218620;Chi-yeung Lee;171
+7218621;Kurt E. Dusterhoff;135
+7218622;Mohsen Mesgarpour;114
+7218623;Yufan Hu;115
+7218624;Julian Ritchie;120
+7218625;Andreas Schöter;121
+7218626;Michael Green;5
+7218627;Tarkan Tahseen;37
+7218628;Susan E. Spenceley;107
+7218629;Christopher Callum Thompson;42
+7218630;L. M. Hobbs;180
+7218631;Matthew Ball;150
+7218632;Alan Dearle;90
+7218633;Robert Piro;174
+7218634;Martin J. Colley;26
+7218635;Justin R. Andrews;62
+7218636;Mark Owen;157
+7218637;Paulo Jorge Gonçalves Pinto;37
+7218638;Andrea Kleinsmith;181
+7218639;Mohammad Dastbaz;1
+7218640;Tarag Fahad;57
+7218641;Mohammad Hassan Farhoudi;79
+7218642;Cliff B. Jones;24
+7218643;Winston Anthony D'Souza;118
+7218644;James Dyer;82
+7218645;Robert F. Oates;20
+7218646;Tania Patricia Heap;138
+7218647;Vajirapan Panumong;155
+7218648;Ruihao Li;114
+7218649;Fengyun Lu;101
+7218650;S. N. Khan;id
+7218651;Turki Alanzi;178
+7218652;Stephen Murrell;73
+7218653;Frøy Birte Bjørneseth;185
+7218654;E. Moseley;117
+7218655;Thusitha Bernad Abeysekara;162
+7218656;Yang Lin;84
+7218657;Matthew Pike;76
+7218658;Mandy Haggith;37
+7218659;Marwa Salayma;95
+7218660;J. B. Seamus Gallagher;67
+7218661;Hany Azzam;159
+7218662;Sean Reed;148
+7218663;Samir S. Al-Khayatt;170
+7218664;Kashif Kifayat;72
+7218665;Kwok Cheung Yeung;180
+7218666;Gilberto Amado de Azevedo Cysneiros Filho;40
+7218667;Joanna Katherine Hartley;179
+7218668;Kwanchiva Thangthai;106
+7218669;C. Pattinson;64
+7218670;Rosilah Hassan;114
+7218671;Biju John;182
+7218672;Ana Matran-Fernandez;155
+7218673;Alexis L. Lluis-Gomez;25
+7218674;Fangzhong Su;123
+7218675;Timothy J. Troup;173
+7218676;Christopher John Price;33
+7218677;Simon Yuill;34
+7218678;Alejandra Duenas;28
+7218679;Xian Chen;97
+7218680;Ian D. Watson;190
+7218681;Keith Sibson;123
+7218682;Dominik Schmidt;48
+7218683;Thabat Thabet;155
+7218684;Hadi Larijani;57
+7218685;Uchenna Ojiako;56
+7218686;Geoffrey Tochukwu Ndu;77
+7218687;Mei Shin Oh;62
+7218688;Jamil Ahmad;25
+7218689;Mark Dixon;47
+7218690;Irfan Habib;121
+7218691;Gi Hwan Cho;174
+7218692;Sahar Ahmadzadeh-Ghahnaviehei;186
+7218693;Bihan Jiang;68
+7218694;Richard P. Hopkins;163
+7218695;Matthew Jess Brook;56
+7218696;Jamal Al-Sumait;5
+7218697;Cesar Augusto Marin Pitalua;17
+7218698;J. B. Comerford;71
+7218699;Faisal Azhar;17
+7218700;Mohammad Bsoul;135
+7218701;Ardeshir Osanlou;153
+7218702;Kevin James Spellman;180
