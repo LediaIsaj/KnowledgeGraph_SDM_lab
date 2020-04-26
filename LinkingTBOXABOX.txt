@@ -1,0 +1,126 @@
+# Repository Name: SDM_Lab3_PartC_InferenceON
+# Repository Name: SDM_Lab3_PartC_InferenceOFF
+
+#Company
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type owl:Company
+}
+WHERE {
+	?a base:affiliationType "Company"
+}
+
+#University
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type owl:University
+}
+WHERE {
+	?a base:affiliationType "University"
+}
+
+#Author
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type base:Author
+}
+WHERE {
+	?a foaf:firstName ?b
+}
+
+#Article
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type base:Full_Paper
+}
+WHERE {
+	?a base:contains ?b
+}
+
+#Review
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type base:Review
+}
+WHERE {
+	?a base:suggestedDecision ?b
+}
+
+#Reviewer
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type base:Reviewer
+}
+WHERE {
+	?a base:does ?b
+}
+
+#Keyword
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type base:keyword
+}
+WHERE {
+	?a base:keyword ?b
+}
+
+#Journal
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?proceeding rdf:type owl:AcademicJournal
+}
+WHERE {
+    {
+        SELECT DISTINCT (?a AS ?proceeding) WHERE
+        {?b base:published_in_journal ?a}
+    }
+}
+
+#Conference
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?proceeding rdf:type owl:AcademicConference
+}
+WHERE {
+    {
+        SELECT DISTINCT (?a AS ?proceeding) WHERE
+        {?b base:published_in_conference ?a}
+    }
+}
+
+#Workshop
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?proceeding rdf:type base:workshop
+}
+WHERE {
+    {
+        SELECT DISTINCT (?a AS ?proceeding) WHERE
+        {?b base:published_in_workshop ?a}
+    }
+}
+
+#Topic
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://www.SDMLab3.org/ontologies/2020/3/research_articles#>
+INSERT {
+	?a rdf:type base:topic
+}
+WHERE {
+	?a base:topic ?b
+}

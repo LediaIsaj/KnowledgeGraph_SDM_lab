@@ -162,6 +162,11 @@ public class ABOX {
                     .addProperty(model.createProperty(Config.PROPERTY_URL+"volume"), volume)
                     .addProperty(model.createProperty(Config.PROPERTY_URL+"year"), year);
 
+//            if(proceedingType.equals("conf")){
+//                Random random = new Random();
+//                int randomInt = random.nextInt(4);
+//                if(randomInt == 0) proceedingType = "work";
+//            }
             articleProceeding.put(articleID,proceedingType);
         }
         csvReader.close();
@@ -176,6 +181,7 @@ public class ABOX {
     public static void appendArticleProceeding(HashMap<String, String> artProc) throws IOException{
         Model model = ModelFactory.createDefaultModel();
         boolean firstRowFlag = true;
+        HashMap<String, String> procType = new HashMap<>();
 
         // read the csv line by line
         BufferedReader csvReader = new BufferedReader(new FileReader(Config.BRIDGE_ARTICLE_PROCEEDING_PATH));
@@ -193,13 +199,20 @@ public class ABOX {
             String proceedingUri = Config.RESOURCE_URL;
             String proceedingType = "";
             if(artProc.get(articleID).equals("conf")){
+                String procStr = "conf";
+                if(procType.containsKey(proceedingID)){
+                    procStr = procType.get(proceedingID);
+                }else{
+                    Random random = new Random();
+                    int randomInt = random.nextInt(4);
+                    if(randomInt == 0) procStr = "work";
+                    procType.put(proceedingID,procStr);
+                }
+
                 proceedingUri += "PRO-" + proceedingID;
-                Random random = new Random();
-                int randomInt = random.nextInt(4);
-                if(randomInt == 0) proceedingType = "workshop";
-                else proceedingType = "conference";
-            }
-            else{
+                if(procStr.equals("conf")) proceedingType = "conference";
+                else proceedingType = "workshop";
+            }else{
                 proceedingUri += "JO-" + proceedingID;
                 proceedingType = "journal";
             }

@@ -5,11 +5,9 @@ public class Config {
 
     public static final String OUTPUT_PATH = "src/main/resources/out/";
 
-    public static final String BASE_URL = "http://www.SDMLab3.org/ontologies/2020/3/research_articles/";
-//    public static final String PROPERTY_URL = BASE_URL+"property/";
+    public static final String BASE_URL = "http://www.SDMLab3.org/ontologies/2020/3/research_articles";
     public static final String PROPERTY_URL = BASE_URL+"#";
-//    public static final String RESOURCE_URL = BASE_URL+"resource/";
-    public static final String RESOURCE_URL = BASE_URL;
+    public static final String RESOURCE_URL = BASE_URL+"/";
 
     public static final String AUTHOR_PATH = "src/main/resources/node_Author_Updated.csv";
     public static final String BRIDGE_ARTICLE_AUTHOR_PATH = "src/main/resources/bridge_Article_Author.csv";
